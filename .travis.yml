@@ -1,0 +1,53 @@
+language: go
+go:
+- 1.7.1
+env:
+  global:
+  - SSH_KEY="travis_rsa"
+  - GIT_NAME="Aslak Grinsted"
+  - GIT_EMAIL="ag@glaciology.net"
+  - SOURCE_DIR="public"
+  - DEPLOY_BRANCH="source"
+branches:
+  only:
+  - source
+cache:
+  directories:
+  - $HOME/gopath/src/github.com/bep
+  - $HOME/gopath/src/github.com/BurntSushi
+  - $HOME/gopath/src/github.com/cpuguy83
+  - $HOME/gopath/src/github.com/dchest
+  - $HOME/gopath/src/github.com/eknkc
+  - $HOME/gopath/src/github.com/fsnotify
+  - $HOME/gopath/src/github.com/gorilla
+  - $HOME/gopath/src/github.com/hashicorp
+  - $HOME/gopath/src/github.com/kardianos
+  - $HOME/gopath/src/github.com/kyokomi
+  - $HOME/gopath/src/github.com/magiconair
+  - $HOME/gopath/src/github.com/miekg
+  - $HOME/gopath/src/github.com/mitchellh
+  - $HOME/gopath/src/github.com/nicksnyder
+  - $HOME/gopath/src/github.com/pelletier
+  - $HOME/gopath/src/github.com/PuerkitoBio
+  - $HOME/gopath/src/github.com/russross
+  - $HOME/gopath/src/github.com/shurcooL
+  - $HOME/gopath/src/github.com/spf13
+  - $HOME/gopath/src/github.com/yosssi
+  - $HOME/gopath/src/golang.org
+  - $HOME/gopath/src/gopkg.in
+  - $HOME/gopath/pkg/
+  - $HOME/gopath/bin/
+install: go get -v github.com/spf13/hugo
+before_script:
+- pip install --user pygments
+script:
+- git clone https://github.com/digitalcraftsman/hugo-icarus-theme ./themes/hugo-icarus-theme
+- hugo
+- echo "deploy"
+- echo "www.glaciology.net" > ./public/xxxCNAME
+- touch ./public/.nojekyll
+- ls
+- ./scripts/deploy.sh
+before_install:
+- openssl aes-256-cbc -K $encrypted_0f98b515424c_key -iv $encrypted_0f98b515424c_iv
+  -in travis_rsa.enc -out travis_rsa -d

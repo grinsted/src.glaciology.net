@@ -1,0 +1,34 @@
+
+
+find . -type f -name "*.md" -exec sed -i '' 's,https://twitter.com.*status/\(\d+\),{{< tweet \1 >}},g' {} +
+
+find . -type f -name "*.md" -exec sed -i '' 's,layout: post;,layout: publication,g' {} +
+
+find . -type f -name "*.md" -exec sed -i '' 's,https://debris.glaciology.net//,/,g' {} +
+
+find . -type f -name "*.md" -exec sed -i '' 's,-\d+x\d+\.png,.png,g' {} +
+
+find . -type f -name "*.md" -exec sed -i '' 's,&lt;,<,g' {} +
+
+find . -type f -name "*.md" -exec sed -i '' 's,</*span[^>]*>,,g' {} +
+
+echo '<a href="www.link.com">Link</a>' | sed 's/<a href="\([^"]*\)"[^>]*>\([^<]*\)<\/a>/[\2](\1)/'
+
+
+echo '<a href="https://debris.glaciology.net//2016/02/slregions.png" rel="attachment wp-att-41"><img class="size-medium wp-image-41 aligncenter" src="https://debris.glaciology.net//2016/02/slregions-234x300.png" alt="Regional sea level rise" width="234" height="300" srcset="https://debris.glaciology.net//2016/02/slregions-234x300.png 234w, https://debris.glaciology.net//2016/02/slregions.png 533w" sizes="(max-width: 234px) 100vw, 234px" /></a>' | sed 's$<a href="\([^"]*\)"[^>]*><img[^>]*src="\([^"]*\)"[^>]*alt="\([^"]*\)"[^>]*></a>$[![\3](\2)](\1)$'
+
+
+echo '[<span style="color: #0000ff;">asdfasdf</span>' | sed 's,</*span[^>]*>,,g'
+
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
+
+https://twitter.com/spf13/status/666616452582129664
+
+
+[<img class="aligncenter size-full" title="IMG_20160315_164808.jpg" src="https://debris.glaciology.net//2016/03/img_20160315_164808.jpg" alt="image" />](https://debris.glaciology.net//2016/03/img_20160315_164808.jpg)
+
+
+
+echo '[<img class="aligncenter size-full" title="IMG_20160315_164808.jpg" src="https://debris.glaciology.net//2016/03/img_20160315_164808.jpg" alt="image" />](https://debris.glaciology.net//2016/03/img_20160315_164808.jpg)' | sed -e 's,\[.*\]\(.*glaciology.net/+.*jpg\),xxx,g' 
