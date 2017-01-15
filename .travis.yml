@@ -10,7 +10,7 @@ env:
   - DEPLOY_BRANCH="source"
 branches:
   only:
-  - source
+  - master
 cache:
   directories:
   - $HOME/gopath/src/github.com/bep
