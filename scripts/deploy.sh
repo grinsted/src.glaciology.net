@@ -8,9 +8,11 @@ if [ ! -d "$SOURCE_DIR" ]; then
   echo "SOURCE_DIR ($SOURCE_DIR) does not exist, build the source directory before deploying"
   exit 1
 fi
- 
-REPO=$(git config remote.origin.url)
- 
+
+if [ -n "$DEPLOY_REPO" ]; then
+  DEPLOY_REPO=$(git config remote.origin.url)
+fi 
+
 if [ -n "$TRAVIS_BUILD_ID" ]; then
   # When running on Travis we need to use SSH to deploy to GitHub
   #
@@ -26,6 +28,7 @@ if [ -n "$TRAVIS_BUILD_ID" ]; then
   #   GIT_NAME         - The Git user name
   #   GIT_EMAIL        - The Git user email
   #
+  echo DEPLOY_REPO: $DEPLOY_REPO
   echo DEPLOY_BRANCH: $DEPLOY_BRANCH
   echo ENCRYPTION_LABEL: $ENCRYPTION_LABEL
   echo GIT_NAME: $GIT_NAME
@@ -40,8 +43,8 @@ if [ -n "$TRAVIS_BUILD_ID" ]; then
     else
       # switch both git and https protocols as we don't know which travis
       # is using today (it changed!)
-      REPO=${REPO/git:\/\/github.com\//git@github.com:}
-      REPO=${REPO/https:\/\/github.com\//git@github.com:}
+      DEPLOY_REPO=${DEPLOY_REPO/git:\/\/github.com\//git@github.com:}
+      DEPLOY_REPO=${DEPLOY_REPO/https:\/\/github.com\//git@github.com:}
       
       chmod 600 $SSH_KEY
       eval `ssh-agent -s`
@@ -52,10 +55,10 @@ if [ -n "$TRAVIS_BUILD_ID" ]; then
   fi
 fi
  
-REPO_NAME=$(basename $REPO)
+REPO_NAME=$(basename $DEPLOY_REPO)
 TARGET_DIR=$(mktemp -d /tmp/$REPO_NAME.XXXX)
 REV=$(git rev-parse HEAD)
-git clone --branch ${TARGET_BRANCH} ${REPO} ${TARGET_DIR}
+git clone --branch ${TARGET_BRANCH} ${DEPLOY_REPO} ${TARGET_DIR}
 rsync -rt --delete --exclude=".git" --exclude=".travis.yml" $SOURCE_DIR/ $TARGET_DIR/
 cd $TARGET_DIR
 git add -A .
