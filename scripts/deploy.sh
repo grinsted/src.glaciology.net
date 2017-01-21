@@ -9,7 +9,7 @@ if [ ! -d "$SOURCE_DIR" ]; then
   exit 1
 fi
 
-if [ -n "$DEPLOY_REPO" ]; then
+if [ -z "($DEPLOY_REPO+x)" ]; then
   DEPLOY_REPO=$(git config remote.origin.url)
 fi 
 
