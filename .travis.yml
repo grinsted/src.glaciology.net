@@ -7,7 +7,7 @@ env:
   - GIT_NAME="Aslak Grinsted"
   - GIT_EMAIL="ag@glaciology.net"
   - SOURCE_DIR="public"
-  - DEPLOY_REPO="https://github.com/grinsted/grinsted.github.io"
+  - DEPLOY_REPO="https://github.com/grinsted/grinsted.github.io.git"
   - DEPLOY_BRANCH="master"
 branches:
   only:
