@@ -1,7 +1,7 @@
 
 ### The source of Aslak Grinsted's website
 
-Travis Build status ![Build Status](https://travis-ci.org/grinsted/grinsted.github.io.svg?branch=source)
+Travis Build status ![Build Status](https://travis-ci.org/grinsted/src.glaciology.net.svg?branch=master)
 
 This is the source for the website. Currently i am just testing.
 
