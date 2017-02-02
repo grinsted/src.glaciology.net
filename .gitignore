@@ -1,5 +1,6 @@
 #compiled hugo folder
 public/
+themes/
 
 # OS generated files #
 ######################
@@ -10,4 +11,3 @@ public/
 .Trashes
 ehthumbs.db
 Thumbs.db
-
