@@ -26,8 +26,8 @@ theme = "hugo-icarus-theme"
     bio = "Climate Scientist"
     location = "Earth"
     site_description = ""
-    avatar = "/2016/03/aslak-nbi2.jpg"
-    logo = "/2016/02/LOGO20ASLAK20EFFET-petit.png"
+    avatar = "/avatar.jpg"
+    logo = "icon-180x180.png"
 
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
