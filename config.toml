@@ -10,14 +10,11 @@ languageCode = "en-us"
 # googleAnalytics = ""
 # Define the number of posts per page
 
-paginate = 10
+paginate = 12
 footnotereturnlinkcontents = "↩"
-theme = "hugo-icarus-theme"
+theme = "hugo-cryosphere"
 
 
-
-[permalinks]
-    post = "/:year/:month/:day/:slug"
 
 
 [params]
@@ -69,38 +66,20 @@ theme = "hugo-icarus-theme"
     label  = "Categories"
     link   = "categories/"
 
-[social]
-# Add your social network accounts to the profile section on the left
-# by entering your username. The links to your account will be
-# created automatically.
-    github          = "grinsted"
-    gitlab          = ""
-    bitbucket       = ""
-    jsfiddle        = ""
-    codepen         = ""
-    foursquare      = ""
-    dribbble        = ""
-    deviantart      = ""
-    behance         = ""
-    flickr          = ""
-    instagram       = ""
-    youtube         = ""
-    vimeo           = ""
-    vine            = ""
-    medium          = ""
-    wordpress       = ""
-    tumblr          = ""
-    xing            = ""
-    linkedin        = ""
-    slideshare      = ""
-    stackoverflow   = ""
-    reddit          = ""
-    pinterest       = ""
-    googleplus      = ""
-    facebook        = "aslak.grinsted"
-    facebook_admin  = ""
-    twitter_domain  = ""
-    twitter         = "agrinsted"
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fa"
+  link = "mailto:ag@glaciology.net"
+
+[[params.social]]
+  icon = "twitter"
+  icon_pack = "fa"
+  link = "//twitter.com/AGrinsted"
+
+[[params.social]]
+  icon = "github"
+  icon_pack = "fa"
+  link = "//github.com/grinsted"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
