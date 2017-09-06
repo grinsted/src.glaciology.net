@@ -1,7 +1,6 @@
-baseurl = "https://grinsted.github.io"
+baseurl = "https://www.glaciology.net"
 title = "Aslak Grinsted"
 author = "Aslak Grinsted"
-copyright = "Copyright (c) 2016 Aslak Grinsted"
 languageCode = "en-us"
 
 # Enable comments by entering your Disqus shortname
@@ -12,10 +11,10 @@ languageCode = "en-us"
 
 paginate = 12
 footnotereturnlinkcontents = "↩"
-theme = "hugo-cryosphere"
+theme = "hugo-icarus-theme"
 
-
-
+[permalinks]
+    post = "/:year/:title"
 
 [params]
     # Tell me who you are
@@ -25,9 +24,14 @@ theme = "hugo-cryosphere"
     site_description = ""
     avatar = "/avatar.jpg"
     logo = "icon-180x180.png"
+    copyright = "Aslak Grinsted"
 
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
+    disable_mathjax = false # set to true to disable MathJax
+
+    # define which types of pages should be shown. By default the type with the most regular pages
+    mainSections = ["post","publication"]
 
     # Add custom assets with their paths relative to the static folder
 	custom_css = []
@@ -40,21 +44,17 @@ theme = "hugo-cryosphere"
 # E.g.: "Home" appears before all linked posts in the menu
 # and "Tags" / "Categories" after them.
 
-[[params.menu]]
-    before = true
-    label  = "Home"
-    link   = "/"
+
 
 [[params.menu]]
-    before = true
+    before = false
     label  = "Post"
     link   = "/post/"
 
 [[params.menu]]
-    before = true
+    before = false
     label  = "Publications"
     link   = "/publication/"
-
 
 [[params.menu]]
     before = false
@@ -65,6 +65,45 @@ theme = "hugo-cryosphere"
     before = false
     label  = "Categories"
     link   = "categories/"
+
+# Enter a link for the follow button on the left
+[params.profile]
+    follow_button = "https://github.com/grinsted"
+
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# created automatically.
+    github          = "grinsted"
+    gitlab          = ""
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = "agrinsted"
+    youtube         = ""
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = "aslak.grinsted"
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = "agrinsted"
+
 
 [[params.social]]
   icon = "envelope"
@@ -77,13 +116,26 @@ theme = "hugo-cryosphere"
   link = "//twitter.com/AGrinsted"
 
 [[params.social]]
+  icon = "facebook"
+  icon_pack = "fa"
+  link = "//facebook.com/aslak.grinsted"
+
+[[params.social]]
+  icon = "instagram"
+  icon_pack = "fa"
+  link = "//instagram.com/agrinsted"
+
+[[params.social]]
   icon = "github"
   icon_pack = "fa"
   link = "//github.com/grinsted"
 
+
+
+
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    recent_articles = true
-    categories = false
-    tags = false
-    tag_cloud = true
+recent_articles = true
+categories = false
+tags = false
+tag_cloud = false

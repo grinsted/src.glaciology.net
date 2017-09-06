@@ -2,7 +2,9 @@
 
 find . -type f -name "*.md" -exec sed -i '' 's,https://twitter.com.*status/\(\d+\),{{< tweet \1 >}},g' {} +
 
-find . -type f -name "*.md" -exec sed -i '' 's,layout: post;,layout: publication,g' {} +
+
+
+find . -type f -name "*.md" -exec sed -i '' 's,layout:.+,,g' {} +
 
 find . -type f -name "*.md" -exec sed -i '' 's,https://debris.glaciology.net//,/,g' {} +
 
@@ -31,4 +33,4 @@ https://twitter.com/spf13/status/666616452582129664
 
 
 
-echo '[<img class="aligncenter size-full" title="IMG_20160315_164808.jpg" src="https://debris.glaciology.net//2016/03/img_20160315_164808.jpg" alt="image" />](https://debris.glaciology.net//2016/03/img_20160315_164808.jpg)' | sed -e 's,\[.*\]\(.*glaciology.net/+.*jpg\),xxx,g' 
+echo '[<img class="aligncenter size-full" title="IMG_20160315_164808.jpg" src="https://debris.glaciology.net//2016/03/img_20160315_164808.jpg" alt="image" />](https://debris.glaciology.net//2016/03/img_20160315_164808.jpg)' | sed -e 's,\[.*\]\(.*glaciology.net/+.*jpg\),xxx,g'

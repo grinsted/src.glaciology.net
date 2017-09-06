@@ -19,7 +19,7 @@ cleanre = re.compile(r'interface_sidebarlayout:\s*- default\s*', re.MULTILINE |r
 
 
 # traverse root directory, and list directories as dirs and files as files
-for root, dirs, files in os.walk("../content"):
+for root, dirs, files in os.walk("../../content"):
     for file in files:
         if file.endswith('.md'):
 	    	file=os.path.join(root, file)
@@ -50,9 +50,9 @@ for root, dirs, files in os.walk("../content"):
 					print 'No alias'
 					continue
 				aliasurl = re.sub('.*?glaciology.net','',aliasurl)
-			
+
 				print aliasurl
-			
+
 				content = re.sub(headerre,'---\\1aliases:\n  - {}\n---'.format(aliasurl),content)
 				print content
 			else:
@@ -63,9 +63,7 @@ for root, dirs, files in os.walk("../content"):
 				#	continue
 				#content = re.sub(permalinktoalias,'---\\1\\3\n  - \\2',content)
 				print content
-	
+
 			sys.exit(' ')
         	with open(file, 'w') as content_file:
         		content_file.write(content)
-
-	
