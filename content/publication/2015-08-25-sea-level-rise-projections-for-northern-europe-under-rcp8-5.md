@@ -2,12 +2,9 @@
 title: Sea level rise projections for Northern Europe under RCP8.5
 date: 2015-08-25T03:24:00+00:00
 author: aslak
-layout: publication
 Citation:
   - Grinsted, Jevrejeva, Riva, Dahl-Jensen (2015), Sea level rise projections for Northern Europe under RCP8.5, Clim. Res., doi:10.3354/cr01309
 banner: /2016/02/iss043e86375.jpg
-categories:
-  - Publications
 tags:
   - Assessment
   - Baltic

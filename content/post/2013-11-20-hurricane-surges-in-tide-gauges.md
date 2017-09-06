@@ -2,10 +2,7 @@
 title: Hurricane surges in tide gauges
 date: 2013-11-20T01:47:00+00:00
 author: aslak
-layout: post
 banner: /2013/06/Dennis.jpg
-categories:
-  - Debris
 tags:
   - hurricane
   - Storm surge

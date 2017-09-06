@@ -2,10 +2,7 @@
 title: AR5 sea level rise uncertainty communication failure
 date: 2014-10-23T05:05:00+00:00
 author: aslak
-layout: post
 banner: /2014/10/complete-worst.jpeg
-categories:
-  - Debris
 tags:
   - IPCC
   - projections

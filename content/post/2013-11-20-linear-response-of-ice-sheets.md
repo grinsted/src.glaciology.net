@@ -2,10 +2,7 @@
 title: Linear response of ice sheets?
 date: 2013-11-20T01:38:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/bamberaspinall20s2-1.png
-categories:
-  - Debris
 tags:
   - budget
   - ice sheets

@@ -2,10 +2,7 @@
 title: Ice sheets and Semi-empirical models
 date: 2013-11-20T01:50:00+00:00
 author: aslak
-layout: post
 banner: /2008/02/1280px-Clouds_over_the_Atlantic_Ocean.jpg
-categories:
-  - Debris
 tags:
   - Greenland
   - ice sheets

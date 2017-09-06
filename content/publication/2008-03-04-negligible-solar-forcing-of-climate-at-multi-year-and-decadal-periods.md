@@ -2,12 +2,9 @@
 title: Neglible Solar Forcing of Climate at Multi-year and Decadal Periods.
 date: 2008-03-04T00:10:00+00:00
 author: aslak
-layout: publication
 Citation:
   - 'Moore, J. C., A. Grinsted, A., and S. Jevrejeva (2007), Evidence from Wavelet Lag Coherence for Negligible Solar Forcing of Climate at Multi-year and Decadal Periods, Nonlinear Dynamics in Geosciences, A. Tsonis & J.B. Elsner (Eds.), Springer. doi:10.1007/978-0-387-34918-3_25, 457-464.'
 banner: /2008/03/Total_solar_eclipse_during_totality_March_29_2006_Sallum_Egypt.jpg
-categories:
-  - Publications
 tags:
   - historical
   - statistical modelling

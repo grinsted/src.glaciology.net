@@ -2,12 +2,9 @@
 title: How will sea level respond to changes in natural and anthropogenic forcings by 2100?
 date: 2010-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - 'Jevrejeva, S., J. C. Moore, and A. Grinsted (2010), Hown will sea level respond to changes in natural and anthropogenic forcingsn by 2100? Geophys. Res. Lett., doi:10.1029/2010GL042947 [PDF]'
 banner: /2011/08/7432408894_399c3ac84a_o.jpg
-categories:
-  - Publications
 tags:
   - historical
   - projections

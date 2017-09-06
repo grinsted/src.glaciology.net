@@ -2,12 +2,9 @@
 title: Virtual station reconstruction of global sea level.
 date: 2005-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - Jevrejeva, S., A. Grinsted, J. C. Moore, and S. Holgate (2006), Nonlinear trends and multiyear cycles in sea level records, J. Geophys. Res., 111, C09012, doi:10.1029/2005JC003229.
 banner: /2016/02/af-1990-blog-4.jpg
-categories:
-  - Publications
 tags:
   - historical
   - reconstruction

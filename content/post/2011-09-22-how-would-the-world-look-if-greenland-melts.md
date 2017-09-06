@@ -2,10 +2,7 @@
 title: How would the world look if Greenland melts?
 date: 2011-09-22T01:49:00+00:00
 author: aslak
-layout: post
 banner: /2011/09/euro-sea-ice2.jpg
-categories:
-  - Debris
 aliases:
   - /2011/09/22/how-would-the-world-look-if-greenland-melts/
   - /Home/Miscellaneous-Debris/How-would-the-world-look-if-greenland-melts

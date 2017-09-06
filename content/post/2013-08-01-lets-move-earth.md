@@ -2,10 +2,7 @@
 title: Lets move Earth!
 date: 2013-08-01T02:00:00+00:00
 author: aslak
-layout: post
 banner: /2013/08/Arch.jpg
-categories:
-  - Debris
 tags:
   - geoengineering
 aliases:

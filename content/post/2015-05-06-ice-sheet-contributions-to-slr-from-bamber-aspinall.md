@@ -2,10 +2,7 @@
 title: 'Ice sheet contributions to SLR from Bamber &#038; Aspinall'
 date: 2015-05-06T02:16:00+00:00
 author: aslak
-layout: post
 banner: /2013/11/Greenland-ice_sheet_hg.jpg
-categories:
-  - Debris
 tags:
   - elicitation
   - projections

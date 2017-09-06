@@ -2,13 +2,10 @@
 title: Eemian interglacial reconstructed from a Greenland folded ice core
 date: 2012-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - NEEM Community Members, 2012, Eemian interglacial reconstructed from a Greenland folded ice core. Nature, 493, 489–494, doi:10.1038/nature11789
   - NEEM Community Members, 2012, Eemian interglacial reconstructed from a Greenland folded ice core. Nature, 493, 489–494, doi:10.1038/nature11789
 banner: /2016/02/foldedlayers.jpg
-categories:
-  - Publications
 tags:
   - climate
   - Eemian

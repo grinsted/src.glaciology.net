@@ -2,12 +2,9 @@
 title: Upper limit for sea level projections by 2100
 date: 2014-10-23T04:47:00+00:00
 author: aslak
-layout: publication
 Citation:
   - Jevrejeva, Grinsted, Moore (2014), Upper limit for sea level projections by 2100, Environ. Res. Lett. 9 104008 doi:10.1088/1748-9326/9/10/104008
 banner: /2016/02/thames-barrier-03.jpg.jpeg
-categories:
-  - Publications
 tags:
   - projections
   - RCP

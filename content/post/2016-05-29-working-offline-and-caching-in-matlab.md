@@ -2,10 +2,7 @@
 title: Working offline and caching in matlab
 date: 2016-05-29T13:48:27+00:00
 author: aslak
-layout: post
 banner: /2016/05/Tamia_striatus_eating.jpg
-categories:
-  - Debris
 tags:
   - matlab
   - tips

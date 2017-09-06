@@ -2,10 +2,7 @@
 title: Did AGW increase the odds of that extreme weather yesterday?
 date: 2013-07-30T14:59:00+00:00
 author: aslak
-layout: post
 banner: /2013/07/F5_tornado_Elie_Manitoba_2007.jpg
-categories:
-  - Debris
 tags:
   - extreme weather
   - statistics

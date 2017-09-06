@@ -2,12 +2,9 @@
 title: Semiempirical and process-based global sea level projections
 date: 2013-12-24T00:00:00+00:00
 author: aslak
-layout: post
 Citation:
   - Moore, J. C., A. Grinsted, T. Zwinger, and S. Jevrejeva (2013), Semiempirical and process-based global sea level projections, Rev. Geophys., 51, 484–522, doi:10.1002/rog.20015.
 banner: /2016/02/massbalance-gradient.jpg
-categories:
-  - Publications
 tags:
   - budget
   - collapse

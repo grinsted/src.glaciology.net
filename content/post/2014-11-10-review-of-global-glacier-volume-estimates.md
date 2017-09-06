@@ -2,10 +2,7 @@
 title: Review of global glacier volume estimates
 date: 2014-11-10T04:20:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/estimatesofglobalvolempty.png
-categories:
-  - Debris
 tags:
   - glacier
   - global

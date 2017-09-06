@@ -2,10 +2,7 @@
 title: Cyclones and Societies in the Mascarene Islands 17th-20th Centuries
 date: 2013-07-30T15:01:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/mauritus.jpg
-categories:
-  - Debris
 tags:
   - historical
   - tropical cyclone

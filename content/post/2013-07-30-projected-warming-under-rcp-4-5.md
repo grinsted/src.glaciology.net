@@ -2,10 +2,7 @@
 title: Projected warming under RCP 4.5
 date: 2013-07-30T15:03:00+00:00
 author: aslak
-layout: post
 banner: /2013/07/sunset.jpg
-categories:
-  - Debris
 tags:
   - projection
   - temperature

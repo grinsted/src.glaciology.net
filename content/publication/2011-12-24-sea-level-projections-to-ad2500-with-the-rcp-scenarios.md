@@ -2,12 +2,9 @@
 title: Sea level projections to AD2500 with the RCP scenarios
 date: 2011-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - S. Jevrejeva, J.C. Moore, A. Grinsted, Sea level projections to AD2500 with a new generation of climate change scenarios, Global and Planetary Change, Available online 21 September 2011, ISSN 0921-8181, 10.1016/j.gloplacha.2011.09.006.
 banner: /2013/11/NOAH-arcology.jpg
-categories:
-  - Publications
 tags:
   - ECP
   - projections

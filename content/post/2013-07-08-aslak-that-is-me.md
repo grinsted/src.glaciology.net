@@ -2,10 +2,7 @@
 title: Aslak, that is me
 date: 2013-07-08T04:36:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/couverture.jpg
-categories:
-  - Debris
 aliases:
   - /2013/07/08/aslak-that-is-me/
   - /Home/Miscellaneous-Debris/aslakthehero

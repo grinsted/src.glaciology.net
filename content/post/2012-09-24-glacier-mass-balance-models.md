@@ -2,10 +2,7 @@
 title: Glacier mass balance models
 date: 2012-09-24T03:33:00+00:00
 author: aslak
-layout: post
 banner: /2012/09/Scientists_using_ablation_sticks_to_measure_the_retreat_of_Sperry_Glacier_4428356758.jpg
-categories:
-  - Debris
 aliases:
   - /2012/09/24/glacier-mass-balance-models/
   - /Home/Miscellaneous-Debris/glaciermassbalancemodels

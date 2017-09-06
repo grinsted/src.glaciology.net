@@ -2,12 +2,9 @@
 title: Unprecedented low 20th century winter sea ice extent in the Western Nordic Seas since A.D. 1200
 date: 2010-09-08T05:02:00+00:00
 author: aslak
-layout: publication
 Citation:
   - Macias M., A. Grinsted, S. Helama, J. Moore, M. Timonen, T. Martma, E. Isaksson, M. Eronen, Unprecedented low 20th century winter sea ice extent in the Western Nordic Seas since A.D. 1200. Clim. Dyn., 2009, 34, (6), 781-795, doi:10.1007/s00382-009-0610-z
 banner: /2010/09/Dutch-whalers-near-Svalbard-1690.jpg
-categories:
-  - Publications
 tags:
   - ice core
   - proxy

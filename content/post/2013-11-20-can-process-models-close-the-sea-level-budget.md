@@ -2,10 +2,7 @@
 title: Can process models close the sea level budget?
 date: 2013-11-20T01:33:00+00:00
 author: aslak
-layout: post
 banner: /2013/06/Brooklyn_Museum_-_Comme_Sisyphe_-_Honoré_Daumier.jpg
-categories:
-  - Debris
 tags:
   - budget
   - historical

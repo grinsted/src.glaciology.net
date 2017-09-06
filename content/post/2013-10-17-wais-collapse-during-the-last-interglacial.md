@@ -2,7 +2,6 @@
 title: WAIS collapse during the last interglacial?
 date: 2013-10-17T02:11:00+00:00
 author: aslak
-layout: post
 banner: /2016/03/octopus-antarctic-23746235.jpeg.480x0_q70_crop-scale.jpg
 tags:
   - Eemian

@@ -2,10 +2,7 @@
 title: 'What does "likely" mean?'
 date: 2014-05-14T05:34:00+00:00
 author: aslak
-layout: post
 banner: /2014/05/Traffic_queues_likely.jpg
-categories:
-  - Debris
 tags:
   - IPCC
   - jargon

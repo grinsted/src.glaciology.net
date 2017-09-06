@@ -2,10 +2,7 @@
 title: Scholarfy
 date: 2013-06-10T02:17:00+00:00
 author: aslak
-layout: post
 banner: /2013/06/scholarfy.jpg
-categories:
-  - Debris
 aliases:
   - /2013/06/10/scholarfy/
   - /Home/Miscellaneous-Debris/scholarfy

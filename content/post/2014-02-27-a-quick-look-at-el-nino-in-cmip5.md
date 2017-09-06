@@ -2,10 +2,7 @@
 title: A quick look at El Niño in CMIP5
 date: 2014-02-27T06:54:00+00:00
 author: aslak
-layout: post
 banner: /2014/06/Marine_Fog_Pattern_1.jpg
-categories:
-  - Debris
 tags:
   - ENSO
   - ESM

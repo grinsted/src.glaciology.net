@@ -2,10 +2,7 @@
 title: A sanity check for RCS
 date: 2013-07-30T15:05:00+00:00
 author: aslak
-layout: post
 banner: /2013/07/Forest_in_Yakushima_55.jpg
-categories:
-  - Debris
 aliases:
   - /2013/07/30/a-sanity-check-for-rcs/
   - /Home/Miscellaneous-Debris/asanitycheckforrcsandyamal

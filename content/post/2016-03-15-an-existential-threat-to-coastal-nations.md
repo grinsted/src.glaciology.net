@@ -2,10 +2,7 @@
 title: An existential threat to coastal nations
 date: 2016-03-15T19:00:26+00:00
 author: aslak
-layout: post
 banner: /2016/03/europe_in_2100_version_1_1__by_the9988-d585nmx-1.jpg
-categories:
-  - Debris
 tags:
   - collapse
   - commitment

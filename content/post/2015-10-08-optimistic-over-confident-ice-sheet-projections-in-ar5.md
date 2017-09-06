@@ -2,10 +2,7 @@
 title: 'Optimistic &#038; over-confident ice sheet projections in AR5'
 date: 2015-10-08T05:01:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/tmdg5.png
-categories:
-  - Debris
 tags:
   - collapse
   - ice sheet

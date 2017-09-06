@@ -2,10 +2,7 @@
 title: Guide to inserting iframes or flash in Google Sites
 date: 2010-05-25T02:44:00+00:00
 author: aslak
-layout: post
 banner: /2010/05/frames.jpg
-categories:
-  - Debris
 aliases:
   - /2010/05/25/guide-to-inserting-iframes-or-flash-in-google-sites/
   - /Home/Miscellaneous-Debris/guide-to-inserting-iframes-or-flash-in-google-sites

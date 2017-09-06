@@ -2,12 +2,9 @@
 title: Comment on the subsidence adjustment applied to the Kemp et al. proxy of North Carolina relative sea level
 date: 2009-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - "[Grinsted et al. 'wrongly claim' a too large local tide gauge rate]: Our claim is based on the supplementary material to Engelhart et al. which can be downloaded here. The figure in question is reproduced in the column on the right. look for X=2950 km. If anything our 4mm/yr claim seems too low!"
 banner: /2013/12/Fort_Fisher_State_Recreation_Area_Salt_Marsh.jpg
-categories:
-  - Publications
 tags:
   - gia
   - global

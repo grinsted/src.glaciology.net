@@ -2,10 +2,7 @@
 title: Migrating from Google Sites to WordPress
 date: 2016-03-16T08:37:16+00:00
 author: aslak
-layout: post
 banner: /2016/03/AlphabetPasta.jpg
-categories:
-  - Debris
 tags:
   - Tip
 aliases:

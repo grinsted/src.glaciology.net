@@ -2,10 +2,7 @@
 title: A rebuttal to Pielke Jr's 18ft critique.
 date: 2013-09-13T03:03:00+00:00
 author: aslak
-layout: post
 banner: /2013/09/Giant_oarfish_bermuda_beach_1860.jpg
-categories:
-  - Debris
 tags:
   - extremes
   - hurricane

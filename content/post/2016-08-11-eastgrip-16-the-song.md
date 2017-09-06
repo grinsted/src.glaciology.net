@@ -2,10 +2,7 @@
 title: EastGRIP 16, the song
 date: 2016-08-11T17:46:20+00:00
 author: aslak
-layout: post
 banner: /2016/08/20160727_111631.jpg
-categories:
-  - Debris
 tags:
   - eastgrip
   - egrip

@@ -2,10 +2,7 @@
 title: A better windows experience
 date: 2015-03-09T04:11:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/Bizcocho_de_chocolate_y_nata.jpg
-categories:
-  - Debris
 tags:
   - Tip
 aliases:

@@ -2,12 +2,9 @@
 title: My PhD thesis.
 date: 2006-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - Grinsted (2006) Advanced methods of glaciological modelling and time series analysis, Doctoral dissertation, Arctic Centre Reports 47.
 banner: /2016/02/CIMG0182.jpg
-categories:
-  - Publications
 tags:
   - climate recontruction
   - dating

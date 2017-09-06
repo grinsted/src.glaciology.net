@@ -2,12 +2,9 @@
 title: New Tools for Analyzing Time Series Relationships and Trends.
 date: 2005-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - Moore, J. C., A. Grinsted, S. Jevrejeva (2005) New Tools for Analyzing Time Series Relationships and Trends. EOS, 86(24).
 banner: /2008/02/ALM_05_Dolch_edit2.jpg
-categories:
-  - Publications
 tags:
   - ssa
   - time series analysis

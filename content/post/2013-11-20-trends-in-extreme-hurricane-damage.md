@@ -2,7 +2,6 @@
 title: Trends in extreme hurricane damage
 date: 2013-11-20T01:34:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/ICATdamagefrequency.png
 tags:
   - damages

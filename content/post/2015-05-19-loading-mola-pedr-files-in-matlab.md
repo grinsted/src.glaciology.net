@@ -2,10 +2,7 @@
 title: Loading MOLA PEDR files in matlab
 date: 2015-05-19T06:30:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/marsmola.png
-categories:
-  - Debris
 tags:
   - code
   - Mars

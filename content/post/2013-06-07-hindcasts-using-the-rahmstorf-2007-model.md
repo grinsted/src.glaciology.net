@@ -2,10 +2,7 @@
 title: Hindcasts using the Rahmstorf 2007 model
 date: 2013-06-07T03:46:00+00:00
 author: aslak
-layout: post
 banner: /2013/06/gotoworkllwc04.jpg
-categories:
-  - Debris
 tags:
   - sea level
   - semi-empirical

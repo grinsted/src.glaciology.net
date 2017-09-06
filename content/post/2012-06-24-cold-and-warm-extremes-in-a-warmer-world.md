@@ -2,10 +2,7 @@
 title: Cold and Warm Extremes in a warmer world
 date: 2012-06-24T20:41:00+00:00
 author: aslak
-layout: post
 banner: /2012/06/squirrelhotday.jpg
-categories:
-  - Debris
 tags:
   - extremes
   - statistics

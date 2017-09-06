@@ -2,12 +2,9 @@
 title: Is there evidence for sunspot forcing of climate at multi-year and decadal periods?
 date: 2006-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - Moore, J., A. Grinsted, and S. Jevrejeva (2006), Is there evidence for sunspot forcing of climate at multi-year and decadal periods?, Geophys. Res. Lett., 33, L17705, doi:10.1029/2006GL026501.
 banner: /2008/03/sunspots.jpg
-categories:
-  - Publications
 aliases:
   - /2006/12/24/is-there-evidence-for-sunspot-forcing-of-climate-at-multi-year-and-decadal-periods/
   - /Home/PDFs/Announcements/Is-there-evidence-for-sunspot-forcing-of-climate-at-multi-year-and-decadal-periods-

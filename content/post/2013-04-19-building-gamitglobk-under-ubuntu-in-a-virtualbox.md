@@ -2,10 +2,7 @@
 title: Building GAMIT/GLOBK under ubuntu (in a virtualbox)
 date: 2013-04-19T04:05:00+00:00
 author: aslak
-layout: post
 banner: /2013/04/storm.jpg
-categories:
-  - Debris
 tags:
   - gps
   - Tip

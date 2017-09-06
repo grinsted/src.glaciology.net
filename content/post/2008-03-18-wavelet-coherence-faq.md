@@ -2,12 +2,9 @@
 title: Wavelet Coherence FAQ
 date: 2008-03-18T01:59:00+00:00
 author: aslak
-layout: post
 banner: /2008/03/EEG_recording.jpg
-categories:
-  - Debris
 tags:
-  - tim e series analysis
+  - time series analysis
   - Wavelet
 aliases:
   - /2008/03/18/wavelet-coherence-faq/

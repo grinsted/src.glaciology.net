@@ -2,10 +2,7 @@
 title: The units of ACE are simply wrong
 date: 2013-09-11T00:39:00+00:00
 author: aslak
-layout: post
 banner: /2013/09/ace-684002_960_720.jpg
-categories:
-  - Debris
 tags:
   - ACE
   - hurricane

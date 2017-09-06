@@ -2,10 +2,7 @@
 title: Picking a password manager
 date: 2016-04-07T06:28:52+00:00
 author: aslak
-layout: post
 banner: /2016/04/BlascoAB1x-G-e1460011917610.jpg
-categories:
-  - Debris
 tags:
   - Tip
 aliases:

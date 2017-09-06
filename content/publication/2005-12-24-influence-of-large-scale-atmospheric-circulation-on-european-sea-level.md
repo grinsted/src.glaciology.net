@@ -2,12 +2,9 @@
 title: Influence of large-scale atmospheric circulation on European sea level.
 date: 2005-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - Jevrejeva, S., J. C. Moore, P. L. Woodworth, A. Grinsted (2005), Influence of large-scale atmospheric circulation on European sea level: results based on the wavelet transform method, Tellus 57A, 183–193.
 banner: /2008/02/Wattenmeer-Nordfriesland.jpg
-categories:
-  - Publications
 tags:
   - AO
   - NAO

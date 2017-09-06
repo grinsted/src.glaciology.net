@@ -2,10 +2,7 @@
 title: Three views on sea level commitment
 date: 2015-08-26T23:43:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/1423_dattatreya-wallpaper-03.jpg
-categories:
-  - Debris
 tags:
   - collapse
   - commitment

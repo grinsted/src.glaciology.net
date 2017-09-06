@@ -2,10 +2,7 @@
 title: More and Stronger Hurricane surges
 date: 2015-09-30T00:05:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/pot-o-chili.jpg
-categories:
-  - Debris
 tags:
   - extremes
   - hurricanes

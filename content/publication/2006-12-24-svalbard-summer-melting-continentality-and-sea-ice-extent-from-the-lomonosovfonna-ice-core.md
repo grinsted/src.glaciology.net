@@ -2,12 +2,9 @@
 title: Svalbard summer melting, continentality, and sea ice extent from the Lomonosovfonna ice core
 date: 2006-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - Grinsted, A., J. C. Moore, V. Pohjola, T. Martma, and E. Isaksson (2006), Svalbard summer melting, continentality, and sea ice extent from the Lomonosovfonna ice core, J. Geophys. Res., 111, D07110, doi:10.1029/2005JD006494.
 banner: /2008/02/svalbard-may17-1962.jpg
-categories:
-  - Publications
 aliases:
   - /2006/12/24/svalbard-summer-melting-continentality-and-sea-ice-extent-from-the-lomonosovfonna-ice-core/
 ---

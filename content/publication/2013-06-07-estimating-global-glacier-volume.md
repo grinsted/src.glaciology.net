@@ -2,10 +2,7 @@
 title: Estimating global glacier volume
 date: 2013-06-07T03:42:00+00:00
 author: aslak
-layout: publication
 banner: /2016/02/IMG_7517.jpg
-categories:
-  - Debris
 tags:
   - glacier
   - mass

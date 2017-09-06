@@ -2,12 +2,9 @@
 title: Image GeoRectification And Feature Tracking toolbox, ImGRAFT
 date: 2015-03-02T03:09:00+00:00
 author: aslak
-layout: publication
 Citation:
   - 'Messerli, A. and Grinsted, A. (2015), Image GeoRectification And Feature Tracking toolbox: ImGRAFT, Geosci. Instrum. Method. Data Syst., 4, 23-34, doi:10.5194/gi-4-23-2015'
 banner: /2016/02/enga3d.png
-categories:
-  - Publications
 tags:
   - computer vision
   - engabreen

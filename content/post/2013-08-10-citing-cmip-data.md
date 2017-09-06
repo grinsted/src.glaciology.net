@@ -2,10 +2,7 @@
 title: Citing CMIP data
 date: 2013-08-10T04:26:00+00:00
 author: aslak
-layout: post
 banner: /2013/08/1280px-Citation_needed_stickers.jpeg
-categories:
-  - Debris
 aliases:
   - /2013/08/10/citing-cmip-data/
   - /Home/Miscellaneous-Debris/cmip6on-demanddoigeneration

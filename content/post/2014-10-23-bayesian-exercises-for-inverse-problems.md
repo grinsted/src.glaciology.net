@@ -2,10 +2,7 @@
 title: Bayesian exercises for Inverse problems
 date: 2014-10-23T04:18:00+00:00
 author: aslak
-layout: post
 banner: /2014/10/kryptonite.jpg
-categories:
-  - Debris
 tags:
   - bayesian
   - exercise

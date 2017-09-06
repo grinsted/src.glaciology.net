@@ -2,10 +2,7 @@
 title: Changing Sea level budget and Semi-Empirical models
 date: 2013-11-20T01:39:00+00:00
 author: aslak
-layout: post
 banner: /2013/11/unfair_scale_1_by_rick__hunter.jpg
-categories:
-  - Debris
 tags:
   - sea level
   - semi-empirical

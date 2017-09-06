@@ -2,12 +2,9 @@
 title: SSA enhancement of GPR data.
 date: 2006-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - 'Moore & Grinsted (2006) Singular spectrum analysis and envelope detection: methods of enhancing the utility of ground penetrating radar data. J. Glaciol., 52(176), pp. 159-163(5).'
 banner: /2008/03/ssaradar.jpg
-categories:
-  - Publications
 tags:
   - gpr
   - radar

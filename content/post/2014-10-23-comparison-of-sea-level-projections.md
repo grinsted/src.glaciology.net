@@ -2,10 +2,7 @@
 title: Comparison of sea level projections
 date: 2014-10-23T05:10:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/AR5slprojRCP4.5.png
-categories:
-  - Debris
 tags:
   - IPCC
   - projections

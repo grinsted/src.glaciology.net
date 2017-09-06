@@ -2,10 +2,7 @@
 title: An infinite supply of carbon free energy.
 date: 2009-01-05T04:28:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/mindstar_cover.jpeg
-categories:
-  - Debris
 aliases:
   - /2009/01/05/an-infinite-supply-of-carbon-free-energy/
   - /Home/Miscellaneous-Debris/aninfinitesupplyofcarbonfreeenergy

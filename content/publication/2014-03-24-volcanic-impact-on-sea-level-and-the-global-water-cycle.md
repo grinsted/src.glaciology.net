@@ -2,12 +2,9 @@
 title: Volcanic impact on sea level and the global water cycle
 date: 2014-03-24T06:21:00+00:00
 author: aslak
-layout: publication
 Citation:
   - Grinsted, A., J. C. Moore, S. Jevrejeva (2007) Observational evidence for volcanic impact on sea level and the global water cycle. PNAS, 104, 19730-19734.
 banner: /2014/03/Pinatubo91eruption_plume.jpg
-categories:
-  - Publications
 tags:
   - ENSO
   - historical

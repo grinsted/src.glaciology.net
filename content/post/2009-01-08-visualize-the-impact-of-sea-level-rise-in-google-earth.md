@@ -2,10 +2,7 @@
 title: Visualize the impact of sea level rise in google earth.
 date: 2009-01-08T06:38:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/googleearthsettings.jpg
-categories:
-  - Debris
 tags:
   - sea level
   - slr

@@ -2,12 +2,9 @@
 title: Continuous monitoring of summer surface water vapour isotopic composition above the Greenland Ice Sheet
 date: 2013-04-29T06:14:00+00:00
 author: aslak
-layout: publication
 Citation:
   - 'Steen-Larsen, H. C., Johnsen, S. J., Masson-Delmotte, V., Stenni, B., Risi, C., Sodemann, H., Balslev-Clausen, D., Blunier, T., Dahl-Jensen, D., Ellehøj, M. D., Falourd, S., Gkinis, V., Grindsted, A., Jouzel, J., Popp, T., Sheldon, S., Simonsen, S. B., Sjolte, J., Steffensen, J. P., Sperlich, P., Sveinbjörnsdóttir, A. E., Vinther, B. M., and White, J. W. C.: Continuous monitoring of summer surface water vapour isotopic composition above the Greenland Ice Sheet, Atmos. Chem. Phys., 13, 4815-4828, 2013, doi:10.5194/acp-13-4815-2013 o18018'
 banner: /2016/02/2011-07-02.jpg
-categories:
-  - Publications
 tags:
   - deuterium
   - Greenland

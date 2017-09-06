@@ -2,10 +2,7 @@
 title: 'Structure from Motion - link collection'
 date: 2012-10-12T05:08:00+00:00
 author: aslak
-layout: post
 banner: /2012/10/maxresdefault.jpg
-categories:
-  - Debris
 aliases:
   - /2012/10/12/structure-from-motion-link-collection/
   - /Home/Miscellaneous-Debris/structurefrommotion-linkcollection

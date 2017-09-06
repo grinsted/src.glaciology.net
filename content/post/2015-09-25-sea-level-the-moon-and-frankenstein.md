@@ -2,10 +2,7 @@
 title: Sea level, the moon, and Frankenstein
 date: 2015-09-25T05:23:00+00:00
 author: aslak
-layout: post
 banner: /2015/09/frankenstein2016.png
-categories:
-  - Debris
 tags:
   - cyclomania
   - moon

@@ -61,11 +61,6 @@ theme = "hugo-icarus-theme"
     label  = "Tags"
     link   = "tags/"
 
-[[params.menu]]
-    before = false
-    label  = "Categories"
-    link   = "categories/"
-
 # Enter a link for the follow button on the left
 [params.profile]
     follow_button = "https://github.com/grinsted"

@@ -2,12 +2,9 @@
 title: 'Persistence Matters: Significance of paleoclimatic reconstruction statistics'
 date: 2011-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - 'Macias-Fauria, Grinsted, Helama, Holopainen (2012), Persistence matters: Estimation of the statistical significance of paleoclimatic reconstruction statistics from autocorrelated time series. Dendrochronologia, 30 (2), doi:10.1016/j.dendro.2011.08.003'
 banner: /2012/02/persistence.jpg
-categories:
-  - Publications
 tags:
   - climate
   - reconstruction

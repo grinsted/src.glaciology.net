@@ -2,10 +2,7 @@
 title: Digitizing pdf figures using inkscape
 date: 2015-09-30T00:04:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/1938hrswlz4vvjpg.jpg
-categories:
-  - Debris
 tags:
   - Tip
 aliases:

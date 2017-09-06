@@ -2,10 +2,7 @@
 title: A Shallow Ice Glacier Model
 date: 2010-02-08T02:32:00+00:00
 author: aslak
-layout: post
 banner: /2010/02/sia.jpg
-categories:
-  - Debris
 tags:
   - glacier model
   - sia

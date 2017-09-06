@@ -2,10 +2,7 @@
 title: Model validation
 date: 2013-06-07T03:43:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/SBB20view.jpg
-categories:
-  - Debris
 tags:
   - blue ice
   - extreme weather

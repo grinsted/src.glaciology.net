@@ -2,12 +2,9 @@
 title: Recent global sea level acceleration started over 200 years ago?
 date: 2008-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - Jevrejeva, S., J. C. Moore, A. Grinsted, and P. L. Woodworth (2008), Recent global sea level acceleration started over 200 years ago?, Geophys. Res. Lett., 35, L08715, doi:10.1029/2008GL033611.
 banner: /2011/04/Genova-1810ca-acquatinta-Garneray-part-mura.jpg
-categories:
-  - Publications
 tags:
   - climate
   - historical

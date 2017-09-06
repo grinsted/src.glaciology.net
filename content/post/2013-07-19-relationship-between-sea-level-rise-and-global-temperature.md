@@ -2,10 +2,7 @@
 title: Relationship between sea level rise and global temperature
 date: 2013-07-19T03:21:00+00:00
 author: aslak
-layout: post
 banner: /2014/10/sea-1008176_960_720.jpg
-categories:
-  - Debris
 aliases:
   - /2013/07/19/relationship-between-sea-level-rise-and-global-temperature/
   - /Home/Miscellaneous-Debris/relationshipbetweensealevelriseandglobaltemperature

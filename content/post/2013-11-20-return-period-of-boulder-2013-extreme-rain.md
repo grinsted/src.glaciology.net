@@ -2,10 +2,7 @@
 title: Return period of Boulder 2013 extreme rain
 date: 2013-11-20T01:30:00+00:00
 author: aslak
-layout: post
 banner: /2013/11/2013_Colorado_flooding_130918-Z-IT417-012.jpg
-categories:
-  - Debris
 aliases:
   - /2013/11/20/return-period-of-boulder-2013-extreme-rain/
   - /Home/Miscellaneous-Debris/returnperiodofboulder2013extremerain

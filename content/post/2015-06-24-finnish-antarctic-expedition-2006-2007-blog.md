@@ -2,10 +2,7 @@
 title: Finnish Antarctic expedition 2006-2007 blog
 date: 2015-06-24T03:02:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/SBB20view.jpg
-categories:
-  - Debris
 tags:
   - Antarctic
   - blue ice

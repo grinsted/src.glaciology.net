@@ -2,10 +2,7 @@
 title: Plausible upper limit of WAIS ice loss
 date: 2015-12-15T15:09:00+00:00
 author: aslak
-layout: post
 banner: /2016/02/1977l7ot6peptjpg.jpg
-categories:
-  - Debris
 tags:
   - projections
   - sea level

@@ -2,12 +2,9 @@
 title: Gulf Stream and ENSO Increase the Temperature Sensitivity of Atlantic Tropical Cyclones
 date: 2013-06-07T03:50:00+00:00
 author: aslak
-layout: publication
 Citation:
   - 'Moore J.C., A. Grinsted, S. Jevrejeva (2008) Gulf Stream and ENSO Increase the Temperature Sensitivity of Atlantic Tropical Cyclones. J. Clim. 21(7): 1523.'
 banner: /2016/02/phaseaware-sst-tc.gif
-categories:
-  - Publications
 tags:
   - climate
   - SST

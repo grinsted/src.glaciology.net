@@ -2,12 +2,9 @@
 title: ENSO propagation towards the poles.
 date: 2007-12-24T00:00:00+00:00
 author: aslak
-layout: publication
 Citation:
   - 'Jevrejeva, S., J.C. Moore and A. Grinsted, (2007), ENSO signal propagation detected by wavelet coherence and mean phase coherence methods, Nonlinear Dynamics in Geosciences, A. Tsonis &amp; J.B. Elsner (Eds.), Springer. doi:10.1007/978-0-387-34918-3_10, 167-175.'
 banner: /2009/01/North_Pole_-_Lt_Lance_Eng__Santa.jpg
-categories:
-  - Publications
 aliases:
   - /2007/12/24/enso-propagation-towards-the-poles/
 ---
