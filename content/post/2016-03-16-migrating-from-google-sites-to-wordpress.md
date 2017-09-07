@@ -25,14 +25,14 @@ All the internal links on the new site are still pointing to the old site. I fix
   * Get a list of all posts using the XMLRPC. From that make a list of all the post titles.
   * Loop each post, and for each url pointing to the old site, try to see if the [basename](https://docs.python.org/2/library/os.path.html) has a close match in the list of wordpress titles. For that I used [difflib.get\_close\_matches](https://docs.python.org/2/library/difflib.html#difflib.get_close_matches).
 
- 
+
 
 I did not find a way to automatically download non-image google sites attachments (such as pdfs). Google appears to deliberately have made that difficult. I did not investigate further.
 
 I'd love to share my code. Unfortunately I had to go through a learning process and my approach was not nearly as clean as outlined above. So you'll have to make do with snippets to get you started. I am not a python programmer, so please excuse the style:
 
 {{< highlight python >}}
-
+```
 from bs4 import BeautifulSoup
 import requests
 import re
@@ -68,7 +68,7 @@ for post in allposts:
             print "NO MATCH FOR LINK:" + repr(link)
     post.content=re.sub(r"https?://blog.example.com/","/",txt);
     client.call(posts.EditPost(post.id,post))
-
+```
 {{</ highlight >}}
 
 update: I have since decided to migrate to a static website generator: Hugo.  
