@@ -101,33 +101,6 @@ theme = "hugo-icarus-theme"
     twitter         = "agrinsted"
 
 
-[[params.social]]
-  icon = "envelope"
-  icon_pack = "fa"
-  link = "mailto:ag@glaciology.net"
-
-[[params.social]]
-  icon = "twitter"
-  icon_pack = "fa"
-  link = "//twitter.com/AGrinsted"
-
-[[params.social]]
-  icon = "facebook"
-  icon_pack = "fa"
-  link = "//facebook.com/aslak.grinsted"
-
-[[params.social]]
-  icon = "instagram"
-  icon_pack = "fa"
-  link = "//instagram.com/agrinsted"
-
-[[params.social]]
-  icon = "github"
-  icon_pack = "fa"
-  link = "//github.com/grinsted"
-
-
-
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
