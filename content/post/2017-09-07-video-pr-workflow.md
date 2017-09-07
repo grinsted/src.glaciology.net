@@ -1,6 +1,6 @@
 ---
 title: A workflow for video presentations
-date: 2008-03-18T01:59:00+00:00
+date: 2017-09-06T05:24:00+00:00
 author: aslak
 banner: /2008/03/EEG_recording.jpg
 ---
