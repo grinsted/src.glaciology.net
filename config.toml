@@ -2,6 +2,7 @@ baseurl = "https://www.glaciology.net"
 title = "Aslak Grinsted"
 author = "Aslak Grinsted"
 languageCode = "en-us"
+PygmentsCodeFences = true
 
 # Enable comments by entering your Disqus shortname
 # disqusShortname = ""

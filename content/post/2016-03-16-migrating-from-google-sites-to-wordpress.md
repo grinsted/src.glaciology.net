@@ -31,8 +31,9 @@ I did not find a way to automatically download non-image google sites attachmen
 
 I'd love to share my code. Unfortunately I had to go through a learning process and my approach was not nearly as clean as outlined above. So you'll have to make do with snippets to get you started. I am not a python programmer, so please excuse the style:
 
-{{< highlight python >}}
-```
+
+
+```python
 from bs4 import BeautifulSoup
 import requests
 import re
@@ -69,6 +70,5 @@ for post in allposts:
     post.content=re.sub(r"https?://blog.example.com/","/",txt);
     client.call(posts.EditPost(post.id,post))
 ```
-{{</ highlight >}}
 
 update: I have since decided to migrate to a static website generator: Hugo.  
