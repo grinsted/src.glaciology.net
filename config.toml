@@ -63,8 +63,8 @@ theme = "hugo-icarus-theme"
     link   = "tags/"
 
 # Enter a link for the follow button on the left
-[params.profile]
-    follow_button = "https://github.com/grinsted"
+# [params.profile]
+#    follow_button = "https://github.com/grinsted"
 
 
 [social]
