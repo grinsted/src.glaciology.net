@@ -1,0 +1,7 @@
+
+.archive-article-inner {
+  display:grid;
+  padding:0px;
+  grid-gap: 15px;
+  grid-template-columns: 150px 1fr;
+}
