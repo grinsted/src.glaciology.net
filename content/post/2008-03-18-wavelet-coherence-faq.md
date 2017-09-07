@@ -11,7 +11,7 @@ aliases:
   - /Home/Miscellaneous-Debris/Wavelet-Coherence-FAQ
 ---
 I have written a new [FAQ](http://www.pol.ac.uk/home/research/waveletcoherence/faq.html) for the Crosswavelet and Wavelet Coherence matlab package. At the moment the questions answered are:
-
+<!--more-->
 ## This page is not up-to-date....  
 
   * [How do I know whether AR1 noise is an appropriate null hypothesis to test against?](http://www.pol.ac.uk/home/research/waveletcoherence/faq.html#1)

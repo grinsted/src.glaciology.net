@@ -18,7 +18,7 @@ aliases:
   - /2008/03/04/sulfate-source-inventories-from-a-svalbard-ice-core-record-spanning-the-industrial-revolution/
 ---
 In this paper we use sliding multiple linear regression techniques between the different chemical species and sulphate and use the changing loadings to infer how the sulphate sources have varied over time. The technique is generally applicable to other ice cores. As an uinexpected bonus the method also allows us to dramatically enhance the volcanic signal present in the core.
-
+<!--more--> 
 Some of the major findings include:
 
   * western Europe contributes about 15% of the sulfate budget, with essentially no input from other regions.

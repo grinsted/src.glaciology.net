@@ -8,11 +8,11 @@ aliases:
   - /Home/Miscellaneous-Debris/asanitycheckforrcsandyamal
 ---
 There has been a lot of [blogging about yamal](http://blogsearch.google.com/blogsearch?hl=en&ie=UTF-8&q=yamal+rcs&btnG=Search+Blogs). Some of it concerns if RCS introduces spurious signals. It is clear that it is very important to try to get an unbiased estimate of the growth curve.
-  
+  <!--more-->
 Here i have calculated an very simple alternative to RCS. The idea is that if you only use tree rings of a particular age, then you do not need to make any corrections for the growth curve. The procedure:
 
-  * Select a narrow age window. In my case i choose a 10 year wide window. 
-      * For each tree 
+  * Select a narrow age window. In my case i choose a 10 year wide window.
+      * For each tree
           * calculate the log(mean(ringwidth)+0.05). for all the data in the age-window.
           * calculate the average year of growth for that age window.
       * Center the reconstruction for that window.
@@ -26,7 +26,7 @@ The age intervals i chose were: 1-9, 10-19, ... ,390-399. It might be wise to di
 I have made several ad-hoc choices here, but this page is only meant to serve as an illustration.
 
 The colored dots show all the ringwidth estimates using this approach. Color shows the central age for the age window i have chosen.
-  
+
 Colored lines is a 50 year smooth of the points for a given age window (note i have not used a very clever interpolation/gapfilling scheme).
-  
+
 The blue line shows 50 year average of all dots.

@@ -15,6 +15,7 @@ aliases:
   - /Home/Miscellaneous-Debris/anunconvincingcaseofcyclefitting
 ---
 Jens Morten Hansen (JMH) and co-authors [have recently published a study](http://www.jcronline.org/doi/abs/10.2112/JCOASTRES-D-14-00204.1) where they use sine-regression to fit 5 oscillations plus a linear trend to a 160-year sea level record from waters near Denmark (a stack of local GIA corrected tide gauge records). They then observe that the sines-plus-trend model correlates highly with the record it was fitted to, after applying a 19-year moving average. This should be unsurprising as the procedure guarantees high correlation, regardless of input data (see figure). This result is clearly **not significant** in any meaningful sense of the word.
+<!--more-->
 
 After having tuned their model to fit the data, they proceed to post-rationalize the fitted model frequencies in terms of the nearest half-multiples of the lunar nodal cycle (18.6 years). I use the word "post-rationalize" to highlight that their new hypothesis is formulated in order to explain their first insignificant result. Again, this key result is **clearly not significant**. You can postulate any similar set of frequencies, and you would still get high correlation. This is illustrated in the figure on this page where we show how sea level can be 'predicted' using the orbital periods of five exoplanets.
 
@@ -42,7 +43,7 @@ The plot on this page shows how we can fit pretty much any time series using the
 The basic issue is over-fitting: Their statistical model has 17 degrees of freedom (5 periods, 5 phases, 5 amplitudes, 1 trend, 1 constant). They test the quality of the resulting fit against 19-year moving averages of a 160-year series. There is at effectively 8-9 independent points in the smoothed series (naive estimate). Of course it will fit with a high correlation coefficient.
 
 > _"With four parameters I can fit an elephant, and with five I can make him wiggle his trunk" - [John von Neumann](http://www.johndcook.com/blog/2011/06/21/how-to-fit-an-elephant/)
-  
+
 
 {{< figure src="/2015/09/elephant.gif" caption="Mayer et al. (2010) put Neumann's statement to the test and fit a cycle model to a drawing of an elephant. The model is remarkably similar to JMHs sea level moon model, albeit with fewer free parameters and with additional periodicity constraints." >}}  
 

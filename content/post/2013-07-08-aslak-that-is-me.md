@@ -7,12 +7,13 @@ aliases:
   - /2013/07/08/aslak-that-is-me/
   - /Home/Miscellaneous-Debris/aslakthehero
 ---
-Just became aware of [a cartoon](http://aslak-bd.blogspot.com/) with my name "Aslak" (h/t PiM). It looks awesome.
-  
+I just became aware of [a cartoon](http://aslak-bd.blogspot.com/) with my name "Aslak" (h/t PiM). It looks awesome.
+<!--more-->
+
 ![](/2016/02/LOGO20ASLAK20EFFET-petit.png)
-  
+
 I'd love to use that as my signature or as a logo on my page.
-  
+
 Anyway i want them all: [Amazon](http://www.amazon.fr/livres/dp/2756015997)
 
 ᛅᛋᛚᛅᚴ (as written on the mask stone)

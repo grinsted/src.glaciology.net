@@ -13,7 +13,7 @@ aliases:
   - /Home/Miscellaneous-Debris/glacierprojections
 ---
 Graham Cogley (2012) regularized a number of projections of glacier wastage in a recent book (so that all numbers include the glaciers peripheral to the ice sheets, and cover the entire 21st century).
-
+<!--more-->
 I have followed his example but added new projections, and also regularized for the different scenarios used. So in the figure shown i regularize for:
 
   * Scenario differences.
@@ -22,34 +22,34 @@ I have followed his example but added new projections, and also regularized for 
   * Spatial coverage. Not all projections include the glaciers peripheral to the ice sheets.
 
 See details on the conversions below.
-  
+
 Please note that the majority of these papers assume an initial glacier mass which is greater than [my recent estimate](/Home/PDFs/Announcements/anestimateofglobalglaciervolume). However, Slangen and van de Wal find that 21stC projections are not very sensitive to initial volume. On the other hand, some of the high end ice loss projections are greater than my total volume estimate of [35 cm](/Home/PDFs/Announcements/anestimateofglobalglaciervolume)!
 
 **See also **
-  
+
 This review of [global glacier volume estimates]({{< ref "2014-11-10-review-of-global-glacier-volume-estimates.md" >}}).
 
 **Some comments **
-  
+
 One difficult issue that handicaps all models is how you get from the GCM grid point precipitation to the precipitation at the glacier. Mountain range precipitation is notoriously hard to model, and resolution is a critical issue. I don't think that applying a precipitation lapse rate will solve the issue. I would prefer that the glacier precipitation is inferred by assuming pre-industrial mass balance, and then scaling that precipitation with GCM precip anomalies.
-  
+
 **A plea to modellers**
-  
+
 Modellers please model the entire period covered by the PMIP+Historical+RCP45 experiments. This would greatly help in assessing the plausibility of the individual projections. This would allow us to compare the model response to the [Leclercq et al.](http://link.springer.com/article/10.1007%2Fs10712-011-9121-7) glacier length based volume estimates. I think it is a minimal requirement that the model captures the curvature at the end of the little ice age. If it doesn't then you should reconsider how your model is being calibrated.
-  
+
 {{< figure src="/2016/02/projections.png" caption="21st C Projections of glacier mass loss in sea level equivalent. Uncertainties are adjusted to 1 sigma (except for <sup>u</sup>)" >}}
 
-  
+
 * adjusted for scenario
-  
+
 <sup>+</sup>adjusted for spatial coverage
-  
+
 <sup>c</sup> committed loss rather than a 21stC projection.
-  
+
 <sup>u</sup> deliberate search for upper bound (not 1sigma, but 3 distinct estimates)
-  
+
 <sup>x</sup> statistical extrapolation
-  
+
 Lighter shading: Not an actual projection for the 21stC. Used for commitment, upper bound, and extrapolation estimates.
 
 ### Note:
@@ -95,7 +95,7 @@ Radic et al. 2013 and Giesen and Oerlemans 2013 are the only projections that us
   * [Radic & Hock 11](http://www.nature.com/ngeo/journal/v4/n2/full/ngeo1052.html) (range from giesen and oerlemans 13 table 4)
   * [Slangen & van de Wal 11](http://www.the-cryosphere.net/5/673/2011/tc-5-673-2011.html) (range from giesen and oerlemans 13 table 4
   * [Jevrejeva et al. 12](/Home/PDFs/Announcements/potentialforbiasin21stcenturysemi-empiricalsealevelprojections) (central estimate from J12, range from scaling with [leclercq11](http://link.springer.com/article/10.1007%2Fs10712-011-9121-7) uncertainties. Note: not meant as a projection but a test of the SEM.)
-  * [Marzeion et al. 12](http://www.marzeion.info/sites/default/files/marzeion_etal_12a.pdf) 
+  * [Marzeion et al. 12](http://www.marzeion.info/sites/default/files/marzeion_etal_12a.pdf)
   * [Radic et al. 13](http://www.eos.ubc.ca/~vradic/Radic_et_al2013_ClimDyn.pdf)
   * [Giesen & Oerlemans 13](http://dx.doi.org/10.1007/s00382-013-1743-7) (range from giesen and oerlemans 13 table 4)
   * [Mernild et al. 13](http://www.the-cryosphere.net/7/1565/2013/tc-7-1565-2013.pdf)
@@ -105,5 +105,3 @@ Radic et al. 2013 and Giesen and Oerlemans 2013 are the only projections that us
 _I intend to keep this page will be updated. You can tweet, mail, or comment if you have more studies i should add. _
 
 Note: the painting in the featured image for this post, is by [Jill Pelto](http://www.jillpelto.com). It shows historical data for glacier mass loss in the North Cascades. Follow the link and check out her other work.
-
- 

@@ -8,7 +8,7 @@ tags:
 aliases:
   - /2016/03/16/migrating-from-google-sites-to-wordpress/
 ---
-I recently migrated from google sites to wordpress. There is lots to like about google sites (high uptime, zero maintenance), and I have been quite happy there. The primary reasons for my move are: I have a server anyway, and I would like to allow comments on some of my posts. I could not find any tools that allowed me export & import google sites. I tried importing from the RSS feed, but eventually I found a much better option: python (I don't do much programming in python, but it is really a pleasure to work in for these types of tasks).
+I recently migrated from google sites to wordpress. There is lots to like about google sites (high uptime, zero maintenance), and I have been quite happy there. <!--more--> The primary reasons for my move are: I have a server anyway, and I would like to allow comments on some of my posts. I could not find any tools that allowed me export & import google sites. I tried importing from the RSS feed, but eventually I found a much better option: python (I don't do much programming in python, but it is really a pleasure to work in for these types of tasks).
 
 # First pass
 

@@ -13,26 +13,24 @@ aliases:
   - /2013/06/07/estimating-global-glacier-volume/
   - /Home/PDFs/Announcements/anestimateofglobalglaciervolume
 ---
-## 35 cm
-
-I have recently written a [paper](/Home/PDFs/Announcements/anestimateofglobalglaciervolume) where I estimate global glacier volume to be 35 cm using a statistical approach . The statistical approach i use is a refinement of volume-area scaling where I include additional predictors of volume. These are elevation range (R), glacier length (L), and Continentality (C). The statistical approach I use is simply multiple linear regression in log space. I thus fit relationships of the form: V=k_A<sup>γ1</sup>_R<sup>γ2</sup>_L<sup>γ3</sup>_C<sup>γ4</sup>.
+I have recently written a [paper](/Home/PDFs/Announcements/anestimateofglobalglaciervolume) where I estimate global glacier volume to be 35 cm using a statistical approach .  <!--more--> The statistical approach i use is a refinement of volume-area scaling where I include additional predictors of volume. These are elevation range (R), glacier length (L), and Continentality (C). The statistical approach I use is simply multiple linear regression in log space. I thus fit relationships of the form: V=k\_A<sup>γ1</sup>\_R<sup>γ2</sup>\_L<sup>γ3</sup>\_C<sup>γ4</sup>.
 
 ## Recent estimates of global glacier volume:
 
 [Grinsted 2013](/Home/PDFs/Announcements/anestimateofglobalglaciervolume)35 cm +/- 7 cm Huss & Farinotti 201243 cm +/- 6 cm  Radic & Hock 201060 cm +/- 7 cm  Radic & Hock 2010 applied to RGIv2*
-  
+
 ~50 cmA more complete history is given in Cogley 2012.
-  
+
 (*) I have seen two different updated RH10 estimates from presentations by Hock and Huss and they both were just around 50cm but about 5 cm different.
-  
+
 My estimate of 35 cm is below Radic & Hock's 2010 estimate even when RH10 is updated to use the new RGIv2 inventory. Both estimates are scaling based, and the reason for the difference must be found in the applied volume-area scaling relationships. The figure below show that there is a clear positive bias in the Radic & Hock 2010 ice cap relationship. It is less obvious for the glacier relationship. However, when the Radic and Hock 2010 relationship is applied to the 220 glaciers and 34 ice caps in this sample then both relationships result in 40-50% too great a total volume. One key difference between my study and Radic and Hock (2010), is that I calibrate the scaling law myself whereas they use published scaling relationships. These published relationships were calculated using a smaller subset of the glacier volume data than was available to me. It will be interesting to see what happens as the database of glacier volume estimates grows.
-  
+
 ![](/2016/02/fig220-20AreaVolume20small.png)
-  
+
 Radic & Hock (2010) use Chen & Ohmura's (1990) glacier relationship of V=0.2055 * A<sup>1.36</sup> but replace the exponent with 1.375 as theoretically argued by Bahr et al. 1997 (here A and V have units m<sup>2</sup> and m<sup>3</sup>) . However, the units of the scaling-constant depends on the exponent. Thus the Chen and Ohmura constant simply does not apply for an exponent of 1.375. To illustrate the problem then consider this: First express Chen and Ohmura in km<sup>2</sup> and km<sup>3</sup> units: V=0.029704 * A<sup>1.36</sup>. Then follow RH2010 and replace the exponent with 1.375. If we apply the resulting scaling law to a large 500 km<sup>2</sup> glacier then we get V= 153 km<sup>3</sup> when we start from km-units, but V=188 km<sup>3</sup> if we had started from m-units as in RH10. -and we would get V=139 km<sup>3</sup> if we had used Chen&Ohmura's γ=1.36. **I believe this to be the origin of the positive bias in Radic and**** ****Hock (2010)**. I discuss this further in my paper, and also show how well other scaling relationships match the total volume in the volume database (see [fig3c&d](/Home/PDFs/Announcements/anestimateofglobalglaciervolume), reproduced here).
-  
+
 ![](/2016/02/fig320-avscalingfig20small.png)
-  
+
 The solid black curves show the combinations of exponents and constants that result in exactly the same total volume as in the volume database. We see that RH10 falls a good distance above the line, which indicates that it results in a too large total volume (total volume scales 1:1 with k for a given γ). The original Chen & Ohmura relationship (k=0.029, γ=1.36) on the other hand falls very close to the line.
 
 ## **New physical methods**

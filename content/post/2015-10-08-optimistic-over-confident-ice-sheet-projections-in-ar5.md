@@ -16,21 +16,21 @@ aliases:
   - /Home/Miscellaneous-Debris/optimisticicesheetprojectionsinar5
 ---
 _Take away message: The graph on the right shows that AR5 process based ice sheet projections are optimistic and over confident when compared to views of ice sheet experts. To be fair they do mention [a possible collapse scenario](/Home/Miscellaneous-Debris/ar5sealevelriseuncertaintycommunicationfailure) which could close the gap._
-
+<!--more-->
 ### Introduction
 
 Arguably the most uncertain component of sea level rise projections is the rate of future ice sheet mass loss. In AR4 ice sheet models were unable to simulate key processes and the AR4 sea level projections [were hugely criticized](http://www.scientificamerican.com/article.cfm?id=what-big-questions-remain-about-sea-level-rise) for being too conservative.
-  
+
 Since the AR4 there has been great progress in ice sheet modelling but ice-sheet ocean interaction is still a major challenge. E.g. IPCC AR5 is still unable to give scenario dependent projections of the dynamic ice loss (see AR5 table 13.5) and it is [unable to assess the probability](/Home/Miscellaneous-Debris/ar5sealevelriseuncertaintycommunicationfailure) of an Antarctic collapse. This lead them to exclude this possibility from the process based sea level projections in table 13.5, and only report the 'likely' range.
-  
+
 The "[best](http://dx.doi.org/10.1038/nclimate1860)" picture of the full uncertainty in ice sheet mass loss projections is from the expert elicitation by Bamber & Aspinall (2013). Figure 1 compares how the AR5 "process based" ice sheet projections (table 13.5) compare to the views from this ice sheet expert elicitation.
 
 ## Conservative & Overconfident
 
 AR5 process based model projections are much more conservative/ optimistic and has much more narrow uncertainties than the ice sheet experts (Fig.1). There can be no good reason for why the AR5 authors have much greater confidence in their ability to project ice sheet loss than ice sheet experts themselves. Notably the best guess view of ice sheet experts nearly falls outside the AR5 process based range. The worst case scenario from ice sheet experts is more than 60 cm higher than the worst case from the AR5 process models.
-  
+
 Clearly, the process based SLR projections from AR5 are over-confident and too conservative by themselves. You have to invoke a significant probability of a [collapse of Antarctic marine based sectors](/Home/Miscellaneous-Debris/ar5sealevelriseuncertaintycommunicationfailure) before it can be reconciled with Bamber & Aspinall (2013). This is particularly important for the worst case, but it is also evident that even the central estimates from AR5 process based models are practically inconsistent with the views of ice sheet experts (fig.1).
-  
+
 Another way to put it: the central AR5 ice sheet projection are incompatible with the views held by about half of ice sheet experts.
 
 ### Footnote: other comparisons
@@ -41,7 +41,7 @@ Another way to put it: the central AR5 ice sheet projection are incompatible wit
 
 {{< figure src="/2016/02/AR5icesheet.png" caption="Projections of ice sheet mass loss over the 21st century under RCP4.5. The AR5 process based projections appear optimistic and over confident when compared with views of ice sheet experts." >}}
 
-  
+
 
 ### Legend:
 

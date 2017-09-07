@@ -21,18 +21,19 @@ aliases:
   - /2010/12/24/reconstructing-sea-level-from-paleo-and-projected-temperatures-200-to-2100-ad/
   - /Home/PDFs/Announcements/gslprojection
 ---
-**Sea level rise of roughly a meter over the next century.**
+Sea level rise of roughly a meter over the next century.
+<!--more-->
 
 The press release can be found [here](http://www.eurekalert.org/pub_releases/2009-01/uoc-slr010809.php).
 
 **Abstract**
-  
+
 We use a physically plausible 4 parameter linear response equation to relate 2000 years of global temperatures and sea level. We estimate likelihood distributions of equation parameters using Monte Carlo inversion, which then allows visualization of past and future sea level scenarios. The model has good predictive power when calibrated on the pre-1990 period and validated against the high rates of sea level rise from the satellite altimetry. Future sea level is projected from IPCC temperature scenarios and past sea level from established multi-proxy reconstructions assuming that the established relationship between temperature and sea level holds from 200-2100 A.D. Over the last 2000 years minimum sea level (-19 to -26 cm) occurred around 1730 AD, maximum sea level (12 to 21 cm) around 1150 AD. Sea level 2090-2099 is projected to be 0.9 to 1.3 m for the A1B scenario, with low probability of the rise being within Intergovernmental Panel on Climate Change (IPCC) confidence limits.
 
 _Citation: Grinsted, A., J. C. Moore, and S. Jevrejeva (2010), Reconstructing sea level from paleo and projected temperatures 200 to 2100 AD, Clim. Dyn., [doi:10.1007/s00382-008-0507-2](http://dx.doi.org/10.1007/s00382-008-0507-2)._ [[pdf](/2016/03/grinsted-climdyn09-sealevel200to2100ad.pdf)]
 
 **Some of the main results and some comments**
-  
+
 (_Note: when reading the tables and figures in the paper then look at the rows marked 'moberg' as they are our best guess_).
 
   * We project a sea level rise roughly 3 times higher than the predictions of the IPCC.
@@ -53,5 +54,5 @@ It sounds very controversial to project such a large rise but it really is not.�
   * Random subsets of the Markov Chain Monte Carlo samples from the model parameter space from each experiment ([Moberg](/Home/PDFs/Announcements/gslprojection/g09-moberg-mcmc-small.txt), [Jones](/Home/PDFs/Announcements/gslprojection/g09-jones-mcmc-small.txt), [Historical](/Home/PDFs/Announcements/gslprojection/g09-obs-mcmc-small.txt)). These can be used to make projections for other temperature scenarios.
 
 **A comment on the discussion at the realclimate blog.**
-  
+
 Stefan Rahmstorf at realclimate posted a blog-criticism of this paper, as he argues it has too low millenium scale sensitivity when compared to [a non-peer reviewed graph with no uncertainties](/Home/Miscellaneous-Debris/relationshipbetweensealevelriseandglobaltemperature). My side of the realclimate story can be found [here](/Home/Miscellaneous-Debris/rahmstorf2007lackofrealism). Please note that our disagreement is very small on projections for the next century though, as we both project roughly 3 times more than IPCC. This result [has since been reproduced and all recent studies seem to agree](/Home/PDFs/Announcements/howwillsealevelrespondtochangesinnaturalandanthropogenicforcingsby2100).

@@ -12,7 +12,7 @@ tags:
 aliases:
   - /2016/03/15/an-existential-threat-to-coastal-nations/
 ---
-We may be committing ourselves to an eventual complete deglaciation of Earth in a business-as-usual scenario (ECP8.5). The sea level rise from a complete deglaciation would wipe my own country, Denmark, off the map. It would probably take millennia to unfold, and so you might argue that we should discount this possibility. But can we really just discount existential threats? The impacts of relentless sea level rise with no end in sight would of course be felt much sooner.
+We may be committing ourselves to an eventual complete deglaciation of Earth in a business-as-usual scenario (ECP8.5). The sea level rise from a complete deglaciation would wipe my own country, Denmark, off the map. <!--more--> It would probably take millennia to unfold, and so you might argue that we should discount this possibility. But can we really just discount existential threats? The impacts of relentless sea level rise with no end in sight would of course be felt much sooner.
 
 [Foster & Rohling (2013)](http://m.pnas.org/content/110/4/1209.abstract) plotted paleo sea level against CO2 concentrations. This plot looks a bit worrying when held up against the possible futures in the [Extended Concentration Pathways](http://www.pik-potsdam.de/~mmalte/rcps/)*.
 

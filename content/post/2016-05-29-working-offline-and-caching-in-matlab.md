@@ -10,7 +10,7 @@ aliases:
   - /2016/05/29/working-offline-and-caching-in-matlab/
   - /2015/05/19/loading-mola-pedr-files-in-matlab/
 ---
-I am working with satellite imagery in matlab. This is way too much data for me to keep on my laptop, and so I keep it on a server somewhere. But this has the major drawback that i cannot as easily work on the data when I am out of office. I can mount the server drive over ssh, but it is almost unbearably slow to fetch the data over the net when you are talking about Gb sized images. Instead I have coded a small a local cache system for matlab. It is called cachedcall and can be downloaded from the matlab [fileexchange](http://www.mathworks.com/matlabcentral/fileexchange/49949-cachedcall). It is not specifically aimed at loading files, but can also be used to cache the results of slow computations.
+I am working with satellite imagery in Matlab. This is way too much data for me to keep on my laptop, and so I keep it on a server somewhere. But this has the major drawback that I cannot as easily work on the data when I am out of office. <!--more--> I can mount the server drive over ssh, but it is almost unbearably slow to fetch the data over the net when you are talking about Gb sized images. Instead I have coded a small a local cache system for matlab. It is called cachedcall and can be downloaded from the matlab [fileexchange](http://www.mathworks.com/matlabcentral/fileexchange/49949-cachedcall). It is not specifically aimed at loading files, but can also be used to cache the results of slow computations.
 
 Let's say you have a line of code that looks like this:
 
@@ -36,14 +36,6 @@ ROI=[508655 7602045;506038 7595954;495020 7596866;484339 7599034;481306 7600283;
 
 The great thing is this speeds-up my scripts at work, plus it allows me to continue working on the scripts everywhere else.
 
- 
+
 
 cachedcall was featured as the file exchange pick of the week: http://blogs.mathworks.com/pick/2015/03/27/cache-your-nuts-to-eat-later/
-
- 
-
- 
-
- 
-
- 

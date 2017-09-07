@@ -13,8 +13,6 @@ tags:
   - flood
   - remote sensing
 ---
-## Abstract
-
 We report evidence of four cycles of outburst floods from Catalina Lake, an ice-dammed lake in East Greenland, identified in satellite imagery between 1966–2016. The lake measures 20–25 km<sup>2</sup>, and lake level drops 130–150 m in each event, corresponding to a water volume of 2.6–3.4 Gt, and a release of potential energy of 10<sup>16</sup> J, among the largest outburst floods reported in historical times. The drainage cycle has shortened systematically, and the lake filling rate has increased over each cycle, suggesting that the drainage pattern is changing due to climate warming with possible implications for environmental conditions in Scoresbysund fjord.
 <!--more-->
 {{< youtube xDH5GWWTsV0 >}}

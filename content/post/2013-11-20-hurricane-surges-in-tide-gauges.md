@@ -12,7 +12,7 @@ aliases:
   - /Home/Miscellaneous-Debris/hurricanesurgesintidegauges
 ---
 The hurricane [surge index](/Home/PDFs/Announcements/ahomogenousrecordofatlantichurricanesurgethreatsince1923) was constructed by extracting the hurricane surge signal from tide gauge records. This involved some pre-filtering of the tide gauge data. This page illustrates a number of these steps on a short section of the 2005 data recorded at the Pensacola tide gauge.
-
+<!--more-->
 The raw hourly data is plotted in the first row. The date of first landfall for named storms are written above the plot and colorcoded to correspond to the paths plotted in the map.
 
 We see that clearly all the named storms give rise to a sea level anomaly. I first take daily averages. This strongly mutes the tidal signals, and the surge signals stand out much more clearly. We see that Wilma that hit the florida pan-handle caused a sea level drop at Pensacola. This is typical of cyclones hitting to the east of a tide gauge. The off shore winds of the cyclone cause this drop in sea level. Daily average surge is also much less sensitive to local geometry. I.e. the tide gauge becomes representative of a much greater part of the coastline than it would have otherwise.

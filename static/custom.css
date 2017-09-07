@@ -5,3 +5,5 @@
   grid-gap: 15px;
   grid-template-columns: 150px 1fr;
 }
+
+.article-info {display:none;}

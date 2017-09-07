@@ -19,7 +19,7 @@ aliases:
   - /2006/12/24/my-phd-thesis/
 ---
 Grinsted (2006) Advanced methods of glaciological modelling and time series analysis, Doctoral dissertation, Arctic Centre Reports 47. [pdf](/Home/PDFs/Grinsted_thesis06.pdf?attredirects=0)
-
+<!--more-->
 **Supervised by** Prof. [John Moore](http://www.ulapland.fi/home/hkunta/jmoore/johnpage.htm), and Prof. Sven-Erik Hjelt.
 
 **Opponent**: Dr. Martin Miles.

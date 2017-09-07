@@ -15,7 +15,7 @@ aliases:
   - /2014/10/23/upper-limit-for-sea-level-projections-by-2100/
   - /Home/PDFs/Announcements/upperlimitforsealevelprojectionsby2100
 ---
-We construct the probability density function of global sea level at 2100, estimating that sea level rises larger than 180 cm are less than 5% probable. An upper limit for global sea level rise of 190 cm is assembled by summing the highest estimates of individual sea level rise components simulated by process based models with the RCP8.5 scenario. The agreement between the methods may suggest more confidence than is warranted since large uncertainties remain due to the lack of scenario-dependent projections from ice sheet dynamical models, particularly for mass loss from marine-based fast flowing outlet glaciers in Antarctica. This leads to an intrinsically hard to quantify fat tail in the probability distribution for global mean sea level rise. Thus our low probability upper limit of sea level projections cannot be considered definitive. Nevertheless, our upper limit of 180 cm for sea level rise by 2100 is based on both expert opinion and process studies and hence _indicates that other lines of evidence are needed to justify a larger sea level rise this century_.
+We construct the probability density function of global sea level at 2100, estimating that sea level rises larger than 180 cm are less than 5% probable. An upper limit for global sea level rise of 190 cm is assembled by summing the highest estimates of individual sea level rise components simulated by process based models with the RCP8.5 scenario. <!--more--> The agreement between the methods may suggest more confidence than is warranted since large uncertainties remain due to the lack of scenario-dependent projections from ice sheet dynamical models, particularly for mass loss from marine-based fast flowing outlet glaciers in Antarctica. This leads to an intrinsically hard to quantify fat tail in the probability distribution for global mean sea level rise. Thus our low probability upper limit of sea level projections cannot be considered definitive. Nevertheless, our upper limit of 180 cm for sea level rise by 2100 is based on both expert opinion and process studies and hence _indicates that other lines of evidence are needed to justify a larger sea level rise this century_.
 
 [![Graphical representation of the full uncertainty in the sea level projections over the 21st century. It is found that there is 95% certainty that sea level rise will not exceed 1.8m this century (red). Darker purple shows the likely range of sea level rise as projected in the IPCC fifth assessment report under a scenario with rising emissions throughout the 21st century (RCP8.5).](/2014/10/PR.png)](/2014/10/PR.png)
 
@@ -29,7 +29,7 @@ The IPCC did not provide an upper limit or worst case scenario for sea level ris
 
 It may seem like an alarmist paper, but really it is the opposite because we are arguing that even faster rates of sea level rise are improbable. We note that [sea level rise does not stop in 2100](/Home/PDFs/Announcements/sealevelprojectionstoad2500withthercpscenarios).
 
- 
+
 
 [![Upper limit of sea level rise](/2016/02/PRen.png)](/2016/02/PRen.png)
 

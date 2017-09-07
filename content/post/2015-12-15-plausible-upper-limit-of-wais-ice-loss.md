@@ -12,14 +12,14 @@ tags:
 aliases:
   - /2015/12/15/plausible-upper-limit-of-wais-ice-loss/
 ---
-[Ritz et al. (2015)](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature16147.html) have a recent model study of potential sea level rise from Antarctic marine ice sheet instability. In it they conclude:
+[Ritz et al. (2015)](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature16147.html) have a recent model study of potential sea level rise from Antarctic marine ice sheet instability. <!--more--> In it they conclude:
 
 > "_Our assessment suggests that upper-bound estimates from low-resolution models and physical arguments (up to a metre by 2100 and around one and a half by 2200) are **implausible** under current understanding of physical mechanisms and potential triggers_".
 
 I like the study, -yet I am not ready to accept their assessment that higher rates are _implausible_. There are several reasons for this, but the most important is that this is a single study, and while they do a commendable job in exploring uncertainties, then history is littered with examples of overconfidence. See for example these estimates of the speed of light over time, where estimates clearly have had too narrow confidence intervals (from "_Ubiquitous Overconfidence_" section in [Morgan et al., 2014](http://www.pnas.org/content/111/20/7176.full.pdf)):
-  
+
 ![](/2016/02/speed_of_light.png)
-  
+
 The Ritz et al. modelling approach is to some extent conditional on our physical understanding, and new mechanisms have been proposed which make the ice sheet respond an order of magnitude faster (Pollard et al., 2015). For that reason alone I think it is too early to say "implausible". Ritz et al. do acknowledge the possibility of new physics in their final sentence:
 
 > _But, given current understanding, our results indicate that plausible predictions of Antarctic ice-sheet instability leading to greater than around half a metre of sea-level rise by 2100 or twice that by 2200 **would require new physical mechanisms[23](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature16147.html#ref23), new projections of MISI triggers, or both**._
@@ -41,8 +41,8 @@ _Note: this was written in a rush. Please, excuse any trailing thoughts and unfi
 
 Observe how the 83% interval of BA13, is reasonably similar to 95% of other studies. I note that in AR5 they concluded that the full uncertainty is greater than ensemble spread alone for several key quantities (e.g. steric expansion). They therefore inflated model-spread by a factor 2, which essentially maps 95% model spread to 83% uncertainty intervals.
 
- 
+
 
 **[](https://www.ipcc.ch/publications_and_data/ar4/wg1/en/box-10-2-figure-2.html)Update:** I think the difficulty with defining an upper limit for the AIS contribution to SLR is similar to the difficulty with assigning an upper limit to climate sensitivity. Here's a figure from AR4 (chosen because it is plotted as a CDF). I think this figure makes it easy to appreciate why model spread alone (green) does not capture the full uncertainty.
-  
+
 Edit: Fixed a few inverted statements. Thanks to [@p_aulina](https://mobile.twitter.com/p_aulina)

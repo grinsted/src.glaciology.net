@@ -9,7 +9,7 @@ aliases:
   - /2016/04/07/picking-a-password-manager/
 ---
 It is difficult to pick a password manager. After many considerations I eventually decided on a keepass2 database. It is a difficult decision because you have to place quite a lot of trust in the solution.
-
+<!--more-->
 I want to be able to access my database from every device. I use windows, android, linux, and osx. Additionally I would also like to have a fallback solution for how I could access the db in an environment where I cannot install anything. This means the database has to be hosted/synced to a server or to the cloud. I don't trust the cloud, so it is essential that the decryption takes place client side. Keepass2 allows me to store the database in the cloud (webdav/google drive/dropbox/...).
 
 There are keepass2 clients for all the different platforms. That ticks one box for me. But one thing that makes me uncomfortable is that I have to use a different client for every platform. That is inherently less secure. Can I trust them all? I trust the main Keepass2 project. It is a C#-project, and is primarily designed for windows. It should be possible to run it with mono on linux and osx, but I have not had success with that. Many of the alternative clients for other platforms have a smaller user base, and consequently the code has received less scrutiny. So, that is not an ideal situation. In the end here are the clients that I use, or consider to use:
