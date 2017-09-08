@@ -9,3 +9,9 @@
 .article-info {display:none;}
 
 .article-banner {object-fit:cover;height:350px;}
+
+
+.archive-article-title {
+    font-size: 1.2em;
+    line-height: 1.2em;
+}
