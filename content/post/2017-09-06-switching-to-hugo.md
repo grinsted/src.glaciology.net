@@ -7,7 +7,7 @@ tags:
   - tips
 ---
 
-This site is now created using a static site generator called [hugo](https://gohugo.io). I host it on a [netlify](https://netlify.com), and the source files are hosted on github. This is a nice setup for academics. So thumbs up from me.  
+This site is now created using a static site generator called [hugo](https://gohugo.io). I host it on [netlify](https://netlify.com), and the source files are hosted on github. This is a nice setup for academics. So thumbs up from me.  
 <!--more-->
 
 Hugo is a static website generator (similar to Jekyll but faster and with fewer dependencies). You write your posts in markdown, and hugo will then render it to static html files using a theme. You can check the markdown source for this page [here](https://raw.githubusercontent.com/grinsted/src.glaciology.net/master/content/post/2017-09-06-switching-to-hugo.md). Static means fast, and easy to find a host. You could put it on github pages, your own web server, and netlify. Static also means that if you are going to host it yourself then it will be easier to keep your server safe from hackers. You will simply have a smaller attack surface.
