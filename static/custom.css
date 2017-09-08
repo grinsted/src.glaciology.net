@@ -7,3 +7,5 @@
 }
 
 .article-info {display:none;}
+
+.article-banner {object-fit:cover;height:350px;}
