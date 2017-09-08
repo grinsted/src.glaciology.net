@@ -39,7 +39,6 @@ theme = "hugo-icarus-theme"
 	custom_js  = []
 
 
-
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
 # place the links before or after them.
@@ -101,6 +100,8 @@ theme = "hugo-icarus-theme"
     facebook_admin  = ""
     twitter_domain  = ""
     twitter         = "agrinsted"
+    email           = "ag@glaciology.net"
+    phone           = ""
 
 
 
