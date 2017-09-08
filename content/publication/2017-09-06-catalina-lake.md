@@ -1,5 +1,5 @@
 ---
-title: Periodic outburst foods from an ice-dammed lake in East Greenland
+title: Periodic outburst floods from an ice-dammed lake in East Greenland
 date: 2017-09-06T03:24:00+00:00
 author: aslak
 Citation:
