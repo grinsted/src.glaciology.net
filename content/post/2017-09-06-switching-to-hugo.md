@@ -10,4 +10,11 @@ tags:
 This site is now created using a static site generator called [hugo](https://gohugo.io). I host it on a [netlify](https://netlify.com), and the source files are hosted on github. This is a nice setup for academics. So thumbs up from me.  
 <!--more-->
 
-I've previously hosted my site on google sites which was nice because it has zero maintenance, but also almost no flexibility. I migrated to wordpress hosted on a digital ocean droplet. There is quite a lot of maintenance in keeping all components updated and reasonably secure, installing SSL certificates, managing a database and backups.
+Hugo is a static website generator (similar to Jekyll but faster and with fewer dependencies). You write your posts in markdown, and hugo will then render it to static html files using a theme. You can check the markdown source for this page [here](https://raw.githubusercontent.com/grinsted/src.glaciology.net/master/content/post/2017-09-06-switching-to-hugo.md). Static means fast, and easy to find a host. You could put it on github pages, your own web server, and netlify. Static also means that if you are going to host it yourself then it will be easier to keep your server safe from hackers. You will simply have a smaller attack surface.
+
+Netlify is a place that hosts static websites. Once you have set it up then it will detect your commits to git repo, and automatically compile a new version of the html. It has is nice. You could achive the same using travis CI and github pages, but that is much more complicated to setup.
+
+I like this new setup where i just have a bunch of text files, and a git repo.
+
+
+I've previously hosted my site on google sites which was nice because it has zero maintenance, but also almost no flexibility. I migrated to wordpress hosted on a digital ocean droplet. There is quite a lot of maintenance in keeping all components updated and reasonably secure, installing SSL certificates, managing a database and backups. This new setup is much easier.
