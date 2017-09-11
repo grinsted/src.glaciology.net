@@ -1,11 +1,8 @@
-   ---
+---
 title: An estimate of global glacier volume
 date: 2013-12-24T00:00:00+00:00
 author: aslak
-Citation:
-  - |
-    Grinsted, A. (2013): An estimate of global glacier volume, The Cryosphere, 7, 141–151, doi:10.5194/tc-7-141-2013
-    [link]
+citation: "Grinsted, A. (2013): An estimate of global glacier volume, The Cryosphere, 7, 141–151, doi:10.5194/tc-7-141-2013"
 banner: /2013/06/1280px-Distant_shot_of_Portage_Glacier.jpg
 tags:
   - budget

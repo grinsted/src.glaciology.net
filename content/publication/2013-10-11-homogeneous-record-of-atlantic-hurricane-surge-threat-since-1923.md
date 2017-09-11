@@ -2,8 +2,7 @@
 title: Homogeneous record of Atlantic hurricane surge threat since 1923
 date: 2013-10-11T04:49:00+00:00
 author: aslak
-Citation:
-  - Aslak Grinsted, John C. Moore, and Svetlana Jevrejeva (2012), Homogeneous record of Atlantic hurricane surge threat since 1923, PNAS, doi:10.1073/pnas.1209542109
+citation: Aslak Grinsted, John C. Moore, and Svetlana Jevrejeva (2012), Homogeneous record of Atlantic hurricane surge threat since 1923, PNAS, doi:10.1073/pnas.1209542109
 banner: /2013/10/Hurricane_Isabel_from_ISS.jpg
 tags:
   - extremes

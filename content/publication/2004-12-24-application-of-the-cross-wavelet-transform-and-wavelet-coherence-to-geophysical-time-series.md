@@ -2,8 +2,7 @@
 title: Application of the cross wavelet transform and wavelet coherence to geophysical time series.
 date: 2004-12-24T00:00:00+00:00
 author: aslak
-Citation:
-  - Grinsted, A., J. C. Moore, S. Jevrejeva (2004), Application of the cross wavelet transform and wavelet coherence to geophysical time series, Nonlin. Process. Geophys., 11, 561566.
+citation: Grinsted, A., J. C. Moore, S. Jevrejeva (2004), Application of the cross wavelet transform and wavelet coherence to geophysical time series, Nonlin. Process. Geophys., 11, 561566.
 banner: /2016/02/wtc.png
 tags:
   - AO

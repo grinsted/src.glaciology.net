@@ -16,5 +16,4 @@ Netlify is a place that hosts static websites. Once you have set it up then it w
 
 I like this new setup where I just have a bunch of local text files, and a git repo.
 
-
 I've previously hosted my site on google sites which was nice because it has zero maintenance and high up-time. The drawback is that it has almost no flexibility. I migrated to wordpress hosted on a digital ocean droplet. There is quite a lot of maintenance in keeping all components updated and reasonably secure, installing SSL certificates, managing a database and backups. This new setup is much easier.

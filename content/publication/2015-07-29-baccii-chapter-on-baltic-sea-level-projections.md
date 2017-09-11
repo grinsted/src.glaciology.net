@@ -2,8 +2,7 @@
 title: BACCII chapter on Baltic sea level projections
 date: 2015-07-29T04:53:00+00:00
 author: aslak
-Citation:
-  - Grinsted, A. (2015). Projected Change—Sea Level. In Second Assessment of Climate Change for the Baltic Sea Basin (pp. 253-263). Springer International Publishing.
+citation: Grinsted, A. (2015). Projected Change—Sea Level. In Second Assessment of Climate Change for the Baltic Sea Basin (pp. 253-263). Springer International Publishing.
 banner: /2016/02/BACCII.jpg
 tags:
   - Assessment

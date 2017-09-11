@@ -2,8 +2,7 @@
 title: Holocene evolution of Scharffenbergbotnen blue ice area
 date: 2007-12-24T00:00:00+00:00
 author: aslak
-Citation:
-  - Sinisalo, A., A. Grinsted, J. C. Moore, H. A. J. Meijer, Tõnu Martma, R. S.W. van de Wal (2007), Inferences from stable water isotopes on the Holocene evolution of Scharffenbergbotnen blue ice area, East Antarctica, J. Glaciol. 53 (182) 427-434.
+citation: Sinisalo, A., A. Grinsted, J. C. Moore, H. A. J. Meijer, Tõnu Martma, R. S.W. van de Wal (2007), Inferences from stable water isotopes on the Holocene evolution of Scharffenbergbotnen blue ice area, East Antarctica, J. Glaciol. 53 (182) 427-434.
 banner: /2008/02/smodel.jpg
 tags:
   - blue ice

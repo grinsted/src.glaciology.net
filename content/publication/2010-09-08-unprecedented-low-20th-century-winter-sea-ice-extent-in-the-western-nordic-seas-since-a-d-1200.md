@@ -2,8 +2,7 @@
 title: Unprecedented low 20th century winter sea ice extent in the Western Nordic Seas since A.D. 1200
 date: 2010-09-08T05:02:00+00:00
 author: aslak
-Citation:
-  - Macias M., A. Grinsted, S. Helama, J. Moore, M. Timonen, T. Martma, E. Isaksson, M. Eronen, Unprecedented low 20th century winter sea ice extent in the Western Nordic Seas since A.D. 1200. Clim. Dyn., 2009, 34, (6), 781-795, doi:10.1007/s00382-009-0610-z
+citation: Macias M., A. Grinsted, S. Helama, J. Moore, M. Timonen, T. Martma, E. Isaksson, M. Eronen, Unprecedented low 20th century winter sea ice extent in the Western Nordic Seas since A.D. 1200. Clim. Dyn., 2009, 34, (6), 781-795, doi:10.1007/s00382-009-0610-z
 banner: /2010/09/Dutch-whalers-near-Svalbard-1690.jpg
 tags:
   - ice core
@@ -20,4 +19,4 @@ We reconstructed decadal to centennial variability of maximum sea ice extent in 
 {{< figure src="/2016/02/macias-seaice.png" caption="Comparison of our reconstruction of sea ice extent (grey line) with other measures of ice conditions in the area. (see paper for details)." >}}
 
 
-Citation: Macias M., A. Grinsted, S. Helama, J. Moore, M. Timonen, T. Martma, E. Isaksson, M. Eronen, Unprecedented low 20th century winter sea ice extent in the Western Nordic Seas since A.D. 1200. Clim. Dyn., 2009, 34, (6), 781-795, doi:[10.1007/s00382-009-0610-z](http://dx.doi.org/10.1007/s00382-009-0610-z) [pdf](/2016/03/Macias-ClimDyn09-barentsw-sea-ice-reconstruction.pdf)
+citation: Macias M., A. Grinsted, S. Helama, J. Moore, M. Timonen, T. Martma, E. Isaksson, M. Eronen, Unprecedented low 20th century winter sea ice extent in the Western Nordic Seas since A.D. 1200. Clim. Dyn., 2009, 34, (6), 781-795, doi:[10.1007/s00382-009-0610-z](http://dx.doi.org/10.1007/s00382-009-0610-z) [pdf](/2016/03/Macias-ClimDyn09-barentsw-sea-ice-reconstruction.pdf)

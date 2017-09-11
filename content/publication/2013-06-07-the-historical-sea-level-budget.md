@@ -2,8 +2,7 @@
 title: The historical sea level budget
 date: 2013-06-07T03:48:00+00:00
 author: aslak
-Citation:
-  - 'Moore, Jevrejeva, and Grinsted, The Historical Sea Level Budget, Ann. Glac., 52, (59) , 2011, [link]'
+citation: 'Moore, Jevrejeva, and Grinsted, The Historical Sea Level Budget, Ann. Glac., 52, (59) , 2011'
 banner: /2016/02/CIMG1046.jpg
 tags:
   - budget

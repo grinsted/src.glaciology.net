@@ -2,8 +2,7 @@
 title: Periodic outburst floods from an ice-dammed lake in East Greenland
 date: 2017-09-06T03:24:00+00:00
 author: aslak
-Citation:
-  - Grinsted, Hvidberg, Campos, Dahl-Jensen (2017), Periodic outburst floods from an ice-dammed lake in East Greenland, Scientific Reports, 7, doi:10.1038/s41598-017-07960-9
+citation: Grinsted, Hvidberg, Campos, Dahl-Jensen (2017), Periodic outburst floods from an ice-dammed lake in East Greenland, Scientific Reports, 7, doi:10.1038/s41598-017-07960-9
 doi: 10.1038/s41598-017-07960-9
 banner: /2017/catalinalake-raphaeldein.jpg
 tags:

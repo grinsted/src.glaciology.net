@@ -2,8 +2,7 @@
 title: Separation of melting and environmental signals in an ice core with seasonal melt.
 date: 2005-12-24T00:00:00+00:00
 author: aslak
-Citation:
-  - Moore, J. C., A. Grinsted, T. Kekonen, and V. Pohjola (2005), Separation of melting and environmental signals in an ice core with seasonal melt, Geophys. Res. Lett., 32, L10501, doi:10.1029/2005GL023039.
+citation: Moore, J. C., A. Grinsted, T. Kekonen, and V. Pohjola (2005), Separation of melting and environmental signals in an ice core with seasonal melt, Geophys. Res. Lett., 32, L10501, doi:10.1029/2005GL023039.
 banner: /2008/02/waste-separation-502952_960_720.jpg
 aliases:
   - /2005/12/24/separation-of-melting-and-environmental-signals-in-an-ice-core-with-seasonal-melt/

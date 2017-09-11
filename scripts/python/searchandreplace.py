@@ -9,11 +9,13 @@ import time
 import urllib
 
 #cleanre = re.compile(r'^layout:[^\n]*\n', re.MULTILINE |re.DOTALL)
-cleanre = re.compile(r'^categories:[^\n]*\n\s*-[^\n]*\n', re.MULTILINE |re.DOTALL)
+#cleanre = re.compile(r'^categories:[^\n]*\n\s*-[^\n]*\n', re.MULTILINE |re.DOTALL)
+
+cleanre = re.compile(r'^Citation:[\s\n]+-?\s*([^\n]+)', re.MULTILINE |re.DOTALL)
 
 
 # traverse root directory, and list directories as dirs and files as files
-for root, dirs, files in os.walk("content"):
+for root, dirs, files in os.walk("content\publication"):
     for file in files:
         if file.endswith('.md'):
             print(file)
@@ -21,7 +23,7 @@ for root, dirs, files in os.walk("content"):
             with open(file, 'r', encoding='utf8', errors='ignore') as content_file:
                 content = content_file.read()
 
-            content = re.sub(cleanre,'',content)
+            content = re.sub(cleanre,r'citation: \1',content)
             #print(content)
             #sys.exit(' ')
 

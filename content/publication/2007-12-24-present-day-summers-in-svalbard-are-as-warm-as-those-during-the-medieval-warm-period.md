@@ -2,8 +2,7 @@
 title: Present day summers in Svalbard are as warm as those during the medieval warm period.
 date: 2007-12-24T00:00:00+00:00
 author: aslak
-Citation:
-  - 'K. Virkkunen, J. C. Moore, E. Isaksson, V. Pohjola, P. Perämäki, A. Grinsted, T. Kekonen (2007) Warm summers and ion concentrations in snow: comparison of present day with Medieval Warm Epoch from snow pits and an ice core from Lomonosovfonna, Svalbard. J. Glaciol., 53 (183), 623-634.'
+citation: 'K. Virkkunen, J. C. Moore, E. Isaksson, V. Pohjola, P. Perämäki, A. Grinsted, T. Kekonen (2007) Warm summers and ion concentrations in snow: comparison of present day with Medieval Warm Epoch from snow pits and an ice core from Lomonosovfonna, Svalbard. J. Glaciol., 53 (183), 623-634.'
 banner: /2016/02/cropped-CIMG0329.jpg
 tags:
   - historical

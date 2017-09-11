@@ -2,8 +2,7 @@
 title: Reconstructing sea level from paleo and projected temperatures 200 to 2100 AD
 date: 2010-12-24T00:00:00+00:00
 author: aslak
-Citation:
-  - Grinsted, A., J. C. Moore, and S. Jevrejeva (2010), Reconstructing sea level from paleo and projected temperatures 200 to 2100 AD, Clim. Dyn., doi:10.1007/s00382-008-0507-2.
+citation: Grinsted, A., J. C. Moore, and S. Jevrejeva (2010), Reconstructing sea level from paleo and projected temperatures 200 to 2100 AD, Clim. Dyn., doi:10.1007/s00382-008-0507-2.
 banner: /2011/02/800px-Po_vodam.jpg
 tags:
   - climate

@@ -2,8 +2,7 @@
 title: Relative importance of mass and volume changes to global sea level rise.
 date: 2008-04-28T05:42:00+00:00
 author: aslak
-Citation:
-  - Jevrejeva, S., J. C. Moore, and A. Grinsted (2008), Relative importance of mass and volume changes to global sea level rise, J. Geophys. Res., 113, D08105, doi:10.1029/2007JD009208.
+citation: Jevrejeva, S., J. C. Moore, and A. Grinsted (2008), Relative importance of mass and volume changes to global sea level rise, J. Geophys. Res., 113, D08105, doi:10.1029/2007JD009208.
 banner: /2008/04/Foam_-_big.jpg
 tags:
   - budget

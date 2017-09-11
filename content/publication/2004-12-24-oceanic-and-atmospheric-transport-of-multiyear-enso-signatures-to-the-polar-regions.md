@@ -2,8 +2,7 @@
 title: Oceanic and atmospheric transport of multiyear ENSO signatures to the polar regions.
 date: 2004-12-24T00:00:00+00:00
 author: aslak
-Citation:
-  - Jevrejeva, S., J.C. Moore and A. Grinsted, (2004), Oceanic and atmospheric transport of multiyear ENSO signatures to the polar regions. Geophys. Res. Lett., 31, L24210, doi:10.1029/2004GL020871.
+citation: Jevrejeva, S., J.C. Moore and A. Grinsted, (2004), Oceanic and atmospheric transport of multiyear ENSO signatures to the polar regions. Geophys. Res. Lett., 31, L24210, doi:10.1029/2004GL020871.
 banner: /2008/02/1280px-Clouds_over_the_Atlantic_Ocean.jpg
 tags:
   - time series analysis

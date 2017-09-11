@@ -2,8 +2,7 @@
 title: Trends and acceleration in global and regional sea levels since 1807
 date: 2015-07-02T05:36:00+00:00
 author: aslak
-Citation:
-  - 'Jevrejeva, S., Moore, J. C., Grinsted, A., Matthews, A. P., & Spada, G. (2014). Trends and acceleration in global and regional sea levels since 1807. Global and Planetary Change, 113, 11-22. doi:10.1016/j.gloplacha.2013.12.004'
+citation: "Jevrejeva, S., Moore, J. C., Grinsted, A., Matthews, A. P., & Spada, G. (2014). Trends and acceleration in global and regional sea levels since 1807. Global and Planetary Change, 113, 11-22. doi:10.1016/j.gloplacha.2013.12.004"
 banner: /2016/02/spb_panoramic_view_on_spit_of_the_vasilievsky_island_by_atkinson_1805-1807.jpg
 tags:
   - gia
@@ -20,4 +19,4 @@ We use 1277 tide gauge records since 1807 to provide an improved global sea leve
 
 [![Regional sea level rise](/2016/02/slregions.png)](/2016/02/slregions.png)
 
-Citation: Jevrejeva, S., Moore, J. C., Grinsted, A., Matthews, A. P., & Spada, G. (2014). Trends and acceleration in global and regional sea levels since 1807. Global and Planetary Change, 113, 11-22. doi:[10.1016/j.gloplacha.2013.12.004](http://dx.doi.org/10.1016/j.gloplacha.2013.12.004) [pdf](/2016/03/jevrejeva-gloplacha13-virtual-station-recon-w-gia.pdf)
+citation: Jevrejeva, S., Moore, J. C., Grinsted, A., Matthews, A. P., & Spada, G. (2014). Trends and acceleration in global and regional sea levels since 1807. Global and Planetary Change, 113, 11-22. doi:[10.1016/j.gloplacha.2013.12.004](http://dx.doi.org/10.1016/j.gloplacha.2013.12.004) [pdf](/2016/03/jevrejeva-gloplacha13-virtual-station-recon-w-gia.pdf)

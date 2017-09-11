@@ -2,8 +2,7 @@
 title: Efficacy of geoengineering to limit 21st century sea-level rise
 date: 2011-08-21T23:56:00+00:00
 author: aslak
-Citation:
-  - 'J. C. Moore, S. Jevrejeva, A. Grinsted. Efficacy of geoengineering to limit 21st century sea-level rise. Proceedings of the National Academy of Sciences, 2010; doi:10.1073/pnas.1008153107'
+citation: 'J. C. Moore, S. Jevrejeva, A. Grinsted. Efficacy of geoengineering to limit 21st century sea-level rise. Proceedings of the National Academy of Sciences, 2010; doi:10.1073/pnas.1008153107'
 banner: /2016/02/mirrors-earth.jpg
 tags:
   - geoengineering

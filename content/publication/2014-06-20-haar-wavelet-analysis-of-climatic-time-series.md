@@ -2,8 +2,7 @@
 title: Haar wavelet analysis of climatic time series
 date: 2014-06-20T01:55:00+00:00
 author: aslak
-Citation:
-  - 'Zhihua Zhang, John C. Moore, Aslak Grinsted, Int. J. Wavelets Multiresolut Inf. Process. 12, 1450020 (2014) [11 pages] doi:10.1142/S0219691314500209'
+citation: 'Zhihua Zhang, John C. Moore, Aslak Grinsted, Int. J. Wavelets Multiresolut Inf. Process. 12, 1450020 (2014) [11 pages] doi:10.1142/S0219691314500209'
 banner: /2016/02/Horse_mounting_steps_St._Michaels_Church_Warden_-_geograph.org_.uk_-_1066985.jpg
 tags:
   - AO

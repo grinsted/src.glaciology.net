@@ -2,8 +2,7 @@
 title: Projected Atlantic hurricane surge threat from rising temperatures
 date: 2013-12-24T00:00:00+00:00
 author: aslak
-Citation:
-  - Aslak Grinsted, John C. Moore, and Svetlana Jevrejeva (2013), Projected Atlantic hurricane surge threat from rising temperatures, PNAS, doi:10.1073/pnas.1209980110
+citation: Aslak Grinsted, John C. Moore, and Svetlana Jevrejeva (2013), Projected Atlantic hurricane surge threat from rising temperatures, PNAS, doi:10.1073/pnas.1209980110
 banner: /2013/11/katrinaflood.jpg
 tags:
   - AO

@@ -2,8 +2,7 @@
 title: Sulfate source inventories from a Svalbard ice core record spanning the Industrial Revolution.
 date: 2008-03-04T00:48:00+00:00
 author: aslak
-Citation:
-  - Moore, J., T. Kekonen, A. Grinsted, and E. Isaksson (2006), Sulfate source inventories from a Svalbard ice core record spanning the Industrial Revolution, J. Geophys. Res., 111, D15307, doi:10.1029/2005JD006453.
+citation: Moore, J., T. Kekonen, A. Grinsted, and E. Isaksson (2006), Sulfate source inventories from a Svalbard ice core record spanning the Industrial Revolution, J. Geophys. Res., 111, D15307, doi:10.1029/2005JD006453.
 banner: /2014/03/Pinatubo91eruption_plume.jpg
 tags:
   - budget

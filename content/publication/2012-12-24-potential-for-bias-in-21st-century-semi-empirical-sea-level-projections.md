@@ -2,8 +2,7 @@
 title: Potential for bias in 21st century semi-empirical sea level projections
 date: 2012-12-24T00:00:00+00:00
 author: aslak
-Citation:
-  - Jevrejeva, S., J. C. Moore, and A. Grinsted (2012), Potential for bias in 21st century semi-empirical sea level projections, J. Geophys. Res., doi:10.1029/2012JD017704
+citation: Jevrejeva, S., J. C. Moore, and A. Grinsted (2012), Potential for bias in 21st century semi-empirical sea level projections, J. Geophys. Res., doi:10.1029/2012JD017704
 banner: /2016/02/aivasovsky_ivan_constantinovich_the_9th_wave.jpg
 tags:
   - gia
