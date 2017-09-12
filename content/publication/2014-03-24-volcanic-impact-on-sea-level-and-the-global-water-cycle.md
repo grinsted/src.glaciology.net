@@ -16,7 +16,7 @@ aliases:
   - /Home/PDFs/Announcements/Volcanic-impact-on-sea-level-and-the-global-water-cycle
 ---
 We examined the impact of the 5 & 9 most major volcanic eruptions on global sea level. We construct a record of sea level and its uncertainty since 1854. From this we isolate the volcanic signature which surprisingly behaves very differently than models predict.
-<!--more--> 
+<!--more-->
 The mechanism that explains the result is:
 
   1. Large volcanic eruption inject aerosols into the stratosphere
@@ -36,4 +36,4 @@ The water cycle disturbance causes an ‘immediate’ rise in sea level which is
 
 
 
-Reference: Grinsted, A., J. C. Moore, S. Jevrejeva (2007) Observational evidence for volcanic impact on sea level and the global water cycle. PNAS, 104, 19730-19734. [[pdf]](/2016/03/grinsted-pnas07-volcanoes-and-sea-level-small)
+ [[pdf](/pdf/grinsted-pnas07-volcanoes-and-sea-level-small.pdf)]

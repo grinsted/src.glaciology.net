@@ -98,7 +98,7 @@ Radic et al. 2013 and Giesen and Oerlemans 2013 are the only projections that us
   * [Marzeion et al. 12](http://www.marzeion.info/sites/default/files/marzeion_etal_12a.pdf)
   * [Radic et al. 13](http://www.eos.ubc.ca/~vradic/Radic_et_al2013_ClimDyn.pdf)
   * [Giesen & Oerlemans 13](http://dx.doi.org/10.1007/s00382-013-1743-7) (range from giesen and oerlemans 13 table 4)
-  * [Mernild et al. 13](http://www.the-cryosphere.net/7/1565/2013/tc-7-1565-2013.pdf)
+  * [Mernild et al. 13](http://www.the-cryosphere.net/7/1565/pdf/tc-7-1565-2013.pdf)
   * [Hirabayashi et al. 13](http://dx.doi.org/10.3178/hrl.7.6)
   * [Gardner et al. 13](http://www.sciencemag.org/content/340/6134/852.full.pdf) (A constant rate extrap)
 

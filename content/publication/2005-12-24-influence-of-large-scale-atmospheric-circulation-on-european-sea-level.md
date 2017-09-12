@@ -19,4 +19,4 @@ We examine relationships between the variability in the long-term time series of
 
 
 
-Jevrejeva, S., J. C. Moore, P. L. Woodworth, A. Grinsted (2005), Influence of large-scale atmospheric circulation on European sea level: results based on the wavelet transform method, Tellus 57A, 183–193. [pdf](/2016/03/Jevrejeva-tellus05-european-sealevel-wavelet.pdf)
+Jevrejeva, S., J. C. Moore, P. L. Woodworth, A. Grinsted (2005), Influence of large-scale atmospheric circulation on European sea level: results based on the wavelet transform method, Tellus 57A, 183–193. [pdf](/pdf/Jevrejeva-tellus05-european-sealevel-wavelet.pdf)

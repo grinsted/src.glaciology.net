@@ -33,4 +33,4 @@ Data**: sea level since 1700 is archived at <http://www.psmsl.org/products/rec
 
 Jevrejeva, S., J. C. Moore, A. Grinsted, and P. L. Woodworth (2008), Recent global sea level acceleration started over 200 years ago?, Geophys. Res. Lett., 35, L08715, doi:10.1029/2008GL033611.
 
-[[pdf](/2016/03/jevrejeva-GRL08-recent-sea-level-acc-started-200yrs-ago.pdf)]
+[[pdf](/pdf/jevrejeva-GRL08-recent-sea-level-acc-started-200yrs-ago.pdf)]

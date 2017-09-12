@@ -29,7 +29,7 @@ The press release can be found [here](http://www.eurekalert.org/pub_releases/200
 
 We use a physically plausible 4 parameter linear response equation to relate 2000 years of global temperatures and sea level. We estimate likelihood distributions of equation parameters using Monte Carlo inversion, which then allows visualization of past and future sea level scenarios. The model has good predictive power when calibrated on the pre-1990 period and validated against the high rates of sea level rise from the satellite altimetry. Future sea level is projected from IPCC temperature scenarios and past sea level from established multi-proxy reconstructions assuming that the established relationship between temperature and sea level holds from 200-2100 A.D. Over the last 2000 years minimum sea level (-19 to -26 cm) occurred around 1730 AD, maximum sea level (12 to 21 cm) around 1150 AD. Sea level 2090-2099 is projected to be 0.9 to 1.3 m for the A1B scenario, with low probability of the rise being within Intergovernmental Panel on Climate Change (IPCC) confidence limits.
 
-_Citation: Grinsted, A., J. C. Moore, and S. Jevrejeva (2010), Reconstructing sea level from paleo and projected temperatures 200 to 2100 AD, Clim. Dyn., [doi:10.1007/s00382-008-0507-2](http://dx.doi.org/10.1007/s00382-008-0507-2)._ [[pdf](/2016/03/grinsted-climdyn09-sealevel200to2100ad.pdf)]
+_Citation: Grinsted, A., J. C. Moore, and S. Jevrejeva (2010), Reconstructing sea level from paleo and projected temperatures 200 to 2100 AD, Clim. Dyn., [doi:10.1007/s00382-008-0507-2](http://dx.doi.org/10.1007/s00382-008-0507-2)._ [[pdf](/pdf/grinsted-climdyn09-sealevel200to2100ad.pdf)]
 
 **Some of the main results and some comments**
 

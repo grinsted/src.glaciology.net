@@ -19,7 +19,7 @@ Geoengineering has been proposed as a feasible way of mitigating anthropogenic 
 
 [http://podcasts.aaas.org/science\_podcast/SciencePodcast\_100827.mp3](http://podcasts.aaas.org/science_podcast/SciencePodcast_100827.mp3)</audio>
 
-**Citation**: J. C. Moore, S. Jevrejeva, A. Grinsted. Efficacy of geoengineering to limit 21st century sea-level rise.Proceedings of the National Academy of Sciences, 2010; doi:[10.1073/pnas.1008153107](http://dx.doi.org/10.1073/pnas.1008153107) [pdf](/2016/03/Moore-PNAS10-geoengineering-and-sea-level.pdf) [<a href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1008153107/-/DCSupplemental" rel="nofollow">supp-info</a>]
+**Citation**: J. C. Moore, S. Jevrejeva, A. Grinsted. Efficacy of geoengineering to limit 21st century sea-level rise.Proceedings of the National Academy of Sciences, 2010; doi:[10.1073/pnas.1008153107](http://dx.doi.org/10.1073/pnas.1008153107) [pdf](/pdf/Moore-PNAS10-geoengineering-and-sea-level.pdf) [<a href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1008153107/-/DCSupplemental" rel="nofollow">supp-info</a>]
 
 Some mentions of the paper:
 

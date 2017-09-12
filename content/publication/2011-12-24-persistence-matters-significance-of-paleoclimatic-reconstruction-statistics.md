@@ -16,7 +16,7 @@ Proxy data forms natural time series used to lengthen instrumental climatic reco
 
 **Citation**
 
-Macias-Fauria, Grinsted, Helama, Holopainen (2012), Persistence matters: Estimation of the statistical significance of paleoclimatic reconstruction statistics from autocorrelated time series. Dendrochronologia, 30 (2), doi:[10.1016/j.dendro.2011.08.003](http://dx.doi.org/10.0.3.248/j.dendro.2011.08.003) [pdf](/Home/PDFs/Macias-FauriaDendrochronologia12_Persistencematters-Estimationofthestatisticalsignificanceofpaleoclimaticreconstructionstatisticsfromautocorrelatedtimeseries.pdf?attredirects=0&d=1)
+Macias-Fauria, Grinsted, Helama, Holopainen (2012), Persistence matters: Estimation of the statistical significance of paleoclimatic reconstruction statistics from autocorrelated time series. Dendrochronologia, 30 (2), doi:[10.1016/j.dendro.2011.08.003](http://dx.doi.org/10.0.3.248/j.dendro.2011.08.003) [pdf](/pdf/Macias-Fauria-Dendrochronologia12-_Persistence.pdf)
 
 **Matlab package:**
 

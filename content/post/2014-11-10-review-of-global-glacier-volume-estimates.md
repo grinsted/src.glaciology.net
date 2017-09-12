@@ -25,7 +25,7 @@ See also this overview of [recent glacier projections](/Home/Miscellaneous-Debri
 
 Cogley, J.G. (2012), The future of the world’s glaciers. In: The Future of the World’s Climate. A. Henderson-Sellers and K. McGuffie (eds) Elsevier DOI: [10.1016/B978-0-12-386917-3.00008-7](http://dx.doi.org/10.1016/B978-0-12-386917-3.00008-7)
 
-**Grinsted, A. (2013)**: An estimate of global glacier volume, The Cryosphere, 7, 141–151, doi:10.5194/tc-7-141-2013 [[link](http://www.the-cryosphere.net/7/141/2013/tc-7-141-2013.pdf)]
+**Grinsted, A. (2013)**: An estimate of global glacier volume, The Cryosphere, 7, 141–151, doi:10.5194/tc-7-141-2013 [[link](http://www.the-cryosphere.net/7/141/pdf/tc-7-141-2013.pdf)]
 
 Huss, M., and D. Farinotti (2012), Distributed ice thickness and volume of all glaciers around the globe, J. Geophys. Res., 117, F04010, doi:10.1029/2012JF002523
 

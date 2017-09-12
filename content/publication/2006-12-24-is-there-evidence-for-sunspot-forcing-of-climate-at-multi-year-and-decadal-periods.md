@@ -18,4 +18,4 @@ It has been proposed that solar cycle irradiance variations may affect the whole
 ![](/2016/02/nosunspotforcing.jpg)
  
 
-Moore, J., A. Grinsted, and S. Jevrejeva (2006), Is there evidence for sunspot forcing of climate at multi-year and decadal periods?, Geophys. Res. Lett., 33, L17705, doi:10.1029/2006GL026501. [pdf](/Home/PDFs/Moore_grl06_-_sunspots.pdf?attredirects=0)
+Moore, J., A. Grinsted, and S. Jevrejeva (2006), Is there evidence for sunspot forcing of climate at multi-year and decadal periods?, Geophys. Res. Lett., 33, L17705, doi:10.1029/2006GL026501. [pdf](/pdf/Moore-grl06-sunspots.pdf)

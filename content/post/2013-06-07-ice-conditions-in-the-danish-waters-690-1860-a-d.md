@@ -7,7 +7,7 @@ aliases:
   - /2013/06/07/ice-conditions-in-the-danish-waters-690-1860-a-d/
   - /Home/Miscellaneous-Debris/iceconditionsinthedanishwaters690-1860ad
 ---
-In 1915 C. J. H. Speerschneider from DMI compiled alot of evidence regarding past ice conditions in Danish waters. My colleague J.P. Steffensen found it in a pile of books being thrown out and saved it. I've [scanned it to a pdf](/2013/06/Speerschneiderdmi1915Danishiceconditions%2C690-1860.pdf) to make it more accesible. There is a summary in english on page 124.
+In 1915 C. J. H. Speerschneider from DMI compiled alot of evidence regarding past ice conditions in Danish waters. My colleague J.P. Steffensen found it in a pile of books being thrown out and saved it. I've [scanned it to a pdf](/pdf/Speerschneiderdmi1915Danishiceconditions%2C690-1860.pdf) to make it more accesible. There is a summary in english on page 124.
 <!--more-->
 
 The vinter conditions for individual years is carefully summarized with good references. Often additional evidence from other European countries is also cited. For example the harsh ice conditions in the 1785 winter for Rotterdam and Haag is cited.

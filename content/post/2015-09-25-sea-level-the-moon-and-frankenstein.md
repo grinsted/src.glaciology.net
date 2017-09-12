@@ -82,4 +82,4 @@ The data in the figure comes from these sources: Sea level digitized from JMHs p
 
 The new title of this page is credited to a tweet by [Sou](https://twitter.com/SouBundanga/status/646358917996347392).
 
-**Update:** I made a guerrilla [poster for EGU 2016](/2015/09/frankenstein2016.pdf) based on this page.
+**Update:** I made a guerrilla [poster for EGU 2016](/pdf/frankenstein2016.pdf) based on this page.

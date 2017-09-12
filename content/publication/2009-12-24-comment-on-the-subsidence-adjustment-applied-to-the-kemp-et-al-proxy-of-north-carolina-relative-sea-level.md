@@ -21,7 +21,7 @@ In their paper they then proceed to calibrate a semi-empirical model of global s
 Links to paper, comment and reply:
 
   * Kemp et al's PNAS paper: [PNAS](http://www.pnas.org/content/108/27/11017.abstract)
-  * **Our technical comment**: [PNAS comment](http://www.pnas.org/content/108/40/E781) [pdf](/2016/02/grinsted-PNAS11-Kemp-comment.pdf)
+  * **Our technical comment**: [PNAS comment](http://www.pnas.org/content/108/40/E781) [pdf](/pdf/grinsted-PNAS11-Kemp-comment.pdf)
   * Their response: [PNAS reply](http://www.pnas.org/content/108/40/E783.full)
       * In my opinion their response does not address the key issue of uncertainty.
 
@@ -37,7 +37,7 @@ Detailed response to their 4 points:
   2. [_GPS rates are too uncertain to determine regional trends_]. This is the relevant quote from Engelhart et al. showing just how different geologic and gps rates are:
       * "_The geological rates of subsidence decline rapidly with distance from Hudson Bay along the U.S. Atlantic coast compared to the GPS observations. The GPS observations suggest that high rates of subsidence from the collapse of the forebulge extend into Virginia and the Carolinas (Sella et al., 2007; Snay et al., 2007). For example, the geological data within Chesapeake Bay, Virginia, estimate subsidence of 0.9 ± 0.3 mm a–1 compared to nearby GPS observations of 3.5 ± 1.6 mm a–1 (Sella et al., 2007) and 2.6 ± 1.2 mm a–1 (Snay et al., 2007)_"
       * This quote shows that GPS inferred subsidence is significantly greater, than the geologic estimate. They may be right that it is hard to extrapolate to what it exactly should be in NC, but it is clear that GPS indicates that the forebulge is collapsing significantly faster than geologic estimates allow.
-  3. [_Grinsted et al. 'wrongly claim' a too large local tide gauge rate_]: Our claim is based on the supplementary material to Engelhart et al. which can be downloaded [here](ftp://rock.geosociety.org/pub/reposit/2009/2009276.pdf). The figure in question is reproduced in the column on the right. look for X=2950 km. If anything our 4mm/yr claim seems too low!
+  3. [_Grinsted et al. 'wrongly claim' a too large local tide gauge rate_]: Our claim is based on the supplementary material to Engelhart et al. which can be downloaded [here](ftp://rock.geosociety.org/pub/reposit/pdf/2009276.pdf). The figure in question is reproduced in the column on the right. look for X=2950 km. If anything our 4mm/yr claim seems too low!
   4. [_The larger rate is inconsistent with Mediterranean proxy records_]: First, we do not state we have the best estimate, only that the claimed uncertainty is too low. So, again the point is moot. Secondly North Carolina Relative Sea Level is not Global sea level, so it is allowed to not match with other regions. (And perhaps there are other local issues with these records).
 
 Engelhart et al: [http://geology.gsapubs.org/content/37/12/1115.full](http://geology.gsapubs.org/content/37/12/1115.full)

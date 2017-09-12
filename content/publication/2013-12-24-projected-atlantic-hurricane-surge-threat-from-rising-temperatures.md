@@ -27,7 +27,7 @@ Detection and attribution of past changes in cyclone activity is hampered by bia
 
 Aslak Grinsted, John C. Moore, and Svetlana Jevrejeva (2013), Projected Atlantic hurricane surge threat from rising temperatures, PNAS, doi:[10.1073/pnas.1209980110](http://dx.doi.org/10.1073/pnas.1209980110)
 
-[[pdf](/2016/02/Grinsted-PNAS13-Projected-Hurricane-surge-threat.pdf)]
+[[pdf](/pdf/Grinsted-PNAS13-Projected-Hurricane-surge-threat.pdf)]
 
 
 
@@ -35,7 +35,7 @@ Aslak Grinsted, John C. Moore, and Svetlana Jevrejeva (2013), Projected Atlanti
 
 **Comment & reply**.
 
-Kennedy et al wrote a comment to this paper questioning whether the Katrina benchmark as defined in the paper is appropriate given that our closest tide gauge at Pensacola was 162 km from highest high water mark left. However the highest high water mark records are set by very short lived events and we initially apply a 24 hour average to all records. This low pass filter removes these highly localized extremes and the Pensacola record becomes much more representative of the larger scale disturbances in sea level. It is therefore an apples to orange comparison to compare high water marks to our surge record. We demonstrate this to be the case in our reply to Kennedy et al. [here](http://www.pnas.org/content/early/2013/05/22/1306503110.full.pdf). See also [this page](https://debris.glaciology.net/2016/02/24/homogeneous-record-of-atlantic-hurricane-surge-threat-since-1923/) for further details on our processing choices.
+Kennedy et al wrote a comment to this paper questioning whether the Katrina benchmark as defined in the paper is appropriate given that our closest tide gauge at Pensacola was 162 km from highest high water mark left. However the highest high water mark records are set by very short lived events and we initially apply a 24 hour average to all records. This low pass filter removes these highly localized extremes and the Pensacola record becomes much more representative of the larger scale disturbances in sea level. It is therefore an apples to orange comparison to compare high water marks to our surge record. We demonstrate this to be the case in our reply to Kennedy et al. [here](http://www.pnas.org/content/early/pdf/1306503110.full.pdf). See also [this page](https://debris.glaciology.net/2016/02/24/homogeneous-record-of-atlantic-hurricane-surge-threat-since-1923/) for further details on our processing choices.
 
 
 {{< figure src="/2016/02/PRmap.png" caption="The surge index record used in this paper is based on six long high resolution tide gauge records (see map) from the US Atlantic and Gulf coasts." >}}

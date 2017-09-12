@@ -17,9 +17,7 @@ aliases:
 
 Detection and attribution of past changes in cyclone activity are hampered by biased cyclone records due to changes in observational capabilities. Here we construct an independent record of Atlantic tropical cyclone activity on the basis of storm surge statistics from tide gauges. <!--more-->  We demonstrate that the major events in our surge index record can be attributed to landfalling tropical cyclones; these events also correspond with the most economically damaging Atlantic cyclones. We find that warm years in general were more active in all cyclone size ranges than cold years. The largest cyclones are most affected by warmer conditions and we detect a statistically significant trend in the frequency of large surge events (roughly corresponding to tropical storm size) since 1923. In particular, we estimate that Katrina-magnitude events have been twice as frequent in warm years compared with cold years (P < 0.02).
 
-**Citation:**
-
-Aslak Grinsted, John C. Moore, and Svetlana Jevrejeva (2012), Homogeneous record of Atlantic hurricane surge threat since 1923, PNAS, [doi:10.1073/pnas.1209542109](http://dx.doi.org/10.1073/pnas.1209542109) [pdf](https://debris.glaciology.net/2016/02/24/homogeneous-record-of-atlantic-hurricane-surge-threat-since-1923/grinsted-pnas12-record-of-atlantic-hurricane-surge-threat/)
+[pdf](/pdf/Grinsted-PNAS12-Record-of-atlantic-hurricane-surge-threat.pdf)
 
 [[Suppl info.](http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1209542109/-/DCSupplemental)]
 

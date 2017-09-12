@@ -19,7 +19,7 @@ aliases:
 ---
 Using an inverse statistical model we examine potential response in sea level to the changes in natural and anthropogenic forcings by 2100. With six IPCC radiative forcing scenarios we estimate sea level rise of 0.6-1.6 m, with confidence limits of 0.59 m and 1.8 m. Projected impacts of solar and volcanic radiative forcings account only for, at maximum, 5% of total sea level rise, with anthropogenic greenhouse gasses being the dominant forcing.  <!--more--> As alternatives to the IPCC projections, even the most intense century of volcanic forcing from the past 1000 years would result in 10-15 cm potential reduction of sea level rise. Stratospheric injections of SO2 equivalent to a Pinatubo eruption every 4 years would effectively just delay sea level rise by 12 -20 years. A 21st century with the lowest level of solar irradiance over the last 9300 years results in negligible difference to sea level rise.
 
-**Citation**: Jevrejeva, S., J. C. Moore, and A. Grinsted (2010), Hown will sea level respond to changes in natural and anthropogenic forcingsn by 2100? Geophys. Res. Lett., doi:[10.1029/2010GL042947](http://dx.doi.org/10.1029/2010GL042947) [PDF](/2016/03/jevrejeva-grl10-GSL-radiative-proj.pdf)
+**Citation**: Jevrejeva, S., J. C. Moore, and A. Grinsted (2010), Hown will sea level respond to changes in natural and anthropogenic forcingsn by 2100? Geophys. Res. Lett., doi:[10.1029/2010GL042947](http://dx.doi.org/10.1029/2010GL042947) [PDF](/pdf/jevrejeva-grl10-GSL-radiative-proj.pdf)
 
 **Agreement on future sea level rise.**
 

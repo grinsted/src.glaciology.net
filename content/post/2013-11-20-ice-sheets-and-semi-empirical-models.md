@@ -20,7 +20,7 @@ This demonstrates that a GrIS mass loss can be approximated with a convenient se
 
 [**EDIT**]
 
-[Fettweis et al. 2013](http://www.the-cryosphere.net/7/469/2013/tc-7-469-2013.pdf) show that global mean surface temperature is a very good predictor of Greenland SMB (fig 6h & eqn2 - reproduced below). This shows that this component should be well modeled by semi-empirical models of sea level rise. Indeed the curvature at high temperatures in fig 6h suggests that SEMs would be too conservative (as they have been calibrated at "low" temperatures).
+[Fettweis et al. 2013](http://www.the-cryosphere.net/7/469/pdf/tc-7-469-2013.pdf) show that global mean surface temperature is a very good predictor of Greenland SMB (fig 6h & eqn2 - reproduced below). This shows that this component should be well modeled by semi-empirical models of sea level rise. Indeed the curvature at high temperatures in fig 6h suggests that SEMs would be too conservative (as they have been calibrated at "low" temperatures).
 
 ![](/2016/02/fettweis13fig6h-1.png)
 

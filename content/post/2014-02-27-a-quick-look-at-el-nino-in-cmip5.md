@@ -21,7 +21,7 @@ Note: Some runs may have been double counted. However restricting to smaller sub
 
 (_The models with a correlation coef occasionally greater than -0.5 are: EC-EARTH, **GISS-E2-H**, GISS-E2-R, **IPSL-CM5A-LR**, bcc-csm1-1, FIO-ESM - not all were counted in above histogram_)
 
-Data were downloaded from KNMI climate explorer. Intervals were 1880-present. See also [Guilyardi et al 2012](http://www.gfdl.noaa.gov/~atw/yr/2012/guilyardi_etal_2012_clivex.pdf) and [Coats et al. 2013](http://onlinelibrary.wiley.com/doi/10.1002/grl.50938/abstract): Stationarity of the tropical pacific teleconnection to North America in CMIP5/PMIP3 model simulations
+Data were downloaded from KNMI climate explorer. Intervals were 1880-present. See also [Guilyardi et al 2012](http://www.gfdl.noaa.gov/~atw/yr/pdf/guilyardi_etal_2012_clivex.pdf) and [Coats et al. 2013](http://onlinelibrary.wiley.com/doi/10.1002/grl.50938/abstract): Stationarity of the tropical pacific teleconnection to North America in CMIP5/PMIP3 model simulations
 
 ## Power Spectra
 

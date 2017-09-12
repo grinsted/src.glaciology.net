@@ -21,9 +21,9 @@ Three recent papers on long term sea level commitment:
   * **Models**
       * Levermann, Clark, Marzeion, Milne, Pollard, Radic, Robinson (2013). The multimillennial sea-level commitment of global warming. Proceedings of the National Academy of Sciences, doi:10.1073/pnas.1219414110 [[link](http://www.pik-potsdam.de/~anders/publications/levermann_clark13.pdf)]
   * **Paleo-data**
-      * Foster, G. L., & Rohling, E. J. (2013). Relationship between sea level and climate forcing by CO2 on geological timescales. Proceedings of the National Academy of Sciences, 110(4), 1209-1214. [[link](http://www.pnas.org/content/early/2013/01/03/1216073110.full.pdf)]
+      * Foster, G. L., & Rohling, E. J. (2013). Relationship between sea level and climate forcing by CO2 on geological timescales. Proceedings of the National Academy of Sciences, 110(4), 1209-1214. [[link](http://www.pnas.org/content/early/pdf/1216073110.full.pdf)]
   * **Model inversion of paleo data:**
-      * Wal, R. S. W., Boer, B. D., Lourens, L. J., Köhler, P., & Bintanja, R. (2011). Reconstruction of a continuous high-resolution CO 2 record over the past 20 million years. Climate of the Past, 7(4), 1459-1469. [[Link](http://www.clim-past.net/7/1459/2011/cp-7-1459-2011.pdf)]
+      * Wal, R. S. W., Boer, B. D., Lourens, L. J., Köhler, P., & Bintanja, R. (2011). Reconstruction of a continuous high-resolution CO 2 record over the past 20 million years. Climate of the Past, 7(4), 1459-1469. [[Link](http://www.clim-past.net/7/1459/pdf/cp-7-1459-2011.pdf)]
 
 Lets look at how big a sea level rise commitment these three papers have for a four degree global avg. warming. Only Levermann et al. gives the results in terms of global avg warming. Foster & Rohling gives the sea level commitment for CO2 levels which means we should convert using an estimate of the earth system sensitivity. Here i use 4.4°C/2xCO2 from [Lunt et al. 2009](http://www.nature.com/ngeo/journal/v3/n1/abs/ngeo706.html) which means an eventual warming of 4°C corresponds to 525 ppm. van de Wal et al. plots the long term ice sheet loss as a function of NH-temperature, and he argues for a polar amplification factor of 2.7. T<sub>global</sub>=4°C would correspond to T<sub>NH</sub>=11°C. When I use this approach then I get the following (just visually reading off the graphs using conversion factors as described above):
 

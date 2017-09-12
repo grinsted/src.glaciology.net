@@ -20,7 +20,7 @@ We construct the probability density function of global sea level at 2100, estim
 
 Graphical representation of the full uncertainty in the sea level projections over the 21st century. It is found that there is 95% certainty that sea level rise will not exceed 1.8m this century (red). Darker purple shows the likely range of sea level rise as projected in the IPCC fifth assessment report under a scenario with rising emissions throughout the 21st century (RCP8.5).
 
-**Citation:** Jevrejeva, Grinsted, Moore (2014), Upper limit for sea level projections by 2100, Environ. Res. Lett. 9 104008 [doi:10.1088/1748-9326/9/10/104008](http://dx.doi.org/10.1088/1748-9326/9/10/104008)
+
 
 ### Background
 

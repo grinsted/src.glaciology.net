@@ -18,7 +18,7 @@ I assess the feasibility of multi-variate scaling relationships to estimate glac
 
 **Citation**: Grinsted, A. (2013): An estimate of global glacier volume, The Cryosphere, 7, 141–151, doi:10.5194/tc-7-141-2013
 
-[[link](http://www.the-cryosphere.net/7/141/2013/tc-7-141-2013.pdf)]
+[[link](http://www.the-cryosphere.net/7/141/pdf/tc-7-141-2013.pdf)]
 
 More details on the study can be found [under this link](/Home/Miscellaneous-Debris/estimatingglobalglaciervolume) where I discuss:
 

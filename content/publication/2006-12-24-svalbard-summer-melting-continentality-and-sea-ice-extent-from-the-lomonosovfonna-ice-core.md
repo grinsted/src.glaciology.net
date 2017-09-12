@@ -15,6 +15,6 @@ We develop a continentality proxy (1600–1930) based on amplitudes of the annua
 
 **Reference:**
 
-Grinsted, A., J. C. Moore, V. Pohjola, T. Martma, and E. Isaksson (2006), Svalbard summer melting, continentality, and sea ice extent from the Lomonosovfonna ice core, J. Geophys. Res., 111, D07110, doi:10.1029/2005JD006494. [pdf](/2016/03/Grinsted-jgr2006-lfonna-meltcontinentality.pdf)
+Grinsted, A., J. C. Moore, V. Pohjola, T. Martma, and E. Isaksson (2006), Svalbard summer melting, continentality, and sea ice extent from the Lomonosovfonna ice core, J. Geophys. Res., 111, D07110, doi:10.1029/2005JD006494. [pdf](/pdf/Grinsted-jgr2006-lfonna-meltcontinentality.pdf)
 
 Note that [a later study](/Home/PDFs/Announcements/Present-day-summers-in-Svalbard-are-warmer-than-the-medieval-warm-period-) has found that post-1990 summers were warmer than any during the last 800 years.

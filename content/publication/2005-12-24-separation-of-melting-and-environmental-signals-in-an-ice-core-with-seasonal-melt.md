@@ -11,4 +11,4 @@ We examine the impact of melt water percolation on the soluble ion chemical reco
 
 
 
-Moore, J. C., A. Grinsted, T. Kekonen, and V. Pohjola (2005), Separation of melting and environmental signals in an ice core with seasonal melt, Geophys. Res. Lett., 32, L10501, doi:10.1029/2005GL023039. [pdf](/Home/PDFs/Moore_grl05_separation_of_melt.pdf?attredirects=0)
+Moore, J. C., A. Grinsted, T. Kekonen, and V. Pohjola (2005), Separation of melting and environmental signals in an ice core with seasonal melt, Geophys. Res. Lett., 32, L10501, doi:10.1029/2005GL023039. [pdf](/pdf/Moore_grl05_separation_of_melt.pdf)

@@ -17,7 +17,7 @@ Here is a finite element simulation of strong winds in the Scharffenbergbotnen b
 
 {{< youtube oJWYC2SUD9k >}}
 
-_Simulations made by Torsten Malm (Aalto Univ.) and Thomas Zwinger (CSC - IT Center for Science) using Elmer, animation made by Jyrky Hokkanen (CSC). [[Thesis](http://lib.tkk.fi/Dipl/2011/urn100517.pdf)]_
+_Simulations made by Torsten Malm (Aalto Univ.) and Thomas Zwinger (CSC - IT Center for Science) using Elmer, animation made by Jyrky Hokkanen (CSC). [[Thesis](http://lib.tkk.fi/Dipl/pdf/urn100517.pdf)]_
 
 It so happens that i have some validation data. But first lets take a view of the valley from one of the northernmost nunataks (North is the left side of the youtube video).
 

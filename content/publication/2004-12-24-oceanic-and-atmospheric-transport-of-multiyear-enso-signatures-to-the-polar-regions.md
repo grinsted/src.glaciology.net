@@ -15,4 +15,4 @@ Using Monte-Carlo Singular Spectrum Analysis (MC- SSA) and Wavelet Transform (WT
 
 
 
-Jevrejeva, S., J.C. Moore and A. Grinsted, (2004), Oceanic and atmospheric transport of multiyear ENSO signatures to the polar regions. Geophys. Res. Lett., 31, L24210, doi:10.1029/2004GL020871. [pdf](/Home/PDFs/Jevrejeva_grl04_-_enso_to_polar.pdf?attredirects=0)
+Jevrejeva, S., J.C. Moore and A. Grinsted, (2004), Oceanic and atmospheric transport of multiyear ENSO signatures to the polar regions. Geophys. Res. Lett., 31, L24210, doi:10.1029/2004GL020871. [pdf](/pdf/Jevrejeva_grl04-enso_to_polar.pdf)
