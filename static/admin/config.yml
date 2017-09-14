@@ -2,8 +2,8 @@ backend:
   name: github
   repo: grinsted/src.glaciology.net # Path to your Github repository
   branch: master # Branch to update
-  media_folder: "static/images/uploads"
-  public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 collections:
   - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
