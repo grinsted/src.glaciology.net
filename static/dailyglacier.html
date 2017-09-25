@@ -1,0 +1,103 @@
+<!-- This file is intended as an include file on another page-->
+
+<div id=allmeta style='display:none'>
+
+  <h1>Showing metadata for:</h1>
+  <h2 id=glaciername></h2>
+
+
+	<p>
+    <ul>
+      <li id=position></li>
+    	<li>GLIMS ID: <a id=glimsid></a></li>
+    	<li>RGI ID: <span id=rgiid></span></li>
+
+    	<li>Scene 1: <span id=scene1 ></span></li>
+    	<li>Scene 2: <span id=scene2 ></span></li>
+    </ul>
+	</p>
+
+  <p>
+		Data sources: Randolph Glacier Inventory, USGS EarthExplorer, Landsat 4-8, OSM nominatim.
+	</p>
+
+
+	 <h3>Google Timelapse</h3>
+    <iframe id=timelapsemap width="600px" height="600px" frameborder="0" src="" scrolling="no"></iframe>
+
+    <h3>Bing maps</h3>
+    <iframe id=bingmap width="600px" height="600px" frameborder="0" src="" scrolling="no"></iframe>
+
+
+	<script>
+
+		if (!String.prototype.format) {
+		  String.prototype.format = function() {
+		    var args = arguments;
+		    return this.replace(/{(\d+)}/g, function(match, number) {
+		      return typeof args[number] != 'undefined'
+		        ? args[number]
+		        : match
+		      ;
+		    });
+		  };
+		}
+
+
+		deparam = function (querystring) {
+		  // remove any preceding url and split
+		  querystring = querystring.substring(querystring.indexOf('?')+1).split('&');
+		  var params = {}, pair, d = decodeURIComponent;
+		  // march and parse
+		  for (var i = querystring.length - 1; i >= 0; i--) {
+		    pair = querystring[i].split('=');
+		    val = d(pair[1] || '').replace(/\+/g,' ');
+		    val = decodeURI(val);
+		    val = val.replace(/[^\d _\w-+\.:\/,]/g,''); //whitelist of characters.
+		    params[d(pair[0])] = val;
+		  }
+
+		  return params;
+		};//--  fn  deparam
+
+		s= window.location.search;
+
+		glacier = deparam(s);
+
+		glacier['CenLat'] = parseFloat(glacier['CenLat']);
+		glacier['CenLon'] = parseFloat(glacier['CenLon']);
+
+
+		var timelapsemap = document.getElementById('timelapsemap');
+		var bingmap = document.getElementById('bingmap');
+		var glaciername = document.getElementById('glaciername');
+		var position = document.getElementById('position');
+
+		document.getElementById('glimsid').innerText=glacier['GLIMSId'];
+		document.getElementById('glimsid').href='http://glims.colorado.edu/textsearch/search_results.php?glacier_name=glac_name&src_date=src_date&release_okay_date=release_okay_date&glacier_id=glac_id&db_area=db_area&anlys_id=anlys_id&anlst_surn=anlst_surn&anlst_affl=anlst_affl&country_name_select=Select...&glac_id_text={0}&prime_class_select=Select...&rc_name_select=Select...'.format(glacier['GLIMSId']);
+
+		document.getElementById('rgiid').innerText=glacier['RGIId'];
+
+
+		glaciername.innerText = glacier['friendly_name'] + ' in ' + glacier['regionname'];
+
+		bingmap.src = "https://www.bing.com/maps/embed?h=600&w=600&cp={0}~{1}&lvl=13&typ=d&sty=h&src=SHELL&FORM=MBEDV8".format(glacier['CenLat'],glacier['CenLon']);
+		timelapsemap.src = "https://earthengine.google.com/iframes/timelapse_player_embed.html#v={0},{1},11,latLng&t=1.57".format(glacier['CenLat'],glacier['CenLon']);
+
+
+		if (glacier['CenLat']>=0) { s = glacier['CenLat'].toFixed(2) + '°N';}
+		else {s = glacier['CenLat'].toFixed(2) + '°S';}
+		if (glacier['CenLon']>=0) { s = s + ' ' + glacier['CenLon'].toFixed(2) + '°E';}
+		else {s = s + ' ' + glacier['CenLon'].toFixed(2) + '°W';}
+
+		position.innerText = s;
+
+    document.getElementById('allmeta').style.display='block';
+
+
+		document.getElementById('scene1').innerText = glacier['productid1'];
+		document.getElementById('scene2').innerText = glacier['productid2'];
+
+
+	</script>
+</div>
