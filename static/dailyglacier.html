@@ -100,7 +100,7 @@
   		bingmap.src = "https://www.bing.com/maps/embed?h=600&w=600&cp={0}~{1}&lvl=11&typ=d&sty=h&src=SHELL&FORM=MBEDV8".format(glacier['CenLat'],glacier['CenLon']);
   		timelapsemap.src = "https://earthengine.google.com/iframes/timelapse_player_embed.html#v={0},{1},10,latLng&t=1.57".format(glacier['CenLat'],glacier['CenLon']);
 
-      document.getElementById('knmilink').href = "http://climexp.knmi.nl/get_index.cgi?email=dailyglacier&field=had4_krig_v2&maskmetadata=&lat1={0}&lat2={0}&lon1={1}&lon2={1}&intertype=nearest&gridpoints=false&minfac=30&standardunits=".format(glacier['CenLat'],glacier['CenLon'])
+      document.getElementById('knmilink').href = "http://climexp.knmi.nl/get_index.cgi?email=dailyglacier%40twitter&field=had4_krig_v2&maskmetadata=&lat1={0}&lat2={0}&lon1={1}&lon2={1}&intertype=nearest&gridpoints=false&minfac=30&standardunits=".format(glacier['CenLat'],glacier['CenLon'])
 
 
   		if (glacier['CenLat']>=0) { s = glacier['CenLat'].toFixed(2) + '°N';}
