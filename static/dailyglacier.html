@@ -2,9 +2,27 @@
 
 <div id=allmeta style='display:none'>
 
-  <h1>Showing metadata for:</h1>
+
   <h2 id=glaciername></h2>
 
+  <!-- IMAGE SLIDER -->
+    <style>
+      .cocoen{box-sizing:border-box;cursor:pointer;line-height:0;margin:0;overflow:hidden;padding:0;position:relative;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+      .cocoen *{box-sizing:inherit}
+      .cocoen ::after,.cocoen ::before{box-sizing:inherit}
+      .cocoen>img,.cocoen>picture>img{display:block;width:100%}
+      .cocoen>div:first-child,picture .cocoen>div{height:100%;left:0;overflow:hidden;position:absolute;top:0;width:50%}
+      .cocoen-drag{background:#fff;bottom:0;cursor:ew-resize;left:50%;margin-left:-1px;position:absolute;top:0;width:2px}
+      .cocoen-drag::before{border:3px solid #fff;content:'';height:30px;left:50%;margin-left:-7px;margin-top:-18px;position:absolute;top:50%;width:14px}
+    </style>
+    <div class="cocoen" style="display:none;">
+      <img id="sliderimage1" src="" style="max-width:none">
+      <img id="sliderimage2" src="" >
+    </div>
+    <script src="/js/cocoen.min.js"></script>
+  <!-- IMAGE SLIDER -->
+
+  <h2>Metadata:</h2>
 
 	<p>
     <ul>
@@ -18,6 +36,8 @@
       <li>Google <a id=googletimelapse >timelapse</a></li>
     </ul>
 	</p>
+
+
 
     <h3>Bing maps</h3>
     <iframe id=bingmap width="600px" height="600px" frameborder="0" src="" scrolling="no"></iframe>
@@ -72,16 +92,12 @@
 
   		glacier['CenLat'] = parseFloat(glacier['CenLat']);
   		glacier['CenLon'] = parseFloat(glacier['CenLon']);
+      lat = glacier['CenLat'];
+      lon = glacier['CenLon'];
 
       document.getElementById('allmeta').style.display='block';
       document.getElementsByClassName('article-banner')[0].style.display='none';
       document.getElementsByClassName('article-meta')[0]='none';
-
-
-  		var timelapsemap = document.getElementById('timelapsemap');
-  		var bingmap = document.getElementById('bingmap');
-  		var glaciername = document.getElementById('glaciername');
-  		var position = document.getElementById('position');
 
   		document.getElementById('glimsid').innerText=glacier['GLIMSId'];
   		document.getElementById('glimsid').href='http://glims.colorado.edu/textsearch/search_results.php?glacier_name=glac_name&src_date=src_date&release_okay_date=release_okay_date&glacier_id=glac_id&db_area=db_area&anlys_id=anlys_id&anlst_surn=anlst_surn&anlst_affl=anlst_affl&country_name_select=Select...&glac_id_text={0}&prime_class_select=Select...&rc_name_select=Select...'.format(glacier['GLIMSId']);
@@ -89,24 +105,33 @@
   		document.getElementById('rgiid').innerText = glacier['RGIId'];
       document.getElementById('elevrange').innerText = glacier['Zmin'] + '-' + glacier['Zmax'] + ' m';
 
-  		glaciername.innerText = glacier['friendly_name'] + ' in ' + glacier['regionname'];
+  		document.getElementById('glaciername').innerText = glacier['friendly_name'] + ' in ' + glacier['regionname'];
 
-  		bingmap.src = "https://www.bing.com/maps/embed?h=600&w=600&cp={0}~{1}&lvl=11&typ=d&sty=h&src=SHELL&FORM=MBEDV8".format(glacier['CenLat'],glacier['CenLon']);
+  		document.getElementById('bingmap').src = "https://www.bing.com/maps/embed?h=600&w=600&cp={0}~{1}&lvl=11&typ=d&sty=h&src=SHELL&FORM=MBEDV8".format(glacier['CenLat'],glacier['CenLon']);
       document.getElementById('googletimelapse').href="https://earthengine.google.com/timelapse/#v={0},{1},8.341,latLng&t=0.00".format(glacier['CenLat'],glacier['CenLon']);
 
       document.getElementById('knmilink').href = "http://climexp.knmi.nl/get_index.cgi?email=dailyglacier%40twitter&field=had4_krig_v2&maskmetadata=&lat1={0}&lat2={0}&lon1={1}&lon2={1}&intertype=nearest&gridpoints=false&minfac=30&standardunits=".format(glacier['CenLat'],glacier['CenLon'])
-
 
   		if (glacier['CenLat']>=0) { s = glacier['CenLat'].toFixed(2) + '°N';}
   		else {s = Math.abs(glacier['CenLat'].toFixed(2)) + '°S';}
   		if (glacier['CenLon']>=0) { s = s + ' ' + glacier['CenLon'].toFixed(2) + '°E';}
   		else {s = s + ' ' + Math.abs(glacier['CenLon']).toFixed(2) + '°W';}
 
-  		position.innerText = s;
+  		document.getElementById('position').innerText = s;
 
 
   		document.getElementById('scene1').innerText = glacier['productid1'];
   		document.getElementById('scene2').innerText = glacier['productid2'];
+
+
+      if ("images" in glacier) {
+        glacier["images"] = glacier["images"].split(",");
+        var cocoen = document.getElementsByClassName('cocoen')[0];
+        cocoen.style.display = 'block';
+        document.getElementById('sliderimage1').src="https://home.glaciology.net/dailyglacier/" + glacier["images"][0];
+        document.getElementById('sliderimage2').src="https://home.glaciology.net/dailyglacier/" + glacier["images"][1];
+        new Cocoen(cocoen);
+      }
   }
 
 	</script>
