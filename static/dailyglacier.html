@@ -92,7 +92,7 @@
   		glaciername.innerText = glacier['friendly_name'] + ' in ' + glacier['regionname'];
 
   		bingmap.src = "https://www.bing.com/maps/embed?h=600&w=600&cp={0}~{1}&lvl=11&typ=d&sty=h&src=SHELL&FORM=MBEDV8".format(glacier['CenLat'],glacier['CenLon']);
-      document.getElementById('timelapsemap').href="https://earthengine.google.com/timelapse/#v={0},{1},8.341,latLng&t=0.00".format(glacier['CenLat'],glacier['CenLon']);
+      document.getElementById('googletimelapse').href="https://earthengine.google.com/timelapse/#v={0},{1},8.341,latLng&t=0.00".format(glacier['CenLat'],glacier['CenLon']);
 
       document.getElementById('knmilink').href = "http://climexp.knmi.nl/get_index.cgi?email=dailyglacier%40twitter&field=had4_krig_v2&maskmetadata=&lat1={0}&lat2={0}&lon1={1}&lon2={1}&intertype=nearest&gridpoints=false&minfac=30&standardunits=".format(glacier['CenLat'],glacier['CenLon'])
 
