@@ -32,7 +32,7 @@
     	<li>Scene 1: <span id=scene1 ></span></li>
       <li>Scene 2: <span id=scene2 ></span></li>
       <li>Elevation range: <span id=elevrange ></span></li>
-      <li>Temperature plot: <a id=knmilink >HADCRUT4+CW</a></li>
+      <li>Temperature plot: <a id=knmilink >HADCRUT4+CW</a> <a id="NCEPNCARlink">NCEP/NCAR reanalysis</a></li>
       <li>Google <a id=googletimelapse >timelapse</a></li>
     </ul>
 	</p>
@@ -111,6 +111,9 @@
       document.getElementById('googletimelapse').href="https://earthengine.google.com/timelapse/#v={0},{1},8.341,latLng&t=0.00".format(glacier['CenLat'],glacier['CenLon']);
 
       document.getElementById('knmilink').href = "http://climexp.knmi.nl/get_index.cgi?email=dailyglacier%40twitter&field=had4_krig_v2&maskmetadata=&lat1={0}&lat2={0}&lon1={1}&lon2={1}&intertype=nearest&gridpoints=false&minfac=30&standardunits=".format(glacier['CenLat'],glacier['CenLon'])
+
+      document.getElementById('NCEPNCARlink').href = "http://climexp.knmi.nl/get_index.cgi?email=dailyglacier%40twitter&field=nair&maskmetadata=&lat1={0}&lat2=&lon1={1}&lon2=&intertype=interpolated&gridpoints=false&minfac=30&standardunits=".format(glacier['CenLat'],glacier['CenLon'])
+      
 
   		if (glacier['CenLat']>=0) { s = glacier['CenLat'].toFixed(2) + '°N';}
   		else {s = Math.abs(glacier['CenLat'].toFixed(2)) + '°S';}
