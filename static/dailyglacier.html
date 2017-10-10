@@ -76,7 +76,7 @@
 		    pair = querystring[i].split('=');
 		    val = d(pair[1] || '').replace(/\+/g,' ');
 		    val = decodeURI(val);
-		    val = val.replace(/[^\d _\w-+\.:\/,]/g,''); //whitelist of characters.
+		    val = val.replace(/[^\d \u00C0-\u024F_\w-+\.:\/,]/g,''); //whitelist of characters.
 		    params[d(pair[0])] = val;
 		  }
 
