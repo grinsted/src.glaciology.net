@@ -23,10 +23,11 @@
   <!-- IMAGE SLIDER -->
 
   <h2>Metadata:</h2>
-
+Metadata refers to the glacier at the central pixel in the images.
 	<p>
     <ul>
       <li id=position></li>
+      <li>Files: <a id=image1link>image1</a>, <a id=image2link>image2</a>, <a id=giflink>gif</a>, <a id=mp4link>mp4</a></li>
     	<li>GLIMS ID: <a id=glimsid></a></li>
     	<li>RGI ID: <span id=rgiid></span></li>
     	<li>Scene 1: <span id=scene1 ></span></li>
@@ -125,6 +126,11 @@
 
   		document.getElementById('scene1').innerText = glacier['productid1'];
   		document.getElementById('scene2').innerText = glacier['productid2'];
+
+      document.getElementById('image1link').href="https://home.glaciology.net/dailyglacier/" + glacier["images"][0];
+      document.getElementById('image2link').href="https://home.glaciology.net/dailyglacier/" + glacier["images"][1];
+      document.getElementById('giflink').href="https://home.glaciology.net/dailyglacier/" + glacier["anigif"];
+      document.getElementById('mp4link').href="https://home.glaciology.net/dailyglacier/" + glacier["video"];
 
 
       if ("images" in glacier) {
