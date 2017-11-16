@@ -30,8 +30,8 @@ Metadata refers to the glacier at the central pixel in the images.
       <li>Files: <a id=image1link>image1</a>, <a id=image2link>image2</a>, <a id=giflink>gif</a>, <a id=mp4link>mp4</a></li>
     	<li>GLIMS ID: <a id=glimsid></a></li>
     	<li>RGI ID: <span id=rgiid></span></li>
-    	<li>Scene 1: <span id=scene1 ></span></li>
-      <li>Scene 2: <span id=scene2 ></span></li>
+    	<li>Scene 1: <span id=scene1 ></span> (<a id='eo1'>EO explorer</a>)</li> 
+      <li>Scene 2: <span id=scene2 ></span> (<a id='eo2'>EO explorer</a>)</li>
       <li>Elevation range: <span id=elevrange ></span></li>
       <li>Temperature plot: <a id=knmilink >HADCRUT4+CW</a> <a id="NCEPNCARlink">NCEP/NCAR reanalysis</a></li>
       <li>Google <a id=googletimelapse >timelapse</a></li>
@@ -127,7 +127,10 @@ Metadata refers to the glacier at the central pixel in the images.
   		document.getElementById('scene1').innerText = glacier['productid1'];
   		document.getElementById('scene2').innerText = glacier['productid2'];
 
-
+      date1=glacier['productid1'].replace(/.*_(\d{4,4})(\d{2,2})(\d{2,2})_.*/g,"\1-\2-\3");
+      date2=glacier['productid2'].replace(/.*_(\d{4,4})(\d{2,2})(\d{2,2})_.*/g,"\1-\2-\3");
+      document.getElementById('eo1').href = 'http://apps.sentinel-hub.com/eo-browser/#lat={0}&lng={1}&zoom=11&datasource=Landsat%205%20ESA&time={2}&preset=1_TRUE_COLOR'.format(glacier['CenLat'],glacier['CenLon'],date1);
+      document.getElementById('eo2').href = 'http://apps.sentinel-hub.com/eo-browser/#lat={0}&lng={1}&zoom=11&datasource=Landsat%208%20USGS&time={2}&preset=1_TRUE_COLOR'.format(glacier['CenLat'],glacier['CenLon'],date2);
 
       if ("images" in glacier) {
         glacier["images"] = glacier["images"].split(",");
