@@ -133,15 +133,16 @@ Metadata refers to the glacier at the central pixel in the images.
         glacier["images"] = glacier["images"].split(",");
         document.getElementById('image1link').href="https://home.glaciology.net/dailyglacier/" + glacier["images"][0];
         document.getElementById('image2link').href="https://home.glaciology.net/dailyglacier/" + glacier["images"][1];
-        document.getElementById('giflink').href="https://home.glaciology.net/dailyglacier/" + glacier["anigif"];
-        document.getElementById('mp4link').href="https://home.glaciology.net/dailyglacier/" + glacier["video"];
 	      
-	var cocoen = document.getElementsByClassName('cocoen')[0];
-        cocoen.style.display = 'block';
-        document.getElementById('sliderimage1').src="https://home.glaciology.net/dailyglacier/" + glacier["images"][0];
-        document.getElementById('sliderimage2').src="https://home.glaciology.net/dailyglacier/" + glacier["images"][1];
-        new Cocoen(cocoen);
+        var cocoen = document.getElementsByClassName('cocoen')[0];
+          cocoen.style.display = 'block';
+          document.getElementById('sliderimage1').src="https://home.glaciology.net/dailyglacier/" + glacier["images"][0];
+          document.getElementById('sliderimage2').src="https://home.glaciology.net/dailyglacier/" + glacier["images"][1];
+          new Cocoen(cocoen);
       }
+      if ("anigif" in glacier) document.getElementById('giflink').href="https://home.glaciology.net/dailyglacier/" + glacier["anigif"];
+      if ("video" in glacier) document.getElementById('mp4link').href="https://home.glaciology.net/dailyglacier/" + glacier["video"];
+
   }
 
 	</script>
