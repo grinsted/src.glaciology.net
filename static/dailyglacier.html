@@ -127,8 +127,8 @@ Metadata refers to the glacier at the central pixel in the images.
   		document.getElementById('scene1').innerText = glacier['productid1'];
   		document.getElementById('scene2').innerText = glacier['productid2'];
 
-      date1=glacier['productid1'].replace(/.*_(\d{4,4})(\d{2,2})(\d{2,2})_.*/g,"$1-$2-$3");
-      date2=glacier['productid2'].replace(/.*_(\d{4,4})(\d{2,2})(\d{2,2})_.*/g,"$1-$2-$3");
+      date1=glacier['productid1'].replace(/.*_\d{6,6}_(\d{4,4})(\d{2,2})(\d{2,2})_.*/g,"$1-$2-$3");
+      date2=glacier['productid2'].replace(/.*_\d{6,6}_(\d{4,4})(\d{2,2})(\d{2,2})_.*/g,"$1-$2-$3");
       document.getElementById('eo1').href = 'http://apps.sentinel-hub.com/eo-browser/#lat={0}&lng={1}&zoom=11&datasource=Landsat%205%20ESA&time={2}&preset=1_TRUE_COLOR'.format(glacier['CenLat'],glacier['CenLon'],date1);
       document.getElementById('eo2').href = 'http://apps.sentinel-hub.com/eo-browser/#lat={0}&lng={1}&zoom=11&datasource=Landsat%208%20USGS&time={2}&preset=1_TRUE_COLOR'.format(glacier['CenLat'],glacier['CenLon'],date2);
 
