@@ -1,5 +1,5 @@
 ---
-title: 'Optimistic &#038; over-confident ice sheet projections in AR5'
+title: 'Optimistic and over-confident ice sheet projections in AR5'
 date: 2015-10-08T05:01:00+00:00
 author: aslak
 banner: /2016/02/tmdg5.png
