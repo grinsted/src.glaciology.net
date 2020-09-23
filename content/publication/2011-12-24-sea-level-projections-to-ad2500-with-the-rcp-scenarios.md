@@ -27,10 +27,8 @@ _Scenarios used: RCP3PD(green), RCP4.5(yellow), RCP6(orange), RCP8.5(red). More 
 
 **Citation:**
 
-S. Jevrejeva, J.C. Moore, A. Grinsted, Sea level projections to AD2500 with a new generation of climate change scenarios, Global and Planetary Change, Available online 21 September 2011, ISSN 0921-8181, [10.1016/j.gloplacha.2011.09.006](http://dx.doi.org/10.1016/j.gloplacha.2011.09.006).
+S. Jevrejeva, J.C. Moore, A. Grinsted, Sea level projections to AD2500 with a new generation of climate change scenarios, Global and Planetary Change, Available online 21 September 2011, ISSN 0921-8181, [10.1016/j.gloplacha.2011.09.006](https://dx.doi.org/10.1016/j.gloplacha.2011.09.006).
 
-[U.CPH press release](http://www.eurekalert.org/pub_releases/2011-10/uoc-slw101711.php)
-
-  {{< figure src="http://www.flickr.com/photos/joiseyshowaa/3728426830/" caption="Many coastal areas will need protection against rising sea levels in the coming centuries, regardless of climate change mitigation strategies. A one meter rise is practically certain except in the most optimistic scenarios. Photo credit: joiseyshowaa CC-SA" >}}
+[U.CPH press release](https://www.eurekalert.org/pub_releases/2011-10/uoc-slw101711.php)
 
 _See also this page on [sea level rise commitment](/Home/Miscellaneous-Debris/threeviewsonsealevelcommitment)._
