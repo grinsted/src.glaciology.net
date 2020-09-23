@@ -6,146 +6,204 @@
   <h2 id=glaciername></h2>
 
   <!-- IMAGE SLIDER -->
-    <style>
-      .cocoen{box-sizing:border-box;cursor:pointer;line-height:0;margin:0;overflow:hidden;padding:0;position:relative;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
-      .cocoen *{box-sizing:inherit}
-      .cocoen ::after,.cocoen ::before{box-sizing:inherit}
-      .cocoen>img,.cocoen>picture>img{display:block;width:100%}
-      .cocoen>div:first-child,picture .cocoen>div{height:100%;left:0;overflow:hidden;position:absolute;top:0;width:50%}
-      .cocoen-drag{background:#fff;bottom:0;cursor:ew-resize;left:50%;margin-left:-1px;position:absolute;top:0;width:2px}
-      .cocoen-drag::before{border:3px solid #fff;content:'';height:30px;left:50%;margin-left:-7px;margin-top:-18px;position:absolute;top:50%;width:14px}
-    </style>
-    <div class="cocoen" style="display:none;">
-      <img id="sliderimage1" src="" style="max-width:none">
-      <img id="sliderimage2" src="" >
-    </div>
-    <script src="/js/cocoen.min.js"></script>
+  <style>
+    .cocoen {
+      box-sizing: border-box;
+      cursor: pointer;
+      line-height: 0;
+      margin: 0;
+      overflow: hidden;
+      padding: 0;
+      position: relative;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none
+    }
+
+    .cocoen * {
+      box-sizing: inherit
+    }
+
+    .cocoen ::after,
+    .cocoen ::before {
+      box-sizing: inherit
+    }
+
+    .cocoen>img,
+    .cocoen>picture>img {
+      display: block;
+      width: 100%
+    }
+
+    .cocoen>div:first-child,
+    picture .cocoen>div {
+      height: 100%;
+      left: 0;
+      overflow: hidden;
+      position: absolute;
+      top: 0;
+      width: 50%
+    }
+
+    .cocoen-drag {
+      background: #fff;
+      bottom: 0;
+      cursor: ew-resize;
+      left: 50%;
+      margin-left: -1px;
+      position: absolute;
+      top: 0;
+      width: 2px
+    }
+
+    .cocoen-drag::before {
+      border: 3px solid #fff;
+      content: '';
+      height: 30px;
+      left: 50%;
+      margin-left: -7px;
+      margin-top: -18px;
+      position: absolute;
+      top: 50%;
+      width: 14px
+    }
+  </style>
+  <div class="cocoen" style="display:none;">
+    <img id="sliderimage1" src="" style="max-width:none">
+    <img id="sliderimage2" src="">
+  </div>
+  <script src="/js/cocoen.min.js"></script>
   <!-- IMAGE SLIDER -->
 
   <h2>Metadata:</h2>
-Metadata refers to the glacier at the central pixel in the images.
-	<p>
-    <ul>
-      <li id=position></li>
-      <li>Files: <a id=image1link>image1</a>, <a id=image2link>image2</a>, <a id=giflink>gif</a>, <a id=mp4link>mp4</a></li>
-    	<li>GLIMS ID: <a id=glimsid></a></li>
-    	<li>RGI ID: <span id=rgiid></span></li>
-    	<li>Scene 1: <a id='eo1' title="EOBrowser - scene not always available"><span id=scene1 ></span></a></li> 
-      <li>Scene 2: <a id='eo2' title="EOBrowser - scene not always available"><span id=scene2 ></span></a></li>
-      <li>Elevation range: <span id=elevrange ></span></li>
-      <li>Temperature plot: <a id=knmilink >HADCRUT4+CW</a> <a id="NCEPNCARlink">NCEP/NCAR reanalysis</a></li>
-      <li>Google <a id=googletimelapse >timelapse</a></li>
-    </ul>
-	</p>
+  Metadata refers to the glacier at the central pixel in the images.
+  <p>
+  <ul>
+    <li id=position></li>
+    <li>Files: <a id=image1link>image1</a>, <a id=image2link>image2</a>, <a id=giflink>gif</a>, <a id=mp4link>mp4</a>
+    </li>
+    <li>GLIMS ID: <a id=glimsid></a></li>
+    <li>RGI ID: <span id=rgiid></span></li>
+    <li>Scene 1: <a id='eo1' title="EOBrowser - scene not always available"><span id=scene1></span></a></li>
+    <li>Scene 2: <a id='eo2' title="EOBrowser - scene not always available"><span id=scene2></span></a></li>
+    <li>Elevation range: <span id=elevrange></span></li>
+    <li>Temperature plot: <a id=knmilink>HADCRUT4+CW</a> <a id="NCEPNCARlink">NCEP/NCAR reanalysis</a></li>
+    <li>Google <a id=googletimelapse>timelapse</a></li>
+  </ul>
+  </p>
 
 
 
-    <h3>Bing maps</h3>
-    <iframe id=bingmap width="600px" height="600px" frameborder="0" src="" scrolling="no"></iframe>
+  <h3>Bing maps</h3>
+  <iframe id=bingmap width="600px" height="600px" frameborder="0" src="" scrolling="no"></iframe>
 
-    <p>
-  		Data sources: <a href="https://www.glims.org/RGI/">Randolph Glacier Inventory</a>,
-      Landsat data from <a href="https://earthexplorer.usgs.gov">USGS EarthExplorer</a>,
-      <a href="https://cloud.google.com/storage/docs/public-datasets/landsat">google mirror of Landsat 4-8</a>,
-      <a href="http://nominatim.openstreetmap.org">OSM nominatim</a>.
-  	</p>
+  <p>
+    Data sources: <a href="https://www.glims.org/RGI/">Randolph Glacier Inventory</a>,
+    Landsat data from <a href="https://earthexplorer.usgs.gov">USGS EarthExplorer</a>,
+    <a href="https://cloud.google.com/storage/docs/public-datasets/landsat">google mirror of Landsat 4-8</a>,
+    <a href="http://nominatim.openstreetmap.org">OSM nominatim</a>.
+  </p>
 
 
 </div>
 
-	<script>
+<script>
 
-		if (!String.prototype.format) {
-		  String.prototype.format = function() {
-		    var args = arguments;
-		    return this.replace(/{(\d+)}/g, function(match, number) {
-		      return typeof args[number] != 'undefined'
-		        ? args[number]
-		        : match
-		      ;
-		    });
-		  };
-		}
-
-
-		deparam = function (querystring) {
-		  // remove any preceding url and split
-		  querystring = querystring.substring(querystring.indexOf('?')+1).split('&');
-		  var params = {}, pair, d = decodeURIComponent;
-		  // march and parse
-		  for (var i = querystring.length - 1; i >= 0; i--) {
-		    pair = querystring[i].split('=');
-		    val = d(pair[1] || '').replace(/\+/g,' ');
-		    val = decodeURI(val);
-		    val = val.replace(/[^\d \u00C0-\u024F_\w-+\.:\/,]/g,''); //whitelist of characters.
-		    params[d(pair[0])] = val;
-		  }
-
-		  return params;
-		};//--  fn  deparam
+  if (!String.prototype.format) {
+    String.prototype.format = function () {
+      var args = arguments;
+      return this.replace(/{(\d+)}/g, function (match, number) {
+        return typeof args[number] != 'undefined'
+          ? args[number]
+          : match
+          ;
+      });
+    };
+  }
 
 
-		s= window.location.search;
+  deparam = function (querystring) {
+    // remove any preceding url and split
+    querystring = querystring.substring(querystring.indexOf('?') + 1).split('&');
+    var params = {}, pair, d = decodeURIComponent;
+    // march and parse
+    for (var i = querystring.length - 1; i >= 0; i--) {
+      pair = querystring[i].split('=');
+      val = d(pair[1] || '').replace(/\+/g, ' ');
+      val = decodeURI(val);
+      val = val.replace(/[^\d \u00C0-\u024F_\w-+\.:\/,]/g, ''); //whitelist of characters.
+      params[d(pair[0])] = val;
+    }
 
-    if (s.length > 15) {
-
-      glacier = deparam(s);
-
-  		glacier['CenLat'] = parseFloat(glacier['CenLat']);
-  		glacier['CenLon'] = parseFloat(glacier['CenLon']);
-      lat = glacier['CenLat'];
-      lon = glacier['CenLon'];
-
-      document.getElementById('allmeta').style.display='block';
-      document.getElementsByClassName('article-banner')[0].style.display='none';
-      document.getElementsByClassName('article-meta')[0]='none';
-
-  		document.getElementById('glimsid').innerText=glacier['GLIMSId'];
-  		document.getElementById('glimsid').href='http://glims.colorado.edu/textsearch/search_results.php?glacier_name=glac_name&src_date=src_date&release_okay_date=release_okay_date&glacier_id=glac_id&db_area=db_area&anlys_id=anlys_id&anlst_surn=anlst_surn&anlst_affl=anlst_affl&country_name_select=Select...&glac_id_text={0}&prime_class_select=Select...&rc_name_select=Select...'.format(glacier['GLIMSId']);
-
-  		document.getElementById('rgiid').innerText = glacier['RGIId'];
-      document.getElementById('elevrange').innerText = glacier['Zmin'] + '-' + glacier['Zmax'] + ' m';
-
-  		document.getElementById('glaciername').innerText = glacier['friendly_name'] + ' in ' + glacier['regionname'];
-
-  		document.getElementById('bingmap').src = "https://www.bing.com/maps/embed?h=600&w=600&cp={0}~{1}&lvl=11&typ=d&sty=h&src=SHELL&FORM=MBEDV8".format(glacier['CenLat'],glacier['CenLon']);
-      document.getElementById('googletimelapse').href="https://earthengine.google.com/timelapse/#v={0},{1},8.341,latLng&t=0.00".format(glacier['CenLat'],glacier['CenLon']);
-
-      document.getElementById('knmilink').href = "http://climexp.knmi.nl/get_index.cgi?email=dailyglacier%40twitter&field=had4_krig_v2&maskmetadata=&lat1={0}&lat2={0}&lon1={1}&lon2={1}&intertype=nearest&gridpoints=false&minfac=30&standardunits=".format(glacier['CenLat'],glacier['CenLon'])
-
-      document.getElementById('NCEPNCARlink').href = "http://climexp.knmi.nl/get_index.cgi?email=dailyglacier%40twitter&field=nair&maskmetadata=&lat1={0}&lat2=&lon1={1}&lon2=&intertype=interpolated&gridpoints=false&minfac=30&standardunits=".format(glacier['CenLat'],glacier['CenLon'])
-      
-
-  		if (glacier['CenLat']>=0) { s = glacier['CenLat'].toFixed(2) + '°N';}
-  		else {s = Math.abs(glacier['CenLat'].toFixed(2)) + '°S';}
-  		if (glacier['CenLon']>=0) { s = s + ' ' + glacier['CenLon'].toFixed(2) + '°E';}
-  		else {s = s + ' ' + Math.abs(glacier['CenLon']).toFixed(2) + '°W';}
-
-  		document.getElementById('position').innerText = s;
+    return params;
+  };//--  fn  deparam
 
 
-  		document.getElementById('scene1').innerText = glacier['productid1'];
-  		document.getElementById('scene2').innerText = glacier['productid2'];
+  s = window.location.search;
 
-      date1=glacier['productid1'].replace(/.*_\d{6,6}_(\d{4,4})(\d{2,2})(\d{2,2})_.*/g,"$1-$2-$3");
-      date2=glacier['productid2'].replace(/.*_\d{6,6}_(\d{4,4})(\d{2,2})(\d{2,2})_.*/g,"$1-$2-$3");
-      document.getElementById('eo1').href = 'http://apps.sentinel-hub.com/eo-browser/#lat={0}&lng={1}&zoom=11&datasource=Landsat%205%20ESA&time={2}&preset=1_TRUE_COLOR'.format(glacier['CenLat'],glacier['CenLon'],date1);
-      document.getElementById('eo2').href = 'http://apps.sentinel-hub.com/eo-browser/#lat={0}&lng={1}&zoom=11&datasource=Landsat%208%20USGS&time={2}&preset=2_TRUE_COLOR_PANSHARPENED'.format(glacier['CenLat'],glacier['CenLon'],date2);
+  if (s.length > 15) {
 
-      if ("images" in glacier) {
-        glacier["images"] = glacier["images"].split(",");
-        document.getElementById('image1link').href="https://home.glaciology.net/dailyglacier/" + glacier["images"][0];
-        document.getElementById('image2link').href="https://home.glaciology.net/dailyglacier/" + glacier["images"][1];
-	      
-        var cocoen = document.getElementsByClassName('cocoen')[0];
-          cocoen.style.display = 'block';
-          document.getElementById('sliderimage1').src="https://home.glaciology.net/dailyglacier/" + glacier["images"][0];
-          document.getElementById('sliderimage2').src="https://home.glaciology.net/dailyglacier/" + glacier["images"][1];
-          new Cocoen(cocoen);
-      }
-      if ("anigif" in glacier) document.getElementById('giflink').href="https://home.glaciology.net/dailyglacier/" + glacier["anigif"];
-      if ("video" in glacier) document.getElementById('mp4link').href="https://home.glaciology.net/dailyglacier/" + glacier["video"];
+    glacier = deparam(s);
+
+    glacier['CenLat'] = parseFloat(glacier['CenLat']);
+    glacier['CenLon'] = parseFloat(glacier['CenLon']);
+    lat = glacier['CenLat'];
+    lon = glacier['CenLon'];
+
+    document.getElementById('allmeta').style.display = 'block';
+    document.getElementsByClassName('article-banner')[0].style.display = 'none';
+    document.getElementsByClassName('article-meta')[0] = 'none';
+
+    document.getElementById('glimsid').innerText = glacier['GLIMSId'];
+    document.getElementById('glimsid').href = 'http://glims.colorado.edu/textsearch/search_results.php?glacier_name=glac_name&src_date=src_date&release_okay_date=release_okay_date&glacier_id=glac_id&db_area=db_area&anlys_id=anlys_id&anlst_surn=anlst_surn&anlst_affl=anlst_affl&country_name_select=Select...&glac_id_text={0}&prime_class_select=Select...&rc_name_select=Select...'.format(glacier['GLIMSId']);
+
+    document.getElementById('rgiid').innerText = glacier['RGIId'];
+    document.getElementById('elevrange').innerText = glacier['Zmin'] + '-' + glacier['Zmax'] + ' m';
+
+    document.getElementById('glaciername').innerText = glacier['friendly_name'] + ' in ' + glacier['regionname'];
+
+    document.getElementById('bingmap').src = "https://www.bing.com/maps/embed?h=600&w=600&cp={0}~{1}&lvl=11&typ=d&sty=h&src=SHELL&FORM=MBEDV8".format(glacier['CenLat'], glacier['CenLon']);
+    document.getElementById('googletimelapse').href = "https://earthengine.google.com/timelapse/#v={0},{1},8.341,latLng&t=0.00".format(glacier['CenLat'], glacier['CenLon']);
+
+    document.getElementById('knmilink').href = "http://climexp.knmi.nl/get_index.cgi?email=dailyglacier%40twitter&field=had4_krig_v2&maskmetadata=&lat1={0}&lat2={0}&lon1={1}&lon2={1}&intertype=nearest&gridpoints=false&minfac=30&standardunits=".format(glacier['CenLat'], glacier['CenLon'])
+
+    document.getElementById('NCEPNCARlink').href = "http://climexp.knmi.nl/get_index.cgi?email=dailyglacier%40twitter&field=nair&maskmetadata=&lat1={0}&lat2=&lon1={1}&lon2=&intertype=interpolated&gridpoints=false&minfac=30&standardunits=".format(glacier['CenLat'], glacier['CenLon'])
+
+
+    if (glacier['CenLat'] >= 0) { s = glacier['CenLat'].toFixed(2) + '°N'; }
+    else { s = Math.abs(glacier['CenLat'].toFixed(2)) + '°S'; }
+    if (glacier['CenLon'] >= 0) { s = s + ' ' + glacier['CenLon'].toFixed(2) + '°E'; }
+    else { s = s + ' ' + Math.abs(glacier['CenLon']).toFixed(2) + '°W'; }
+
+    document.getElementById('position').innerText = s;
+
+
+    document.getElementById('scene1').innerText = glacier['productid1'];
+    document.getElementById('scene2').innerText = glacier['productid2'];
+
+    date1 = glacier['productid1'].replace(/.*_\d{6,6}_(\d{4,4})(\d{2,2})(\d{2,2})_.*/g, "$1-$2-$3");
+    date2 = glacier['productid2'].replace(/.*_\d{6,6}_(\d{4,4})(\d{2,2})(\d{2,2})_.*/g, "$1-$2-$3");
+    document.getElementById('eo1').href = 'http://apps.sentinel-hub.com/eo-browser/#lat={0}&lng={1}&zoom=11&datasource=Landsat%205%20ESA&time={2}&preset=1_TRUE_COLOR'.format(glacier['CenLat'], glacier['CenLon'], date1);
+    document.getElementById('eo2').href = 'http://apps.sentinel-hub.com/eo-browser/#lat={0}&lng={1}&zoom=11&datasource=Landsat%208%20USGS&time={2}&preset=2_TRUE_COLOR_PANSHARPENED'.format(glacier['CenLat'], glacier['CenLon'], date2);
+
+
+    //imageroot = "https://home.glaciology.net/dailyglacier/"
+    imageroot = "https://sid.erda.dk/share_redirect/bzmBIvGsAH/"
+    if ("images" in glacier) {
+      glacier["images"] = glacier["images"].split(",");
+      document.getElementById('image1link').href = imageroot + glacier["images"][0];
+      document.getElementById('image2link').href = imageroot + glacier["images"][1];
+
+      var cocoen = document.getElementsByClassName('cocoen')[0];
+      cocoen.style.display = 'block';
+      document.getElementById('sliderimage1').src = imageroot + glacier["images"][0];
+      document.getElementById('sliderimage2').src = imageroot + glacier["images"][1];
+      new Cocoen(cocoen);
+    }
+    if ("anigif" in glacier) document.getElementById('giflink').href = imageroot + glacier["anigif"];
+    if ("video" in glacier) document.getElementById('mp4link').href = imageroot + glacier["video"];
 
   }
 
-	</script>
+</script>
