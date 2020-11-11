@@ -12,7 +12,7 @@ aliases:
   - /2015/09/30/more-and-stronger-hurricane-surges/
   - /Home/Miscellaneous-Debris/moreandstrongerhurricanesurges
 ---
-I thought I would share this quite illustration on how to interpret changes in return period/return magnitude plots.
+Here is an illustration which may help to interpret changes in return period/return magnitude plots.
   <!--more-->
 [Data]({{< ref "publication/2013-10-11-homogeneous-record-of-atlantic-hurricane-surge-threat-since-1923.md" >}}) on hurricane surges along the US Atlantic and gulf coasts indicate that [more and stronger hurricane activity in globally warm years]({{< ref "publication/2013-10-11-homogeneous-record-of-atlantic-hurricane-surge-threat-since-1923.md" >}}).
 
