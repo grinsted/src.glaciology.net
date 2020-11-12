@@ -1,6 +1,6 @@
 ---
 title: Surface velocity of the Northeast Greenland Ice Stream (NEGIS)
-date: 2020-01-01T00:00:00+00:00
+date: 2020-07-01T00:00:00+00:00
 author: aslak
 citation: Hvidberg, C. S., Grinsted, A., Dahl-Jensen, D., Khan, S. A., Kusk, A., Andersen, J. K., Neckel, N., Solgaard, A., Karlsson, N. B., Kjær, H. A., and Vallelonga, P., Surface velocity of the Northeast Greenland Ice Stream (NEGIS), assessment of interior velocities derived from satellite data by GPS, The Cryosphere, 14, 3487–3502, https://doi.org/10.5194/tc-14-3487-2020, 2020.
 banner: /2020/eastgrip.jpg
