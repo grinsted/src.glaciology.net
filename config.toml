@@ -20,8 +20,8 @@ theme = "hugo-icarus-theme"
 [params]
     # Tell me who you are
     author = "Aslak Grinsted"
-    bio = "Climate Scientist"
-    location = "Earth"
+    bio = "Climate scientist and Associate Professor"
+    location = "Physics of Ice, Climate, and Earth; Niels Bohr Institute; University of Copenhagen"
     site_description = ""
     avatar = "/avatar.jpg"
     logo = "icon-180x180.png"

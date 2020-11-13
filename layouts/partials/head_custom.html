@@ -1,3 +1,7 @@
+{{ with .Params.banner }}
+<meta property="og:image" content="{{ . }}" />
+<meta property="twitter:image" content="{{ . }}" />
+{{ end }}
 <link rel="icon" href="{{ "icon-32x32.png" | absURL }}" sizes="32x32" />
 <link rel="icon" href="{{ "/icon-192x192.png" | absURL }}" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="{{ "icon-180x180.png" | absURL }}" />
