@@ -1,6 +1,6 @@
 {{ with .Params.banner }}
 <meta property="og:image" content="{{ . }}" />
-<meta property="twitter:image" content="{{ . }}" />
+<meta property="twitter:image" content="{{ . | absURL }}" />
 {{ end }}
 <link rel="icon" href="{{ "icon-32x32.png" | absURL }}" sizes="32x32" />
 <link rel="icon" href="{{ "/icon-192x192.png" | absURL }}" sizes="192x192" />
