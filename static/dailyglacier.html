@@ -89,6 +89,7 @@
     <li>Scene 2: <a id='eo2' title="EOBrowser - scene not always available"><span id=scene2></span></a></li>
     <li>Elevation range: <span id=elevrange></span></li>
     <li>Temperature plot: <a id=knmilink>HADCRUT4+CW</a> <a id="NCEPNCARlink">NCEP/NCAR reanalysis</a></li>
+    <li>Google <a id=googlemaps>maps</a></li>
     <li>Google <a id=googletimelapse>timelapse</a></li>
   </ul>
   </p>
@@ -165,6 +166,7 @@
 
     document.getElementById('bingmap').src = "https://www.bing.com/maps/embed?h=600&w=600&cp={0}~{1}&lvl=11&typ=d&sty=h&src=SHELL&FORM=MBEDV8".format(glacier['CenLat'], glacier['CenLon']);
     document.getElementById('googletimelapse').href = "https://earthengine.google.com/timelapse/#v={0},{1},8.341,latLng&t=0.00".format(glacier['CenLat'], glacier['CenLon']);
+    document.getElementById('googlemaps').href = "https://www.google.dk/maps/@{0},{1},8.341z".format(glacier['CenLat'], glacier['CenLon']);
 
     document.getElementById('knmilink').href = "http://climexp.knmi.nl/get_index.cgi?email=dailyglacier%40twitter&field=had4_krig_v2&maskmetadata=&lat1={0}&lat2={0}&lon1={1}&lon2={1}&intertype=nearest&gridpoints=false&minfac=30&standardunits=".format(glacier['CenLat'], glacier['CenLon'])
 
