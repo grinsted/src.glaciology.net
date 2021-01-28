@@ -2,7 +2,7 @@
 title: Effect of an orientation-dependent nonlinear grain fluidity on bulk directional enhancement-factors
 date: 2020-11-30T00:00:00+00:00
 author: aslak
-citation: 
+citation: Rathmann, N., Hvidberg, C., Grinsted, A., Lilien, D., & Dahl-Jensen, D. (2021). Effect of an orientation-dependent non-linear grain fluidity on bulk directional enhancement factors. Journal of Glaciology, 1-7. doi:10.1017/jog.2020.117
 banner: /2020/icecrystals.jpg
 tags:
   - viscosity
@@ -11,16 +11,7 @@ tags:
   - fabric
   - enhancement factors
 ---
-We investigated how the orientation-dependent nonlinear fluidity
-of a transversely isotropic grain rheology can influence the
-directional enhancement-factors of a polycrystal by assuming
-a homogeneous stress field. For polycrystals
-with intermediate-to-strong orientation fabrics, we find that the
-soft-to-hard shear-enhancement ratio of axisymmetric
-polycrystals can be at least 10 times larger compared to
-if the fluidity is assumed orientation independent, while
-the compressional/extensional enhancement along the fabric
-symmetry direction can be at least 10 times smaller.
+Ice with a strong fabric deforms more readily in some directions. Nicholas Rathmann levels up the theory with a better treatment of how grains influence bulk properties. The impact can be an order of magnitude difference in bulk enhancement factors.
 
 <!--more-->
 
