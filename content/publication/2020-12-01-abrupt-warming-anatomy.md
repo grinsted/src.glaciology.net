@@ -2,8 +2,7 @@
 title: The anatomy of past abrupt warmings recorded in Greenland ice
 date: 2020-12-01T00:00:00+00:00
 author: aslak
-draft: true
-citation: 
+citation: Capron, E., Rasmussen, S.O., Popp, T.J. et al. The anatomy of past abrupt warmings recorded in Greenland ice. Nat Commun 12, 2106 (2021). https://doi.org/10.1038/s41467-021-22241-w
 banner: /2020/NEEMcore-SuneOlanderRasmussen.jpg
 tags:
   - DO events
@@ -13,7 +12,7 @@ tags:
   - NEEM
   - NGRIP
 ---
-It is not often that negative are results published in a high impact journal. Here, we highlight the absence of a systematic pattern in the anatomy of abrupt changes as recorded in different ice parameters.
+It is not often that negative results gets published in a high impact journal. Here, we highlight the absence of a systematic pattern in the anatomy of abrupt changes as recorded in different ice parameters.
 
 <!--more-->
  
