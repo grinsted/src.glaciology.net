@@ -3,7 +3,7 @@ title: On the limitations of using polarimetric radar sounding to infer the crys
 date: 2021-09-02T00:00:00+00:00
 author: aslak
 weight: 0
-citation: Rathmann, N., D. Lilien, A. Grinsted, T. Gerber, T.J. Young, D. Dahl-Jensen, On the limitations of using polarimetric radar sounding to infer the crystal-orientation fabric of ice masses, GRL, in review, 2021.
+citation: Rathmann, N., D. Lilien, A. Grinsted, T. Gerber, T.J. Young, D. Dahl-Jensen, On the limitations of using polarimetric radar sounding to infer the crystal-orientation fabric of ice masses, GRL, 2021. doi:10.1029/2021GL096244
 banner: /2021/nicholas_fabric.jpg
 tags:
   - c-axis
