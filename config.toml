@@ -12,7 +12,7 @@ PygmentsCodeFences = true
 
 paginate = 12
 footnotereturnlinkcontents = "↩"
-theme = "hugo-icarus-theme"
+theme = "hugo-tranquilpeak-theme"
 
 [permalinks]
     post = "/:year/:title"
@@ -102,6 +102,7 @@ theme = "hugo-icarus-theme"
     twitter         = "agrinsted"
     email           = "ag@glaciology.net"
     phone           = ""
+    mastodon        = "@agrinsted@fediscience.org"
 
 
 

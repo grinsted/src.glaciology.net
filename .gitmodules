@@ -1,3 +1,6 @@
 [submodule "themes/hugo-icarus-theme"]
 	path = themes/hugo-icarus-theme
 	url = https://gitlab.com/toryanderson/hugo-icarus.git
+[submodule "themes/hugo-tranquilpeak-theme"]
+	path = themes/hugo-tranquilpeak-theme
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
