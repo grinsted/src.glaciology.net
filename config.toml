@@ -12,7 +12,7 @@ PygmentsCodeFences = true
 
 paginate = 12
 footnotereturnlinkcontents = "↩"
-theme = "hugo-tranquilpeak-theme"
+theme = "hugo-icarus-theme"
 
 ignoreErrors = ["error-remote-getjson"]
 
