@@ -34,9 +34,6 @@ _Note: this was written in a rush. Please, excuse any trailing thoughts and unfi
 
 **Update:** Greg Laden has a nice exchange on the subject between Richard Alley (from the Pollard et al. Study) and Tamsin Edwards (of the Ritz et al. study). Great to hear their own views. [Go and read for yourself.](http://scienceblogs.com/gregladen/2015/12/15/antarctic-ice-melting-tamsin-edwards-responds-to-richard-alley/)
 
-**Update:** Here's a tweet from @alevermann which compares the upper limit AIS contribution from recent studies.
-
-{{< tweet 669468919388852224 >}}
 
 
 Observe how the 83% interval of BA13, is reasonably similar to 95% of other studies. I note that in AR5 they concluded that the full uncertainty is greater than ensemble spread alone for several key quantities (e.g. steric expansion). They therefore inflated model-spread by a factor 2, which essentially maps 95% model spread to 83% uncertainty intervals.

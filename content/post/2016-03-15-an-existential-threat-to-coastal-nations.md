@@ -27,9 +27,5 @@ The fictional map featured on this page is by [http://jay simons](http://jaysimo
 
 National Geographic had a feature called "[If all the ice melted](http://ngm.nationalgeographic.com/2013/09/rising-seas/if-ice-melted-map)" with maps such as this:
 
-*The ECPs are extensions to 2500 AD of the Representative Concentration Pathways (RCPs). One of the best/simplest summaries of the RCPs is this:
-
-{{< tweet 449663185050533888 >}}
-
 ![](/2016/03/img_20160316_161746.jpg)
 Here's the ensemble mean projection of Greenland temperatures until 2100 (RCP8.5). You can see why it would start to respond.
