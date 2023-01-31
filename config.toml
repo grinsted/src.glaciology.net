@@ -104,7 +104,7 @@ ignoreErrors = ["error-remote-getjson"]
     twitter         = "agrinsted"
     email           = "ag@glaciology.net"
     phone           = ""
-    mastodon        = "@agrinsted@fediscience.org"
+    mastodon        = "//fediscience.org/@agrinsted"
 
 
 

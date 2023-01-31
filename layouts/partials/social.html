@@ -1,3 +1,7 @@
+{{ with .Site.Social.email }}
+<td><a href="mailto:{{.}}" target="_blank" title="E-Mail"><i class="fa fa-envelope"></i></a></td>
+{{ end }}
+
 {{ with .Site.Social.github }}
 <td><a href="//github.com/{{.}}" target="_blank" title="GitHub"><i class="fa fa-github"></i></a></td>
 {{ end }}
@@ -104,6 +108,5 @@
 {{ end }}
 
 {{ with .Site.Social.mastodon }}
-<td><a href='{{ . | replaceRE "@(.*?)@(.*?)" "//$2/$1" | safeHTML }}' target="_blank" title="Mastodon"><i
-            class="fa fa-mastodon"></i></a></td>
+<td><a href='{{.}}' target="_blank" title="Mastodon"><i class="fa fa-mastodon"></i></a></td>
 {{ end }}
