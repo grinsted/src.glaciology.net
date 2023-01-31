@@ -104,6 +104,6 @@
 {{ end }}
 
 {{ with <div class="Site Social mastodon"></div> }}
-<td><a href='{{ . | replaceRE " @(.*)@().*)" "//$2/$1" | safeHTML }}' target="_blank" title="Mastodon"><i
+<td><a href='{{ . | replaceRE "@(.*?)@(.*?)" "//$2/$1" | safeHTML }}' target="_blank" title="Mastodon"><i
             class="fa fa-mastodon"></i></a></td>
 {{ end }}
