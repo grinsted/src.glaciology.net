@@ -103,7 +103,7 @@
 <td><a href="//twitter.com/{{.}}" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></td>
 {{ end }}
 
-{{ with <div class="Site Social mastodon"></div> }}
+{{ with .Site.Social.mastodon }}
 <td><a href='{{ . | replaceRE "@(.*?)@(.*?)" "//$2/$1" | safeHTML }}' target="_blank" title="Mastodon"><i
             class="fa fa-mastodon"></i></a></td>
 {{ end }}
