@@ -1,6 +1,6 @@
 
 figure.facecolor: white
-figure.dpi: 200
+figure.dpi: 300
 savefig.dpi: 600
 figure.figsize: 3.3,2.2
 axes.facecolor: white
