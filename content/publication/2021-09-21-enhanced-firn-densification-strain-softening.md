@@ -2,7 +2,7 @@
 title: 
 date: 2021-09-02T00:00:00+00:00
 author: aslak
-draft: true
+draft: false
 weight: 0
 citation: Modeling enhanced firn densification due to strain softening, The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2021-240, in review, 2021.
 banner: /2021/firn.jpg
