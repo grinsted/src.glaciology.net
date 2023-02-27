@@ -1,5 +1,5 @@
 ---
-title: 
+title: Estimating the ice thickness of the Müller Ice Cap to support selection of a drill site
 date: 2021-02-02T00:00:00+00:00
 author: aslak
 draft: false
