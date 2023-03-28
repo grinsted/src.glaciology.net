@@ -8,16 +8,15 @@ banner: /2022/fenics.png
 <!-- more -->
 
 ### In windows
-* Enable WSL and install [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu-20044-lts/9mttcl66cpxj#activetab=pivot:overviewtab) from the windows store
+* Enable WSL2 and install a Ubuntu image. [see here](https://learn.microsoft.com/en-us/windows/wsl/install)
 * Install [VS Code](https://code.visualstudio.com/)
 
 ### In VS Code
-* Install the WSL remote plug-in
+* Install the "WSL remote" plug-in
 * Install the "Python" plugin (the one from microsoft). 
 
 ### In your freshly installed ubuntu:
-* Install [miniconda](https://docs.conda.io/en/latest/miniconda.html)
-* `conda install mamba -n base -c conda-forge`
+* Install [mambaforge](https://github.com/conda-forge/miniforge#mambaforge) for Linux x86_64 (amd64)
 * `mamba install -c conda-forge matplotlib numpy ipykernel fenics`
 * `code my_test.ipynb`
 
