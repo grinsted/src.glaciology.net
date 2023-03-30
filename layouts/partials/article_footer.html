@@ -1,7 +1,7 @@
 <footer class="article-footer">
     {{ with .Params.citation }}
     <span class="article-citation">
-        {{ . | replaceRE "(10\\.\\d{4,9}/\\S+)\\.?" "<a href='https://doi.org/$1'>$1</a>" | safeHTML }}
+        {{ . | replaceRE "(\S+?10\\.\\d{4,9}/\\S+)\\.?" "<a href='https://doi.org/$1'>$1</a>" | safeHTML }}
     </span>
     {{ end }}
     <a data-url="{{ .Permalink }}" data-id="{{ .File.UniqueID }}" class="article-share-link">
