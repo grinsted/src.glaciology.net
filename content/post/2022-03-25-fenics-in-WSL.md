@@ -17,8 +17,8 @@ banner: /2022/fenics.png
 
 ### In your freshly installed ubuntu:
 * Install [mambaforge](https://github.com/conda-forge/miniforge#mambaforge) for Linux x86_64 (amd64)
-* `mamba install -c conda-forge matplotlib numpy ipykernel fenics`
-* `code my_test.ipynb`
+* `mamba install matplotlib numpy ipykernel fenics`
+* `code my_test.ipynb` (you might have to install/enable the VSCODe python plugin for WSL again.)
 
 
 ### In new VS Code editor window
