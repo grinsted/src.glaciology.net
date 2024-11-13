@@ -3,6 +3,9 @@ public/
 
 
 
+.hugo_build.lock
+
+
 # OS generated files #
 ######################
 .DS_Store
