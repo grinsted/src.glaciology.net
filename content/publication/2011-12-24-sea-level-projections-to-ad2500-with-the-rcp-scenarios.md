@@ -21,7 +21,7 @@ Sea level rise over the coming centuries is perhaps the most damaging side of ri
 
 _The graph shows how sea levels will change for four different pathways for human development and greenhouse gas pollution. The green, yellow and orange lines correspond to scenarios where it takes 10, 30, or 70 years before emissions are stabilized. The red line can be considered to represent business as usual where greenhouse gas emissions are increasing over time._
 
-_Scenarios used: RCP3PD(green), RCP4.5(yellow), RCP6(orange), RCP8.5(red). More details on scenarios can be found [here](https://www.iiasa.ac.at/web-apps/tnt/RcpDb/dsd?Action=htmlpage&page=welcome) and <a href="https://www.pik-potsdam.de/~mmalte/rcps/" rel="nofollow">here</a>.  [PDF](/pdf/Jevrejeva-gloplacha11-sl2500-rcp.pdf)
+_Scenarios used: RCP3PD(green), RCP4.5(yellow), RCP6(orange), RCP8.5(red). More details on scenarios can be found at [IIASA](https://www.iiasa.ac.at/web-apps/tnt/RcpDb/dsd?Action=htmlpage&page=welcome) and at [mmaltes rcp page](https://www.pik-potsdam.de/~mmalte/rcps/)</a>.  [PDF](/pdf/Jevrejeva-gloplacha11-sl2500-rcp.pdf)
 
 
 

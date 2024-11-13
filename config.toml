@@ -1,116 +1,113 @@
+
 baseurl = "https://www.glaciology.net"
 title = "Aslak Grinsted"
 author = "Aslak Grinsted"
 languageCode = "en-us"
-PygmentsCodeFences = true
+defaultContentLanguage = "en-us"
 
-# Enable comments by entering your Disqus shortname
-# disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
-# googleAnalytics = ""
-# Define the number of posts per page
+themesDir = "themes"
+theme = "hugo-theme-m10c"
 
-paginate = 12
-footnotereturnlinkcontents = "↩"
-theme = "hugo-icarus-theme"
 
-ignoreErrors = ["error-remote-getjson"]
+[pagination]
+  pagerSize = 12
 
 [permalinks]
     post = "/:year/:title"
 
+
+[menu]
+  [[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    url = "/post/"
+    weight = 1
+  [[menu.main]]
+    identifier = "publication"
+    name = "Publications"
+    url = "/publication/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+    
+
+
 [params]
-    # Tell me who you are
-    author = "Aslak Grinsted"
-    bio = "Climate scientist and Associate Professor"
-    location = "Physics of Ice, Climate, and Earth; Niels Bohr Institute; University of Copenhagen"
-    site_description = ""
-    avatar = "/avatar.jpg"
-    logo = "icon-180x180.png"
-    copyright = "Aslak Grinsted"
+  author = "Aslak Grinsted"
+  bio = "Climate scientist and Associate Professor"
+  location = "Physics of Ice, Climate, and Earth; Niels Bohr Institute; University of Copenhagen"
+  site_description = ""
+  avatar = "/avatar.jpg"
+  logo = "icon-180x180.png"
+  copyright = "Aslak Grinsted"
+  description = "Associate Professor at the Niels Bohr Institute, Climate scientist, and dad."
+  menu_item_separator = " - "
 
-    # Format dates with Go's time formatting
-    date_format = "2006-01-02"
-    disable_mathjax = true # set to true to disable MathJax
-
-    # define which types of pages should be shown. By default the type with the most regular pages
-    mainSections = ["post","publication"]
-
-    # Add custom assets with their paths relative to the static folder
-	custom_css = ["custom.css"]
-	custom_js  = []
-
-
-# Create custom menu entries by defining a label and a link for
-# them. Since you can also link posts, you've the option the
-# place the links before or after them.
-#
-# E.g.: "Home" appears before all linked posts in the menu
-# and "Tags" / "Categories" after them.
+  [[params.social]]
+    icon = "brand-github"
+    name = "Github"
+    url = "https://github.com/grinsted"
+  [[params.social]]
+    icon = "brand-mastodon"
+    name = "Mastodon"
+    url = "https://fediscience.org/@agrinsted"
+  [[params.social]]
+    icon = "brand-bluesky"
+    name = "Bluesky"
+    url = "https://bsky.app/profile/agrinsted.bsky.social"
 
 
-
-[[params.menu]]
-    before = false
-    label  = "Post"
-    link   = "/post/"
-
-[[params.menu]]
-    before = false
-    label  = "Publications"
-    link   = "/publication/"
-
-[[params.menu]]
-    before = false
-    label  = "Tags"
-    link   = "tags/"
-
-# Enter a link for the follow button on the left
-# [params.profile]
-#    follow_button = "https://github.com/grinsted"
-
-
-[social]
-# Add your social network accounts to the profile section on the left
-# by entering your username. The links to your account will be
-# created automatically.
-    github          = "grinsted"
-    gitlab          = ""
-    bitbucket       = ""
-    jsfiddle        = ""
-    codepen         = ""
-    foursquare      = ""
-    dribbble        = ""
-    deviantart      = ""
-    behance         = ""
-    flickr          = ""
-    instagram       = "agrinsted"
-    youtube         = ""
-    vimeo           = ""
-    vine            = ""
-    medium          = ""
-    wordpress       = ""
-    tumblr          = ""
-    xing            = ""
-    linkedin        = ""
-    slideshare      = ""
-    stackoverflow   = ""
-    reddit          = ""
-    pinterest       = ""
-    googleplus      = ""
-    facebook        = "aslak.grinsted"
-    facebook_admin  = ""
-    twitter_domain  = ""
-    twitter         = "agrinsted"
-    email           = "ag@glaciology.net"
-    phone           = ""
-    mastodon        = "//fediscience.org/@agrinsted"
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 
+  # Default theme
+  # [params.style]
+  #   darkestColor = "#242930"
+  #   darkColor = "#353b43"
+  #   lightColor = "#afbac4"
+  #   lightestColor = "#ffffff"
+  #   primaryColor = "#57cc8a"
 
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-recent_articles = true
-categories = false
-tags = false
-tag_cloud = false
+  # Green theme
+  # [params.style]
+  #   darkestColor = "#315659"
+  #   darkColor = "#253031"
+  #   lightColor = "#96a879"
+  #   lightestColor = "#fff"
+  #   primaryColor = "#dad865"
+
+  # Red theme
+  # [params.style]
+  #   darkestColor = "#d35050"
+  #   darkColor = "#212121"
+  #   lightColor = "#d6d6d6"
+  #   lightestColor = "#d3d3d3"
+  #   primaryColor = "#ffffff"
+
+  
+
