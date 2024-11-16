@@ -1,6 +1,6 @@
 #compiled hugo folder
 public/
-
+_test.bat
 
 
 .hugo_build.lock

@@ -1,9 +1,14 @@
 +++
-title = "About me"
+title = "Aslak Grinsted"
 +++
 
 
-### Hello, I am Aslak Grinsted
+# Welcome 
 
-I am a climate scientist at the Niels Bohr Institute, University of Copenhagen in the Physics for Ice, Climate, and Earth group. I am also a dad of three. 
+I am an Associate Professor at the Niels Bohr Institute, University of Copenhagen. Interested in ice, climate, sea level, and extreme events. I like data, statistics, and clever modelling. 
+
+🧪 ❄️ 🌊 🌀 🥼 🌡️ 
+
+Dad of two teen girls, and one toddler boy. 
+
 
