@@ -18,14 +18,14 @@ theme = "hugo-theme-m10c"
 
 [menu]
   [[menu.main]]
-    identifier = "post"
-    name = "Posts"
-    url = "/post/"
-    weight = 1
-  [[menu.main]]
     identifier = "publication"
     name = "Publications"
     url = "/publication/"
+    weight = 1
+  [[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    url = "/post/"
     weight = 2
   [[menu.main]]
     identifier = "studentproject"
