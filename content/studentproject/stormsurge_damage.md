@@ -3,6 +3,12 @@ title: Hurricane surge damage
 date: 2024-11-17T04:28:00+00:00
 author: aslak
 banner: /2024/key-west-florida-hurricane-dennis-preview.jpg
+tags:
+  - hurricane
+  - economic
+  - loss
+  - damage
+  - statistical modelling
 ---
 How can we estimate how much extra hurricane damage we can expect due to sea level rise alone? 
 <!--more-->

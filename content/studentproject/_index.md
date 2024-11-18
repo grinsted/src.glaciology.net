@@ -10,3 +10,4 @@ This page is intended as a thesis catalogue that might give you an idea of what 
 
 Come by my office and have a chat and we can discuss if we can find a project that suits you. I am also happy to discuss your own ideas. 
 
+

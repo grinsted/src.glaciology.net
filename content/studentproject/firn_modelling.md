@@ -3,6 +3,12 @@ title: Firn densification
 date: 2024-11-17T04:28:00+00:00
 author: aslak
 banner: /2024/shovelinsnow.jpg
+tags:
+  - Firn
+  - densification
+  - modelling
+  - snow
+  - continuum mechanics
 draft: false
 ---
 Firn densification is the process by which snow transforms into glacial ice. Snow accumulates and compresses over time, causing the snowflakes to compact and recrystallize. Initially, the snow is light and fluffy, but as more snow accumulates on top, the weight compresses the lower layers, increasing their density. This process continues as the snow is buried deeper, and the air pockets between the snowflakes are squeezed out, turning the snow into firn, which is a granular, intermediate stage between snow and glacial ice.

@@ -3,7 +3,12 @@ title: The nodal cycle
 date: 2024-11-17T04:28:00+00:00
 author: aslak
 banner: /2024/moon.jpg
-draft: true
+tags:
+  - sea level rise
+  - tides
+  - time series analysis
+  - ocean heat content
+  - statistical modelling
 ---
 
 Sea level rise will become a huge challenge for coastal societies around the world. We need good data, we need good models, and we need to understand all changes. 
