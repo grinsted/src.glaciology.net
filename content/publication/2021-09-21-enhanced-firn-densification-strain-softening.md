@@ -1,5 +1,5 @@
 ---
-title: Modeling enhanced firn densification due to strain softenin
+title: Modeling enhanced firn densification due to strain softening
 date: 2021-09-02T00:00:00+00:00
 author: aslak
 draft: false
