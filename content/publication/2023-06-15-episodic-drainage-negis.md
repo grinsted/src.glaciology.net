@@ -24,4 +24,4 @@ Subglacial hydrology can exert an important control on ice flow by affecting fri
 * Propagation speed of the drainage cascade varies widely along the ice stream
 
 
-![Timelapse of a drainage event](/2023/2023gl103240-sup-0002-movie si-s01.gif)
+![Timelapse of a drainage event](/2023/episodic_drainage_movie.gif)

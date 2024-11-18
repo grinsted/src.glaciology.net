@@ -5,9 +5,8 @@ author: aslak
 banner: /2024/stack_of_paper.jpg
 ---
 
-This page is intended as a thesis catalogue that might give you an idea of what kinds of project you could do with me as a supervisor. 
+This page is intended as a thesis catalogue that might give you an idea of what kinds of project you could do with me as a supervisor at the Niels Bohr Institute. 
 <!-- more -->
 
-Come by my office and have a chat and we can discuss if we can find a project that suits you. I am also happy to discuss your own ideas. 
-
+Come by my office and have a chat - I'll do my best to find a project that suits you.  I am also happy to discuss your own ideas. 
 
