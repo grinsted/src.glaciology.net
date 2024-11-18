@@ -3,6 +3,7 @@ title: Migrating to Hugo
 date: 2017-09-06T04:20:00+00:00
 author: Aslak
 banner: /2017/hugo.jpg
+math: true
 tags:
   - tips
 ---
