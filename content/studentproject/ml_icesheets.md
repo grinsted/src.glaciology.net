@@ -1,5 +1,5 @@
 ---
-title: Machine learning, remote sensing, and ice sheets. 
+title: Remote sensing of the ice sheets and machine learning. 
 date: 2024-11-17T04:28:00+00:00
 author: aslak
 banner: /2024/sentinel-2.jpg
