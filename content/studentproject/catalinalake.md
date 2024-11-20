@@ -21,7 +21,7 @@ In this project you will study the consequences of the large GLOF. There are man
 * You can try to measure and model the impact on the flow of Edward Bailey glacier.
 
 This study will build on
-* This satalina [see this study](/publication/2017-09-06-catalina-lake/)
+* This [catalina lake study](/publication/2017-09-06-catalina-lake/)
 * Some of these products: Sentinel-1/2, InSAR, Fjord model, glacier model.
 
 {{< youtube xDH5GWWTsV0 >}}
