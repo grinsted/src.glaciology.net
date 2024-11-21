@@ -1,5 +1,6 @@
 {{ with .Params.citation }}
-<span class="article-citation" style="font-size:small">
-    {{ . | replaceRE "\\S+?(10\\.\\d{4,9}/\\S+)\\.?" "<a href='https://doi.org/$1'>$1</a>" | safeHTML }}
-</span>
+<div class="article-citation" style="font-size:.9em; font-style:italic; margin: min(2rem, 1vw)">
+    <b>Citation:</b>
+    {{ . | replaceRE "\\S+?(10\\.\\d{4,9}/[^ ,.:]+)[\\.,]?" "<a href='https://doi.org/$1'>$1</a>" | safeHTML }}
+</div>
 {{ end }}
