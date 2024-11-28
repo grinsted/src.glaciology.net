@@ -4,7 +4,7 @@ title: Upstream flow effects revealed in the EastGRIP ice-core using a Monte Car
 date: 2021-02-02 00:00:00+00:00
 author: aslak
 draft: false
-banner: /2020/eastgrip.jpg
+banner: /publication/2021/eastgrip.jpg
 tags:
 - EastGRIP
 - ice flow
