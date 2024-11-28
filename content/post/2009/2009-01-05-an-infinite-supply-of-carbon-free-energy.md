@@ -2,7 +2,7 @@
 title: An infinite supply of carbon free energy.
 date: 2009-01-05T04:28:00+00:00
 author: aslak
-banner: /2016/02/mindstar_cover.jpeg
+banner: /post/2009/mindstar_cover.jpeg
 aliases:
   - /2009/01/05/an-infinite-supply-of-carbon-free-energy/
   - /Home/Miscellaneous-Debris/aninfinitesupplyofcarbonfreeenergy
@@ -11,7 +11,7 @@ Sounds really nice, right? But there are apparently some pitfalls with that...
 <!--more-->
 I remember reading a science fiction book where global warming drove the government into the ground. Interrestingly, it was not the greenhouse effect that was the source of heating, but the sheer magnitude of global energy consumption and the heat dissipation associated with that. I think it was a book by [Peter F. Hamilton](http://www.peterfhamilton.co.uk/).
 
-(Disclaimer: i am in no way endorsing the research below, because i simply have not looked into it in any detail.)
+(Disclaimer: I am in no way endorsing the research below, because i simply have not looked into it in any detail.)
 
 The idea apparently has some merit, although it seems a bit far-fetched at the moment (see the new scientist story below). From this perspective energy sources that are driven by the sun (solar, wind and tidal power) is much more 'clean' than those generating heat through more unnatural processes (i.e. nuclear fission and fusion). If we ever get a cheap infinite supply of carbon free energy, then you would imagine that the energy consumption would explode. Probably enough to make the Earth warm considerably.
 
