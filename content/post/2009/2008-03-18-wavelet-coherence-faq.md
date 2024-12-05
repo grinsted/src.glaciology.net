@@ -1,8 +1,8 @@
 ---
 title: Wavelet Coherence FAQ
-date: 2008-03-18T01:59:00+00:00
+date: 2009-03-18T01:59:00+00:00
 author: aslak
-banner: /2008/03/EEG_recording.jpg
+banner: /post/2009/EEG_recording.jpg
 tags:
   - time series analysis
   - Wavelet
