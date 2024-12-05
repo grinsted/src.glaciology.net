@@ -1,5 +1,5 @@
 {{ with .Params.citation }}
 <cite>
-    {{ . | replaceRE "\\S+?(10\\.\\d{4,9}/[^ ,.:]+)[\\.,]?" "<a href='https://doi.org/$1'>$1</a>" | safeHTML }}
+    {{ . | replaceRE "\\S+?(10\\.\\d{4,9}/[^ ,:]+)[\\.,]?" "<a href='https://doi.org/$1'>$1</a>" | safeHTML }}
 </cite>
 {{ end }}
