@@ -1,5 +1,5 @@
 ---
-title: The nodal cycle
+title: The nodal cycle in coastal sea level records
 date: 2024-11-17 04:28:00+00:00
 author: aslak
 banner: /studentproject/2024/moon.jpg

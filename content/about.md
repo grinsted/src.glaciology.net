@@ -1,5 +1,6 @@
 +++
 title = "Aslak Grinsted"
+banner: /snyggast.jpg
 +++
 
 
@@ -10,4 +11,9 @@ I am an Associate Professor at the Niels Bohr Institute, University of Copenhage
 🧪 ❄️ 🌊 🌀 🥼 🌡️ 
 
 Dad of two teen girls, and one toddler boy. 
+
+
+
+My Office is 01.2.A.092 in the NBB Building, Jagtvej 132, 2200 Copenhagen N
+{{< figure src="/about_map.webp" link="https://maps.app.goo.gl/qztNhudfnhEtNfmb6" >}}
 
