@@ -1,6 +1,6 @@
 +++
 title = "Aslak Grinsted"
-banner: /snyggast.jpg
+banner = "/snyggast.jpg"
 +++
 
 
