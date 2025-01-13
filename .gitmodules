@@ -3,6 +3,3 @@
 	path = themes/hugo-theme-m10c
 	url = https://github.com/grinsted/hugo-theme-m10c
 	branch = glaciology
-[submodule "themes/hugo-theme-stack"]
-	path = themes/hugo-theme-stack
-	url = https://github.com/CaiJimmy/hugo-theme-stack.git
