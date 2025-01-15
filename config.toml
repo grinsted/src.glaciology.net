@@ -61,6 +61,10 @@ theme = "hugo-theme-m10c"
     name = "Github"
     url = "https://github.com/grinsted"
   [[params.social]]
+    icon = "brand-instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/agrinsted/"
+  [[params.social]]
     icon = "brand-mastodon"
     name = "Mastodon"
     url = "https://fediscience.org/@agrinsted"
