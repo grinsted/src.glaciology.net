@@ -67,7 +67,7 @@ theme = "hugo-theme-m10c"
   [[params.social]]
     icon = "brand-bluesky"
     name = "Bluesky"
-    url = "https://bsky.app/profile/agrinsted.bsky.social"
+    url = "https://bsky.app/profile/glaciology.net"
 
 
 [markup]
