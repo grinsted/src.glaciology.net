@@ -2,7 +2,7 @@
 title: FEniCS on windows
 date: 2022-03-25 05:24:00+00:00
 author: aslak
-banner: /post/2022/fenics.png
+banner: /post/2022/fenics.webp
 ---
 
 [FEniCS](https://fenicsproject.org/) is a really nice tool for finite element modelling in python. It is difficult to install FEniCS on windows. The official instructions use a docker image. which I think is a bit heavy handed. I therefore installed it in a WSL-Ubuntu (Windows Subsystem for Linux). My experience with that has been friction free, so here are some very brief notes of what I did. 
