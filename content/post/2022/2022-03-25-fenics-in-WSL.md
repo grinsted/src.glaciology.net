@@ -9,7 +9,8 @@ banner: /post/2022/fenics.png
 <!-- more -->
 
 ### In windows
-* Enable WSL2 and install a Ubuntu image. [see here](https://learn.microsoft.com/en-us/windows/wsl/install)
+* Enable WSL [read here](https://learn.microsoft.com/en-us/windows/wsl/install)
+* Install an ubuntu/debian image. [ubuntu](https://apps.microsoft.com/detail/9pdxgncfsczv?hl=en-us&gl=US)
 * Install [VS Code](https://code.visualstudio.com/)
 
 ### In VS Code
