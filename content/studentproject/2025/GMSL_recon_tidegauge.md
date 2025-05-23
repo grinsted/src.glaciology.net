@@ -1,6 +1,6 @@
 ---
 title: Reconstructing global sea level
-date: 2025-28-04 04:28:00+00:00
+date: 2025-04-28 04:28:00+00:00
 author: aslak
 banner: /studentproject/2025/
 tags:
@@ -31,7 +31,6 @@ Outcomes:
 Brainstorm:
 * Spherical harmonics
 * GAMs
-* 
 
 builds on
 * [Mengel and Perette](todo)
