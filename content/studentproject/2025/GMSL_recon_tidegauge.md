@@ -11,13 +11,11 @@ tags:
 - Machine Learning
 ---
 
-Global Mean Sea Level (GMSL) is a key climate record. In addition to a 
-
-It is directly relevant to coastal communities.
+Better estimates of historical Global Mean Sea Level (GMSL) can help us understand many components of climate system. It is a key climate record.
 
 <!--more-->
 
-The GMSL record over the 20th century is based on sparse tide gauge records, and rely on various statistical techniques to extrapolate to the global ocean. There will be some uncertainty associated with the extrapolation. Can you do it better than existing techniques. 
+The GMSL record over the 20th century is based on sparse tide gauge records, and rely on various statistical techniques to extrapolate to the global ocean. There will be some uncertainty associated with the extrapolation. Can you do it better than existing techniques?
 
 In this study you will design a new GMSL reconstruction method, and put it to the test. Can you improve our estimates of historical sea level with your new statistical method? 
 
