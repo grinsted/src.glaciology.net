@@ -3,6 +3,7 @@ title: The nodal cycle in coastal sea level records
 date: 2024-11-17 04:28:00+00:00
 author: aslak
 banner: /studentproject/2024/moon.jpg
+weight: 0
 tags:
 - sea level rise
 - tides
@@ -23,3 +24,7 @@ This study will build on...
 * Global tide gauge records.
 * Possibly ocean heat content records.
 * Statistical modelling..
+
+
+## Students: 
+Pelle
