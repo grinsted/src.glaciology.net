@@ -3,6 +3,7 @@ title: Reconstructing global sea level
 date: 2025-04-28 04:28:00+00:00
 author: aslak
 banner: /studentproject/2025/Isle of the Dead, Port Arthur - hunter et al 2003.webp
+weight: 100
 tags:
 - GMSL
 - Recontruction
