@@ -1,6 +1,6 @@
 ---
 title: Compiling multiple markdown files to epub
-date: 2025-25-08 05:24:00+00:00
+date: 2025-08-25 05:24:00+00:00
 author: aslak
 banner: /post/2025/obsidian-credit-james-st-john.jpg
 ---
