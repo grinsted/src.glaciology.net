@@ -16,9 +16,14 @@ Firn densification is the process by which snow transforms into glacial ice. Sno
 
 <!--more-->
 
-In this project you would work towards improving our models of the densification process. How well does firn support stresses, how fast does it compress, and how does it respond to temperature change?
+In a project under this general headline you would work towards improving our models of the densification process. How well does firn support stresses, how fast does it compress, and how does it respond to temperature change?
 
 Why? We need to know the density if we are to convert elevation change measured from satelite to a change in mass and so it is important for sea level studies. The densification process is also important for interpreting gas records from ice cores. 
+
+There is a multitude of different project ideas that can fall under this umbrella. Some of these are:
+* Inverse firn temperature modelling. Ice rises in antarctica.
+* Method studies of inversion of firn profile for strain rates. 
+* Infer strain rates from a density profile, N15 data, and new dating - is all data available - (Warning:  maybe not yet suited for student project. - check status) 
 
 
 this study links to:
