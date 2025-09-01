@@ -2,7 +2,7 @@
 title: Finnish Antarctic expedition 2006-2007 blog
 date: 2015-06-24 03:02:00+00:00
 author: aslak
-banner: /2016/02/SBB20view.jpg
+banner: /2015/SBB20view.jpg
 tags:
 - Antarctic
 - blue ice
