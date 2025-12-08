@@ -32,3 +32,8 @@ this study links to:
 * [The community firn model](https://github.com/UWGlaciology/CommunityFirnModel)
 * The [SUMup database](https://github.com/SUMup-database)
 * Firn [strain softening](/publication/2021-09-21-enhanced-firn-densification-strain-softening/)
+
+
+
+Students:
+PUK pre-study: Nikolaj Munk Kjærsgård

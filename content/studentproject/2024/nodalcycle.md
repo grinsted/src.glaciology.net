@@ -27,4 +27,4 @@ This study will build on...
 
 
 ## Students: 
-Pelle
+Pelle S. Rachnagel
