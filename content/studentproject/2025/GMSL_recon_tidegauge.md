@@ -29,7 +29,7 @@ Outcomes:
 
 Brainstorm:
 * Spherical harmonics
-* GAMs
+* [GPs](https://www.youtube.com/watch?v=5ZOPtHKzHrM)
 
 builds on
 * [Mengel and Perette](todo)
