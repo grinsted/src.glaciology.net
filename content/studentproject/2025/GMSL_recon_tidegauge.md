@@ -33,8 +33,8 @@ Brainstorm:
 
 builds on
 * [Mengel and Perette](todo)
-* [Dangendorf](todo)
-* [Church et al.](todo)
+* [Dangendorf](https://essd.copernicus.org/articles/16/3471/2024/essd-16-3471-2024.pdf)
+* [Church et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005GL024826)
 * [PSMSL](https://psmsl.org)
 * [Altimetry link](https://www.aviso.altimetry.fr/en/data/products/ocean-indicators-products/mean-sea-level.html)
 * [Common era reconstructions](todo)
