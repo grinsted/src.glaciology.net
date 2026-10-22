@@ -19,3 +19,5 @@ In this computational physics project, we will simulate the trajectories of diff
 A central question is whether comparing ions with different masses can help separate the effects of gravity from those of stray electric and magnetic fields. Depending on the student's interests, the project may range from a numerical feasibility study to the design of a hypothetical experimental setup.
 
 The ultimate goal is to explore whether a plausible experiment could measure gravity from the motion and fall times of charged particles.
+
+Curious? Look up: Witteborn–Fairbank experiment, Schiff–Barnhill effect, ALPHA-g, Penning trap.
