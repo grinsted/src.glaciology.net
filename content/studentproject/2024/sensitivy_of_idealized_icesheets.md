@@ -1,6 +1,6 @@
 ---
 title: "What controls an ice sheet's transient sea-level sensitivity?"
-date: 2024-11-17
+date: 2024-12-17
 draft: false
 banner: /studentproject/2024/soviet_greenhouse.webp
 tags:
