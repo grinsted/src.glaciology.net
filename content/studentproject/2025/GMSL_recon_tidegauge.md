@@ -40,4 +40,4 @@ builds on
 * [Common era reconstructions](todo)
 * [GIA/VLM models / Data](todo)
 
-Student: maybe Benjamin 
+Student: Benjamin 
