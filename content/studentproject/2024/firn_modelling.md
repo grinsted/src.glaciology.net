@@ -12,28 +12,36 @@ tags:
 draft: false
 ---
 
-Firn densification is the process by which snow transforms into glacial ice. Snow accumulates and compresses over time, causing the snowflakes to compact and recrystallize. Initially, the snow is light and fluffy, but as more snow accumulates on top, the weight compresses the lower layers, increasing their density. This process continues as the snow is buried deeper, and the air pockets between the snowflakes are squeezed out, turning the snow into firn, which is a granular, intermediate stage between snow and glacial ice.
+Firn densification is the process by which freshly fallen snow gradually transforms into glacier ice. As snow accumulates, the increasing weight of overlying layers compresses the snowpack, causing snow grains to rearrange, deform, and recrystallize. Over time, the density increases and the pore space decreases, producing firn: the intermediate material between snow and glacier ice.
 
 <!--more-->
 
-In a project under this general headline you would work towards improving our models of the densification process. How well does firn support stresses, how fast does it compress, and how does it respond to temperature change?
+Understanding firn densification is essential for many areas of glaciology. Satellite altimeters measure changes in surface elevation, but converting these measurements into changes in ice-sheet mass requires accurate knowledge of firn density and compaction rates. Firn processes also influence the age difference between air and ice in ice cores, making them important for reconstructing past climate from trapped atmospheric gases.
 
-Why? We need to know the density if we are to convert elevation change measured from satelite to a change in mass and so it is important for sea level studies. The densification process is also important for interpreting gas records from ice cores. 
+Projects under this umbrella focus on improving our understanding and modelling of firn mechanics. Key questions include:
 
-There is a multitude of different project ideas that can fall under this umbrella. Some of these are:
+* How does firn deform under stress?
+* How quickly does it densify under different climatic conditions?
+* How does temperature influence densification and flow?
+* Can we infer strain rates and accumulation histories from firn-density measurements?
 
-* Inverse firn temperature modelling. Ice rises in antarctica.
-* Method studies of inversion of firn profile for strain rates. 
-* Infer strain rates from a density profile, N15 data, and new dating - is all data available - (Warning:  maybe not yet suited for student project. - check status) 
+These projects typically combine physical modelling, inverse methods, and observational data from ice sheets and glaciers. Depending on your interests, projects may involve numerical modelling, data analysis, continuum mechanics, or the interpretation of field observations.
 
+Possible project topics include:
 
-this study links to:
-* The firn model by [Gagliardini and Meyssonier 1997](https://www.cambridge.org/core/journals/annals-of-glaciology/article/flow-simulation-of-a-firncovered-cold-glacier/D09ADF47BE9B85F5AF468F72CC437884)
-* [The community firn model](https://github.com/UWGlaciology/CommunityFirnModel)
-* The [SUMup database](https://github.com/SUMup-database)
+* Inverse modelling of firn temperatures at Antarctic ice rises.
+* Estimating strain rates from firn-density profiles.
+* Testing and improving firn densification models using observational datasets.
+* Comparing different firn models and assessing their performance under varying climatic conditions.
+* Using density and age data to infer accumulation histories and vertical strain rates.
+
+Relevant resources and background literature:
+
+* My recent study: [Grinsted et al. (2026) preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3464/)
+* The firn model of [Gagliardini & Meyssonnier (1997)](https://www.cambridge.org/core/journals/annals-of-glaciology/article/flow-simulation-of-a-firncovered-cold-glacier/D09ADF47BE9B85F5AF468F72CC437884)
+* [Community Firn Model](https://github.com/UWGlaciology/CommunityFirnModel)
+* [SUMup database](https://github.com/SUMup-database)
 * Firn [strain softening](/publication/2021-09-21-enhanced-firn-densification-strain-softening/)
 
-
-
 Students:
-PUK pre-study: Nikolaj Munk Kjærsgård
+* PUK pre-study: Nikolaj Munk Kjærsgård
