@@ -3,7 +3,7 @@ title: Hurricane surge damage (Completed)
 date: 2024-11-17 04:28:00+00:00
 author: aslak
 banner: /studentproject/2024/key-west-florida-hurricane-dennis-preview.jpg
-weight: -100
+weight: 0
 tags:
 - hurricane
 - economic
