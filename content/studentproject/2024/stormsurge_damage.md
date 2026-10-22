@@ -1,8 +1,9 @@
 ---
-title: Hurricane surge damage
+title: Hurricane surge damage (Completed)
 date: 2024-11-17 04:28:00+00:00
 author: aslak
 banner: /studentproject/2024/key-west-florida-hurricane-dennis-preview.jpg
+weight: -100
 tags:
 - hurricane
 - economic
@@ -24,4 +25,4 @@ this study builds on
 * My past sea level studies.
 
 
-Student: Tinus C. B. Lodahl
+Student: Tinus C. B. Lodahl  (DONE)

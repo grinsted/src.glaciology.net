@@ -1,25 +1,31 @@
 ---
-date: '2024-12-10T10:34:41+01:00'
-title: 'Sensitivy of idealized icesheets'
-banner: /studentproject/2024/mimosa.jpg
-citation: 
+title: "What controls an ice sheet's transient sea-level sensitivity?"
+date: 2024-11-17
+draft: false
 tags:
-- ice sheet model
-- sensitivity
-- student project
+- ice sheet modelling
+- climate change
+- uncertainty
+- glacier dynamics
+- numerical modelling
 ---
-How does model choices influence the ice sheet sensitivity? 
 
-<!-- more -->
+Modern ice-sheet models are often tuned to reproduce the present-day shape and extent of an ice sheet. But does matching today's observations guarantee reliable predictions of tomorrow's change?
 
-Often ice sheet models are tuned to closely simulate the present day state. However, sometimes this is achieved using crude unphysical means. My intuition tells me that this potentially can lead to a huge bias in sea level projections. 
+<!--more-->
 
-In this project you will aim to understand how some of these arbitrary choices influence the model response in idealized setups. 
+In this project, we will investigate whether ice-sheet models that appear equally realistic can nevertheless show very different sensitivities to climate forcing.
 
-If you are interested in this project, then come and discuss the details with me. 
+Using idealized ice-sheet simulations, we will generate ensembles of model configurations that reproduce similar present-day geometries. We will then perturb the climate and examine how strongly each model responds.
 
-Keywords to remind myself what i am thinking of: spin_up/inversion/ocean_kill/fabric.
+Students interested in ice-sheet modelling may choose to investigate calving and marine ice-sheet processes, which can strongly influence ice-sheet stability and can sometimes lead to similar large-scale behaviour despite important differences in the underlying physics.
 
+Possible project components include:
 
+* Running ensembles of idealized ice-sheet simulations.
+* Perturbing surface mass balance and ocean forcing.
+* Comparing geometric fit and dynamical sensitivity.
+* Exploring which observable quantities provide the most information about future response.
+* Investigating whether a good match to today's ice sheet implies reliable future projections.
 
-
+The project combines glaciology, climate science, numerical modelling, and uncertainty quantification.

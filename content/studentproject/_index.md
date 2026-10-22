@@ -5,8 +5,10 @@ author: aslak
 banner: /2024/stack_of_paper.jpg
 ---
 
-This page is intended as a thesis catalogue that might give you an idea of what kinds of project you could do with me as a supervisor at the Niels Bohr Institute. 
+This page contains examples of thesis and student projects that can be carried out under my supervision at the Niels Bohr Institute. The topics span glaciology, climate physics, geophysics, remote sensing, numerical modelling, and the occasional unconventional physics idea.
+
 <!-- more -->
 
-Come by my office and have a chat - I'll do my best to find a project that suits you.  I am also happy to discuss your own ideas. 
+The projects listed here are intended as inspiration rather than a fixed catalogue. If one of them catches your interest, we can adapt it to your background and interests.
 
+You are also very welcome to come by my office for a chat. I am happy to discuss your own ideas and help develop a project that is both interesting and achievable.
