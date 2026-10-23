@@ -3,7 +3,7 @@ title: Ice model emulator
 date: 2024-12-12
 author: aslak
 banner: /studentproject/2024/iceloss_emu_iceclimber.webp
-weight: 0
+weight: 10
 tags:
 - ice sheet
 - sea level
