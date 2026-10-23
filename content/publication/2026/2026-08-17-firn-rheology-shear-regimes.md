@@ -2,7 +2,7 @@
 title: Firn rheology revealed by contrasting shear regimes
 date: 2026-08-17 00:00:00+00:00
 author: aslak
-banner: /publication/2026/toilet_pit.webp
+banner: /publication/2026/toilet_pit.jpg
 citation: "Grinsted, A., Rathmann, N. M., Freitag, J., Lindsey-Clark, J., Rasmussen, S. O., Nymand, N. F., and Hvidberg, C. S., 2026. Firn rheology revealed by contrasting shear regimes. EGUsphere [preprint]. [10.5194/egusphere-2026-3464](https://doi.org/10.5194/egusphere-2026-3464)"
 tags:
 - Firn
