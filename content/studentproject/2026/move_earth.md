@@ -3,6 +3,7 @@ title: "Can we move Earth?"
 date: 2026-10-22
 draft: false
 banner: /studentproject/2026/asteroid_conveyor_belt.webp
+weight: 100
 tags:
 - orbital mechanics
 - celestial mechanics
