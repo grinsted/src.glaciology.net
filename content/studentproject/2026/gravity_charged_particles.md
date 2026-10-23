@@ -3,7 +3,7 @@ title: "Can charged particles measure gravity?"
 date: 2026-10-21
 draft: false
 banner: /studentproject/2026/bubble-chamber-cern.jpg
-weight: 5
+weight: 15
 tags:
 - charged particle dynamics
 - electromagnetism
