@@ -3,7 +3,7 @@ title: Can Orbeez save the Greenland ice sheet?
 date: 2026-10-23 12:15:00+00:00
 author: aslak
 banner: /studentproject/2026/whiteorbeez.jpg
-weight: 1
+weight: 16
 tags:
 - geoengineering
 - albedo
