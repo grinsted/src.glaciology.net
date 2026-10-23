@@ -3,6 +3,7 @@ title: Firn densification
 date: 2024-11-17 04:28:00+00:00
 author: aslak
 banner: /studentproject/2024/shovelinsnow.jpg
+weight: 1
 tags:
 - Firn
 - densification
