@@ -11,6 +11,7 @@ tags:
 - ice sheets
 - geophysics
 draft: false
+weight: 10
 ---
 
 The density structure of firn controls how snow is transformed into glacial ice and plays a key role in interpreting satellite observations of ice-sheet elevation change. Unfortunately, direct density measurements require firn cores, which are expensive and spatially sparse. Radar observations offer the possibility of estimating firn density over much larger areas.

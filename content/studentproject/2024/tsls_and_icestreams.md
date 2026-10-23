@@ -3,6 +3,7 @@ title: Ice streams and ice sheet sensitivity
 date: 2024-11-17 04:28:00+00:00
 author: aslak
 banner: /studentproject/2024/ai_generated_twotone_ice.jpg
+weight: 10
 tags:
 - ice sheet
 - chaos
