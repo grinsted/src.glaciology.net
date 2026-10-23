@@ -46,6 +46,8 @@ theme = "hugo-theme-m10c"
 
 
 [params]
+  math = true      
+
   author = "Aslak Grinsted"
   bio = "Climate scientist and Associate Professor"
   location = "Physics of Ice, Climate, and Earth; Niels Bohr Institute; University of Copenhagen"
@@ -99,8 +101,6 @@ theme = "hugo-theme-m10c"
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)']]
 
-[params]
-  math = true      
 
 
   # Default theme
