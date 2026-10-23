@@ -2,7 +2,7 @@
 title: The Transient Sensitivity of Sea Level Rise
 date: 2020-02-02 00:00:00+00:00
 author: aslak
-weight: 1
+weight: 0
 citation: Grinsted, A. and Christensen, J. H., (2021) The transient sensitivity of
   sea level rise, Ocean Sci., 17, 181–186, doi:10.5194/os-17-181-2021
 banner: /publication/2020/cc0ocean.jpg

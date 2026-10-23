@@ -3,7 +3,7 @@ title: Accelerating ice flow at the onset of the Northeast Greenland Ice Stream
 date: 2022-09-23 00:00:00+00:00
 author: aslak
 draft: false
-weight: 1
+weight: 0
 citation: Grinsted, A., Hvidberg, C.S., Lilien, D.A. et al. Accelerating ice flow
   at the onset of the Northeast Greenland Ice Stream. Nat Commun 13, 5589 (2022).
   https://doi.org/10.1038/s41467-022-32999-2

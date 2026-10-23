@@ -6,7 +6,7 @@ citation: Normalized US hurricane damage estimates using area of total destructi
   1900−2018, Aslak Grinsted, Peter Ditlevsen and Jens Hesselbjerg Christensen, Proceedings
   of the National Academy of Sciences. doi:10.1073/pnas.1912277116
 banner: /publication/2019/Aftermath-of-Hurricane-Michael-Making-Landfall.jpg
-weight: 1
+weight: 0
 tags:
 - tropical cyclone
 - hurricane
