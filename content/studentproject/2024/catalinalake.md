@@ -3,6 +3,7 @@ title: "Elastic rebound after a Greenland megaflood"
 date: 2024-11-17 04:28:00+00:00
 author: aslak
 banner: /studentproject/2024/catalina_render.webp
+weight: 10
 tags:
 - glacial lake outburst flood
 - InSAR
