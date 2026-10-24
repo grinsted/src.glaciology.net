@@ -2,7 +2,7 @@
 title: "Can a neural network learn how ice flows?"
 date: 2026-10-24
 draft: false
-banner: /studentproject/2026/robotic_ice_machine.webp
+banner: /studentproject/2026/iv.webp
 weight: 10
 tags:
 - machine learning
@@ -28,3 +28,4 @@ Interesting places to start:
 - [ESA CCI Greenland Ice Sheet](https://climate.esa.int/en/projects/ice-sheets-greenland/) and [ESA CCI Antarctic Ice Sheet](https://climate.esa.int/en/projects/ice-sheets-antarctic/): satellite-derived ice velocities, surface elevation change and more.
 - [ITS_LIVE](https://its-live.jpl.nasa.gov/): global satellite-derived glacier and ice-sheet velocities, with annual maps going back decades.
 - [BedMachine](https://nsidc.org/data/idbmg4): ice thickness and bed topography for Greenland (an Antarctic version is also available).
+- [Deep learning the flow law of Antarctic ice shelves](https://doi.org/10.1126/science.adp3300) (Wang, Lai, Prior & Cowen-Breen, Science 2025): physics-informed deep learning reveals anisotropic ice in Antarctic ice shelves.
