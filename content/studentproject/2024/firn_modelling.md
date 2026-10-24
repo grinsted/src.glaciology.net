@@ -3,7 +3,7 @@ title: "How does snow become ice? The mechanics of firn"
 date: 2024-11-17
 draft: false
 banner: /studentproject/2024/shovelinsnow.jpg
-weight: 10
+weight: 7
 tags:
 - firn
 - densification
