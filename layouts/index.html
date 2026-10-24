@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ with .Title -}}<h1>{{- . -}}</h1>{{- end }}
+{{ with .Content -}}<div class="post-content">{{- . -}}</div>{{- end }}
+
+{{- /* Like the theme's list.html, but student projects are left out (they have their own menu entry) */}}
+{{ $pages := where (where site.RegularPages "Type" "!=" "page") "Section" "!=" "studentproject" }}
+<ul class="post-list">
+  {{ range (.Paginate $pages).Pages }}
+  <li>
+    <img src="{{ .Params.banner | absURL }}" ;>
+    <article>
+      <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+      <p>
+        {{ if .Params.Summary }}
+        {{ .Params.Summary | markdownify }}
+        {{ else }}
+        {{ .Summary | plainify | strings.Truncate 200 }}
+        {{ end }}
+      </p>
+
+      <span class="posts-list-item-description">
+        {{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
+        {{ .PublishDate.Format "Jan 2, 2006" }}
+      </span>
+    </article>
+  </li>
+  {{ end }}
+</ul>
+
+{{ partial "pagination.html" $ }}
+{{ end }}
