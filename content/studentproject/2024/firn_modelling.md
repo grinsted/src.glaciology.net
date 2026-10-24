@@ -1,48 +1,40 @@
 ---
-title: Firn densification
-date: 2024-11-17 04:28:00+00:00
-author: aslak
+title: "How does snow become ice? The mechanics of firn"
+date: 2024-11-17
+draft: false
 banner: /studentproject/2024/shovelinsnow.jpg
-weight: 1
+weight: 10
 tags:
-- Firn
+- firn
 - densification
 - modelling
 - snow
 - continuum mechanics
-draft: false
 ---
 
-Firn densification is the process by which freshly fallen snow gradually transforms into glacier ice. As snow accumulates, the increasing weight of overlying layers compresses the snowpack, causing snow grains to rearrange, deform, and recrystallize. Over time, the density increases and the pore space decreases, producing firn: the intermediate material between snow and glacier ice.
+Every snowflake that falls on an ice sheet is slowly squeezed into glacier ice. In between lies firn: a porous, compressible layer, often around 100 metres thick, that covers most of the ice sheets. How firn deforms is surprisingly poorly understood, yet it matters for everything from measuring ice-sheet mass loss from space to dating the air bubbles in ice cores.
 
-<!--more-->
+Firn densification is usually modelled as a 1D column that compacts under its own weight. But firn is also carried along by the flowing ice, stretched and sheared on its way. This deformation leaves fingerprints in the density profile. In ice-stream shear margins, for example, firn densifies much faster than in calm interior regions. By comparing places where the firn has experienced different deformation histories, we can learn how firn actually flows, which is what my current research is about.
 
-Understanding firn densification is essential for many areas of glaciology. Satellite altimeters measure changes in surface elevation, but converting these measurements into changes in ice-sheet mass requires accurate knowledge of firn density and compaction rates. Firn processes also influence the age difference between air and ice in ice cores, making them important for reconstructing past climate from trapped atmospheric gases.
+Projects in this area combine continuum mechanics, numerical modelling, inverse methods and field data from Greenland and Antarctica. Possible directions include:
 
-Projects under this umbrella focus on improving our understanding and modelling of firn mechanics. Key questions include:
+- Inferring firn rheology from density profiles in contrasting flow regimes, such as ice divides, ice rises and shear margins.
+- Estimating strain rates and accumulation histories from firn density and age data.
+- Inverse modelling of firn temperatures at Antarctic ice rises.
+- Testing and comparing firn densification models against observations under different climates.
 
-* How does firn deform under stress?
-* How quickly does it densify under different climatic conditions?
-* How does temperature influence densification and flow?
-* Can we infer strain rates and accumulation histories from firn-density measurements?
+Depending on your interests, the project can lean towards modelling, data analysis or theory, and can be shaped around your own ideas.
 
-These projects typically combine physical modelling, inverse methods, and observational data from ice sheets and glaciers. Depending on your interests, projects may involve numerical modelling, data analysis, continuum mechanics, or the interpretation of field observations.
+Curious? Look up: firn densification, Community Firn Model, SUMup, strain softening, close-off depth.
 
-Possible project topics include:
+Interesting places to start:
 
-* Inverse modelling of firn temperatures at Antarctic ice rises.
-* Estimating strain rates from firn-density profiles.
-* Testing and improving firn densification models using observational datasets.
-* Comparing different firn models and assessing their performance under varying climatic conditions.
-* Using density and age data to infer accumulation histories and vertical strain rates.
-
-Relevant resources and background literature:
-
-* My recent study: [Grinsted et al. (2026) preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3464/)
-* The firn model of [Gagliardini & Meyssonnier (1997)](https://www.cambridge.org/core/journals/annals-of-glaciology/article/flow-simulation-of-a-firncovered-cold-glacier/D09ADF47BE9B85F5AF468F72CC437884)
-* [Community Firn Model](https://github.com/UWGlaciology/CommunityFirnModel)
-* [SUMup database](https://github.com/SUMup-database)
-* Firn [strain softening](/publication/2021-09-21-enhanced-firn-densification-strain-softening/)
+- [Grinsted et al. (2026), Firn rheology revealed by contrasting shear regimes](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3464/) (preprint): a flowline firn model that accounts for the deformation firn experiences as it moves with the ice.
+- [Enhanced firn densification by strain softening](https://www.glaciology.net/publication/2021-09-21-enhanced-firn-densification-strain-softening/)
+- The firn flow model of [Gagliardini & Meyssonnier (1997)](https://www.cambridge.org/core/journals/annals-of-glaciology/article/flow-simulation-of-a-firncovered-cold-glacier/D09ADF47BE9B85F5AF468F72CC437884)
+- [Community Firn Model](https://github.com/UWGlaciology/CommunityFirnModel)
+- [SUMup database](https://github.com/SUMup-database) of snow and firn density measurements
 
 Students:
-* PUK pre-study: Nikolaj Munk Kjærsgård
+
+- PUK pre-study: Nikolaj Munk Kjærsgård
