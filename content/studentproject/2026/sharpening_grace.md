@@ -3,8 +3,8 @@ title: "Sharpening GRACE: where on the ice sheet is the mass going?"
 date: 2026-10-26 00:00:00+00:00
 author: aslak
 banner: /studentproject/2026/grace-fo-in-orbit.jpg
-banner_credit: Credit: NASA/JPL-Caltech
-banner_alt: Illustration of GRACE-FO in orbit (view 3).
+banner_credit: "Credit: NASA/JPL-Caltech"
+banner_alt: "Illustration of GRACE-FO in orbit (view 3)."
 tags:
 - GRACE
 - gravimetry
