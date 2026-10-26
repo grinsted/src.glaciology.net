@@ -1,0 +1,4 @@
+# Keep in sync with the local Hugo version (`hugo version`).
+# The theme needs Hugo >= 0.158 (.Site.Language.Locale, hugo.Data).
+[build.environment]
+  HUGO_VERSION = "0.162.1"
