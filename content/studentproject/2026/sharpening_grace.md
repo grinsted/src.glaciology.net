@@ -63,3 +63,5 @@ An important advantage of this project is that inversion methods can first be te
 * **Wouters et al. (2008):** Forward modelling of GRACE observations to estimate Greenland mass loss with reduced leakage.
 * **Harig & Simons (2012):** Slepian-function localization of GRACE data to map where Greenland is losing mass.
 * **Rietbroek et al. (2016):** Joint inversion of GRACE and altimetry using sea-level fingerprints to separate the contributions to sea-level rise.
+* **Groh & Horwath (2021):** Tailored sensitivity kernels, the method behind the ESA CCI gravimetric mass balance products.
+* **Döhne et al. (2023):** The sensitivity kernel perspective, showing how different GRACE mass-change methods can be compared through their kernels.
