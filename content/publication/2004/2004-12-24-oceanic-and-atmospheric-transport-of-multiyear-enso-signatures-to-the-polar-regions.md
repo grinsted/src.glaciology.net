@@ -6,7 +6,8 @@ author: aslak
 citation: Jevrejeva, S., J.C. Moore and A. Grinsted, (2004), Oceanic and atmospheric
   transport of multiyear ENSO signatures to the polar regions. Geophys. Res. Lett.,
   31, L24210, doi:10.1029/2004GL020871.
-banner: /2008/02/1280px-Clouds_over_the_Atlantic_Ocean.jpg
+banner: /post/2013/1280px-Clouds_over_the_Atlantic_Ocean.jpg
+banner_credit: 'Image: [Tiago Fioreze](https://commons.wikimedia.org/wiki/User:Tfioreze), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clouds_over_the_Atlantic_Ocean.jpg)'
 tags:
 - time series analysis
 - Wavelet
