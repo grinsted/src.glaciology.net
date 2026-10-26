@@ -58,6 +58,8 @@ An important advantage of this project is that inversion methods can first be te
 * Altimetry elevation change (CryoSat-2, ICESat-2)
 * IMBIE ice-sheet mass balance estimates
 
-### Previous student projects
+### Builds on
 
-* None yet. This is a new project.
+* **Wouters et al. (2008):** Forward modelling of GRACE observations to estimate Greenland mass loss with reduced leakage.
+* **Harig & Simons (2012):** Slepian-function localization of GRACE data to map where Greenland is losing mass.
+* **Rietbroek et al. (2016):** Joint inversion of GRACE and altimetry using sea-level fingerprints to separate the contributions to sea-level rise.
