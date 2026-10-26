@@ -2,7 +2,7 @@
 baseurl = "https://www.glaciology.net"
 title = "Aslak Grinsted"
 author = "Aslak Grinsted"
-languageCode = "en-us"
+locale = "en-us"
 defaultContentLanguage = "en-us"
 
 themesDir = "themes"
