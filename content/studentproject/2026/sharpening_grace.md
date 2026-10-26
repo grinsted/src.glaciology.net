@@ -19,7 +19,7 @@ The GRACE and GRACE-FO satellites weigh the ice sheets from space every month. B
 
 <!--more-->
 
-Standard mass-balance products start from monthly solutions of Earth's gravity field in a spherical-harmonic representation (e.g. CSR RL06.2) and infer time series of mass change per ice sheet or drainage basin. Because the spatial resolution is limited, this is an under-determined inverse problem: many different mass-change patterns are consistent with the same gravity observations. How we resolve that ambiguity matters, especially near the coast, where most of the mass loss happens.
+Standard mass-balance products start from monthly solutions of Earth's gravity field in a spherical-harmonic representation (e.g. CSR RL06) and infer time series of mass change per ice sheet or drainage basin. Because the spatial resolution is limited, this is an under-determined inverse problem: many different mass-change patterns are consistent with the same gravity observations. How we resolve that ambiguity matters, especially near the coast, where most of the mass loss happens.
 
 In this project you will develop new ways of inverting GRACE data by building in what we already know about how ice sheets gain and lose mass. By constraining the problem with physically motivated assumptions, we may obtain sharper maps, better coastal estimates, and more honest uncertainties.
 
@@ -31,7 +31,7 @@ Possible project directions include:
 * Requiring the ocean's response (the sea-level fingerprint) to be consistent with the inferred ice-sheet mass loss, thereby removing degrees of freedom.
 * Assuming that mass change follows spatial patterns (EOFs) learned from other datasets, such as a regional climate model for Greenland or satellite altimetry for Antarctica.
 * Unifying these approaches within a Gaussian-process framework, where each assumption becomes a different prior covariance.
-* Quantifying leakage, GIA uncertainty, and the trade-off between resolution and noise.
+* Quantifying leakage and GIA uncertainty, and the trade-off between resolution and noise, possibly co-estimating GIA alongside the ice mass change.
 
 The workflow typically consists of three stages:
 
@@ -52,7 +52,7 @@ An important advantage of this project is that inversion methods can first be te
 
 ### Relevant resources
 
-* GRACE/GRACE-FO monthly gravity solutions (CSR RL06.2)
+* GRACE/GRACE-FO monthly gravity solutions (CSR RL06)
 * Mascon products (CSR, JPL, GSFC)
 * Regional climate models (MAR, RACMO)
 * Altimetry elevation change (CryoSat-2, ICESat-2)
@@ -65,3 +65,4 @@ An important advantage of this project is that inversion methods can first be te
 * **Rietbroek et al. (2016):** Joint inversion of GRACE and altimetry using sea-level fingerprints to separate the contributions to sea-level rise.
 * **Groh & Horwath (2021):** Tailored sensitivity kernels, the method behind the ESA CCI gravimetric mass balance products.
 * **Döhne et al. (2023):** The sensitivity kernel perspective, showing how different GRACE mass-change methods can be compared through their kernels.
+* **Caron et al. (2018):** A probabilistic ensemble of GIA models, allowing GIA uncertainty to be propagated into GRACE mass-change estimates.
