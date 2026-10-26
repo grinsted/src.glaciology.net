@@ -5,6 +5,7 @@ author: aslak
 citation: Jevrejeva, Grinsted, Moore (2009), Anthropogenic forcing dominates sea level
   rise since 1850, Geophys. Res. Lett., doi:10.1029/2009GL040216
 banner: /publication/2009/Genova-1810ca-acquatinta-Garneray-part-mura.jpg
+banner_credit: 'Image: [Ambroise Louis Garneray](https://en.wikipedia.org/wiki/en:Ambroise_Louis_Garneray), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Genova-1810ca-acquatinta-Garneray-part-mura.jpg)'
 tags:
 - historical
 - sea level

@@ -3,6 +3,7 @@ title: Citing CMIP data
 date: 2013-08-10 04:26:00+00:00
 author: aslak
 banner: /post/2013/1280px-Citation_needed_stickers.jpeg
+banner_credit: 'Image credit: Chris Harrison / chrisharrison.net'
 aliases:
 - /2013/08/10/citing-cmip-data/
 - /Home/Miscellaneous-Debris/cmip6on-demanddoigeneration

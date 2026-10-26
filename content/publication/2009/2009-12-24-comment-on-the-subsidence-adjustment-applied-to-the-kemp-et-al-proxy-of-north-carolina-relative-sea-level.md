@@ -6,6 +6,7 @@ author: aslak
 citation: Grinsted, Jevrejeva, Moore (2011), Comment on the subsidence adjustment
   applied to the Kemp et al. proxy of North Carolina relative sea level. PNAS, doi:10.1073/pnas.1111523108
 banner: /publication/2009/Fort_Fisher_State_Recreation_Area_Salt_Marsh.jpg
+banner_credit: 'Image: Dincher [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fort_Fisher_State_Recreation_Area_Salt_Marsh.JPG)'
 tags:
 - gia
 - global

@@ -3,6 +3,7 @@ title: Ice sheet pessimists are not outliers
 date: 2015-05-27 07:03:00+00:00
 author: aslak
 banner: /post/2015/pessimist_owl.jpg
+banner_credit: 'Credit: Petr Kratochvil / CC0'
 tags:
 - elicitation
 - ice sheets

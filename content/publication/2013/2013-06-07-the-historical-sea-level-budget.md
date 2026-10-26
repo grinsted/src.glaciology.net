@@ -5,6 +5,7 @@ author: aslak
 citation: Moore, Jevrejeva, and Grinsted, The Historical Sea Level Budget, Ann. Glac.,
   52, (59) , 2011
 banner: /publication/2013/CIMG1046.jpg
+banner_credit: 'Image: Aslak Grinsted, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 tags:
 - budget
 - gia

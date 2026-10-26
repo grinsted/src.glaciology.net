@@ -7,6 +7,7 @@ citation: Macias M., A. Grinsted, S. Helama, J. Moore, M. Timonen, T. Martma, E.
   M. Eronen, Unprecedented low 20th century winter sea ice extent in the Western Nordic
   Seas since A.D. 1200. Clim. Dyn., 2009, 34, (6), 781-795, doi:10.1007/s00382-009-0610-z
 banner: /publication/2010/Dutch-whalers-near-Svalbard-1690.jpg
+banner_credit: 'Painting: Abraham Storck. Dutch Whalers near Spitsbergen. Circa 1690, Het Scheepvaartmuseum, Amsterdam.'
 tags:
 - ice core
 - proxy

@@ -8,6 +8,7 @@ citation: Grinsted, A., Rathmann, N.M., Mottram, R., Solgaard, A.M., Mathiesen, 
   Hvidberg, C.S., 2024. Failure strength of glacier ice inferred from Greenland crevasses.
   The Cryosphere 18, 1947–1957. doi:10.5194/tc-18-1947-2024
 banner: /publication/2024/crevasse_field_jeremy_harbeck.webp
+banner_credit: 'Credit: Jeremy Harbeck'
 tags:
 - crevasse
 - failure

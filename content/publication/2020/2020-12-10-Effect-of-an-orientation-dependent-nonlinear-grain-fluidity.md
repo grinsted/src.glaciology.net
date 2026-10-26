@@ -7,6 +7,7 @@ citation: Rathmann, N., Hvidberg, C., Grinsted, A., Lilien, D., & Dahl-Jensen, D
   (2021). Effect of an orientation-dependent non-linear grain fluidity on bulk directional
   enhancement factors. Journal of Glaciology, 1-7. doi:10.1017/jog.2020.117
 banner: /publication/2020/icecrystals.jpg
+banner_credit: 'Credit: Geosciences and Environmental Change Science Center / USGS'
 tags:
 - viscosity
 - ice

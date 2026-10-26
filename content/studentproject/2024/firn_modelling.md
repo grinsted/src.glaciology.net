@@ -3,6 +3,7 @@ title: "How does snow become ice? The mechanics of firn"
 date: 2024-11-17
 draft: false
 banner: /studentproject/2024/shovelinsnow.jpg
+banner_credit: 'Image: Aslak Grinsted, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 weight: 7
 tags:
 - firn

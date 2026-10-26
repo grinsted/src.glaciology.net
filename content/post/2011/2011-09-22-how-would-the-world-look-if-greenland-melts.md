@@ -3,6 +3,7 @@ title: How would the world look if Greenland melts?
 date: 2011-09-22 01:49:00+00:00
 author: aslak
 banner: /post/2011/euro-sea-ice2.jpg
+banner_credit: Image courtesy of CReSIS (Center for Remote Sensing and Integrated Systems) and Haskell Indian Nations University.
 aliases:
 - /2011/09/22/how-would-the-world-look-if-greenland-melts/
 - /Home/Miscellaneous-Debris/How-would-the-world-look-if-greenland-melts

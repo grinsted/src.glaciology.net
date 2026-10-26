@@ -1,6 +1,7 @@
 +++
 title = "Aslak Grinsted"
 banner = "/snyggast.jpg"
+banner_credit = "Credit: Aslak Grinsted / All Rights Reserved"
 +++
 
 

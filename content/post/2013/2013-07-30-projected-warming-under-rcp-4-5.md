@@ -3,6 +3,7 @@ title: Projected warming under RCP 4.5
 date: 2013-07-30 15:03:00+00:00
 author: aslak
 banner: /post/2013/sunset.jpg
+banner_credit: Image by Bobby Mikul / Public Domain
 tags:
 - projection
 - temperature

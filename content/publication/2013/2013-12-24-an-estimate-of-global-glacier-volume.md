@@ -5,6 +5,7 @@ author: aslak
 citation: 'Grinsted, A. (2013): An estimate of global glacier volume, The Cryosphere,
   7, 141–151, doi:10.5194/tc-7-141-2013'
 banner: /publication/2013/1280px-Distant_shot_of_Portage_Glacier.jpg
+banner_credit: 'Credit: pfly via Wikimedia Commons / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)'
 tags:
 - budget
 - glacier

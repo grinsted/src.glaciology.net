@@ -5,6 +5,7 @@ author: aslak
 citation: Aslak Grinsted, John C. Moore, and Svetlana Jevrejeva (2013), Projected
   Atlantic hurricane surge threat from rising temperatures, PNAS, doi:10.1073/pnas.1209980110
 banner: /publication/2013/katrinaflood.jpg
+banner_credit: 'Image: U.S. Navy photo by Gary Nichols, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:US_Navy_050902-N-5328N-228_Four_days_after_Hurricane_Katrina_made_landfall_on_the_Gulf_Coast,_many_parts_of_New_Orleans_remain_flooded.jpg)'
 tags:
 - AO
 - climate

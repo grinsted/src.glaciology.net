@@ -5,6 +5,7 @@ author: aslak
 citation: Grinsted, A., J. C. Moore, S. Jevrejeva (2007) Observational evidence for
   volcanic impact on sea level and the global water cycle. PNAS, 104, 19730-19734.
 banner: /publication/2014/Pinatubo91eruption_plume.jpg
+banner_credit: 'Image: Dave Harlow, USGS, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pinatubo91eruption_plume.jpg)'
 tags:
 - ENSO
 - historical

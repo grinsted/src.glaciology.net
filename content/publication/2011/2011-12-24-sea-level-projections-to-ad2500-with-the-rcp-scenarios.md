@@ -6,6 +6,7 @@ citation: S. Jevrejeva, J.C. Moore, A. Grinsted, Sea level projections to AD2500
   a new generation of climate change scenarios, Global and Planetary Change, Available
   online 21 September 2011, ISSN 0921-8181, 10.1016/j.gloplacha.2011.09.006.
 banner: /publication/2011/NOAH-arcology.jpg
+banner_credit: 'Image Credit: E. Kevin Schopfer / Ahearn-Schopfer & Associates (New Orleans Arcology Habitat - NOAH)'
 tags:
 - ECP
 - projections

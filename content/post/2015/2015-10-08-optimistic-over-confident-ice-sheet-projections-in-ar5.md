@@ -3,6 +3,7 @@ title: Optimistic and over-confident ice sheet projections in AR5
 date: 2015-10-08 05:01:00+00:00
 author: aslak
 banner: /post/2015/tmdg5.png
+banner_credit: Still from The Most Dangerous Game (1932), featuring Robert Armstrong. RKO Radio Pictures
 tags:
 - collapse
 - ice sheet

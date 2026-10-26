@@ -5,6 +5,7 @@ author: aslak
 citation: Jevrejeva, S., J. C. Moore, and A. Grinsted (2012), Potential for bias in
   21st century semi-empirical sea level projections, J. Geophys. Res., doi:10.1029/2012JD017704
 banner: /publication/2012/aivasovsky_ivan_constantinovich_the_9th_wave.jpg
+banner_credit: Ivan Aivazovsky, The Ninth Wave, 1850
 tags:
 - gia
 - global

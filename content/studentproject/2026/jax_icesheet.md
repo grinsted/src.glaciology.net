@@ -3,6 +3,7 @@ title: "Taking giant leaps in time: a differentiable JAX ice-flow model"
 date: 2026-10-24
 draft: false
 banner: /studentproject/2026/Southern_Tip_of_Greenland.jpg
+banner_credit: 'Credit: USGS/NASA/Wikimedia Commons'
 weight: 10
 tags:
 - ice-sheet modelling

@@ -3,6 +3,7 @@ title: An existential threat to coastal nations
 date: 2016-03-15 19:00:26+00:00
 author: aslak
 banner: /post/2016/europe_in_2100_version_1_1__by_the9988-d585nmx-1.jpg
+banner_credit: Map by JaySimons / The9988 on DeviantArt
 tags:
 - collapse
 - commitment

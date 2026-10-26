@@ -11,6 +11,7 @@ citation: Gerber, T.A., Lilien, D.A., Rathmann, N.M., Franke, S., Young, T.J., V
   fabric anisotropy causes directional hardening of the Northeast Greenland Ice Stream.
   Nat Commun 14, 2653. doi:10.1038/s41467-023-38139-8
 banner: /publication/2023/egrip_from_afar.jpg
+banner_credit: 'Image: Aslak Grinsted, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 tags:
 - fabric
 - radar

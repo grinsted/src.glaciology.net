@@ -3,6 +3,7 @@ title: Digitizing pdf figures using inkscape
 date: 2015-09-30 00:04:00+00:00
 author: aslak
 banner: /post/2015/1938hrswlz4vvjpg.jpg
+banner_credit: 'Image Credit: William Playfair, "Exports & Imports to and from All North America," Plate 5 from The Commercial and Political Atlas (1801 edition).'
 tags:
 - Tip
 aliases:

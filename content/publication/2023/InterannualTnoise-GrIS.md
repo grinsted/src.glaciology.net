@@ -2,6 +2,7 @@
 date: '2023-08-09T14:11:55+01:00'
 title: 'The influence of inter-annual temperature variability on the Greenland Ice Sheet volume'
 banner: /publication/2023/InterannualTnoise-GrIS.webp
+banner_credit: 'Image: Aslak Grinsted, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 citation: 'Lauritzen M, Aðalgeirsdóttir G, Rathmann N, Grinsted A, Noël B, Hvidberg CS. The influence of inter-annual temperature variability on the Greenland Ice Sheet volume. Annals of Glaciology. 2023;64(92):268-275. doi:10.1017/aog.2023.53'
 tags:
 - GrIS

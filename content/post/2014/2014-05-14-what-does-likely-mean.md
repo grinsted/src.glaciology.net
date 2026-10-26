@@ -3,6 +3,7 @@ title: What does "likely" mean?
 date: 2014-05-14 05:34:00+00:00
 author: aslak
 banner: /post/2014/Traffic_queues_likely.jpg
+banner_credit: 'Image: [William Grimes](https://en.wikipedia.org/wiki/User:William_Grimes) at [English Wikipedia](https://en.wikipedia.org/wiki/), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Traffic_queues_likely.JPG)'
 tags:
 - IPCC
 - jargon

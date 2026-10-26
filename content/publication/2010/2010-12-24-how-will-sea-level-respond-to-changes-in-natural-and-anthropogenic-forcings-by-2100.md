@@ -7,6 +7,7 @@ citation: Jevrejeva, S., J. C. Moore, and A. Grinsted (2010), Hown will sea leve
   respond to changes in natural and anthropogenic forcingsn by 2100? Geophys. Res.
   Lett., doi:10.1029/2010GL042947 [PDF]
 banner: /publication/2010/7432408894_399c3ac84a_o.jpg
+banner_credit: 'Image: SageSolar, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via [Flickr](https://www.flickr.com/photos/sagesolar/7432408894/)'
 tags:
 - historical
 - projections

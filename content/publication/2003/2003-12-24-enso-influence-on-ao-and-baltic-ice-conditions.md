@@ -6,6 +6,7 @@ citation: 'Jevrejeva, S., J. C. Moore, and A. Grinsted (2003), Influence of the 
   Oscillation and El Niño-Southern Oscillation (ENSO) on ice conditions in the Baltic
   Sea: The wavelet approach, J. Geophys. Res., 108(D21), 4677, doi:10.1029/2003JD003417'
 banner: /publication/2003/796px-scandinavia.tmo2003050.jpg
+banner_credit: 'Image: Jacques Descloitres, [MODIS Land Rapid Response Team](https://rapidfire.sci.gsfc.nasa.gov/) at NASA GSFC, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Scandinavia.TMO2003050.jpg)'
 tags:
 - AO
 - Baltic

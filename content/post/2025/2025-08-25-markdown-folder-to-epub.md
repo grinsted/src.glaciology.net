@@ -3,6 +3,7 @@ title: Compiling multiple markdown files to epub
 date: 2025-08-25 05:24:00+00:00
 author: aslak
 banner: /post/2025/obsidian-credit-james-st-john.jpg
+banner_credit: 'Credit: James St. John'
 ---
 
 I've been experimenting with different ways of converting a whole folder of obsidian markdown files to epub using pandoc. Here are some different options that I've explored. 

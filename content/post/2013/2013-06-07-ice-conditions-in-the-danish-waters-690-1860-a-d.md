@@ -3,6 +3,7 @@ title: Ice conditions in the Danish waters 690-1860 A.D.
 date: 2013-06-07 03:45:00+00:00
 author: aslak
 banner: /post/2013/Svenskene_ut_pa_isen_maleri_av_Johan_Philip_Lemke.jpg
+banner_credit: 'Image: [Johann Philipp Lemke](https://en.wikipedia.org/wiki/en:Johann_Philip_Lemke), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Svenskene_ut_pa_isen_maleri_av_Johan_Philip_Lemke.jpg)'
 aliases:
 - /2013/06/07/ice-conditions-in-the-danish-waters-690-1860-a-d/
 - /Home/Miscellaneous-Debris/iceconditionsinthedanishwaters690-1860ad

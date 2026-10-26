@@ -3,6 +3,7 @@ title: Working offline and caching in matlab
 date: 2016-05-29 13:48:27+00:00
 author: aslak
 banner: /post/2016/Tamia_striatus_eating.jpg
+banner_credit: 'Image: [Gilles Gonthier](https://www.flickr.com/people/46788399@N00) from Canada, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tamia_striatus_eating.jpg)'
 tags:
 - matlab
 - tips

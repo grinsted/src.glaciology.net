@@ -3,6 +3,7 @@ title: The nodal cycle in coastal sea level records (Completed)
 date: 2024-11-17 04:28:00+00:00
 author: aslak
 banner: /studentproject/2024/moon.jpg
+banner_credit: 'Credit: Patricia Alexandre CC0'
 weight: 0
 tags:
 - sea level rise

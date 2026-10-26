@@ -5,6 +5,7 @@ author: aslak
 citation: Aslak Grinsted, John C. Moore, and Svetlana Jevrejeva (2012), Homogeneous
   record of Atlantic hurricane surge threat since 1923, PNAS, doi:10.1073/pnas.1209542109
 banner: /publication/2013/Hurricane_Isabel_from_ISS.jpg
+banner_credit: 'Image: Mike Trenchard, Earth Sciences & Image Analysis Laboratory, NASA Johnson Space Center., Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hurricane_Isabel_from_ISS.jpg)'
 tags:
 - extremes
 - hurricane

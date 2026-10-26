@@ -6,6 +6,7 @@ citation: Mikkelsen, T. B., Grinsted, A., and Ditlevsen, P., Influence of temper
   fluctuations on equilibrium ice sheet volume, The Cryosphere, 12, 39–47, doi:10.5194/tc-12-39-2018,
   2018.
 banner: /publication/2018/icebridge_steenstrup.jpg
+banner_credit: 'Image: [NASA Goddard Space Flight Center](https://www.flickr.com/people/24662369@N07) from Greenbelt, MD, USA, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NASA%27s_Observes_Effects_of_Summer_Melt_on_Greenland_Ice_Sheet_(29609834052).jpg)'
 tags:
 - ice sheet volume
 - noise

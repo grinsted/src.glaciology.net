@@ -3,6 +3,7 @@ title: Scholarfy
 date: 2013-06-10 02:17:00+00:00
 author: aslak
 banner: /post/2013/scholarfy.jpg
+banner_credit: Photo by [Alexas_Fotos](https://pixabay.com/users/alexas_fotos-686414/) via [Pixabay](https://pixabay.com/photos/owl-computer-headphones-fun-laptop-947768/).
 aliases:
 - /2013/06/10/scholarfy/
 - /Home/Miscellaneous-Debris/scholarfy

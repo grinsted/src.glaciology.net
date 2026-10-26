@@ -5,6 +5,7 @@ author: aslak
 citation: Capron, E., Rasmussen, S.O., Popp, T.J. et al. The anatomy of past abrupt
   warmings recorded in Greenland ice. Nat Commun 12, 2106 (2021). https://doi.org/10.1038/s41467-021-22241-w
 banner: /publication/2020/NEEMcore-SuneOlanderRasmussen.jpg
+banner_credit: 'Credit: Sune Olander Rasmussen'
 tags:
 - DO events
 - Abrupt warming

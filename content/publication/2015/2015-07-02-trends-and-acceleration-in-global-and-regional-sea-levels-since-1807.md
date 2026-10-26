@@ -6,6 +6,7 @@ citation: Jevrejeva, S., Moore, J. C., Grinsted, A., Matthews, A. P., & Spada, G
   (2014). Trends and acceleration in global and regional sea levels since 1807. Global
   and Planetary Change, 113, 11-22. doi:10.1016/j.gloplacha.2013.12.004
 banner: /publication/2015/spb_panoramic_view_on_spit_of_the_vasilievsky_island_by_atkinson_1805-1807.jpg
+banner_credit: John Augustus Atkinson, Panoramic View of St. Petersburg, c. 1805
 tags:
 - gia
 - global

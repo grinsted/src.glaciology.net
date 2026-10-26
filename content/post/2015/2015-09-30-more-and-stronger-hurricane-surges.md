@@ -3,6 +3,7 @@ title: More and Stronger Hurricane surges
 date: 2015-09-30 00:05:00+00:00
 author: aslak
 banner: /post/2015/pot-o-chili.jpg
+banner_credit: 'Image: [FiveRings](https://en.wikipedia.org/wiki/User:FiveRings) ([talk](https://en.wikipedia.org/wiki/User_talk:FiveRings)), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pot-o-chili.jpg)'
 tags:
 - extremes
 - hurricanes

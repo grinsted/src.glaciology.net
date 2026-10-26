@@ -10,6 +10,7 @@ citation: 'Lauritzen, M. L., Solgaard, A. M., Rathmann, N. M., Vinther, B. M., G
   evolution constrained by ice-core-derived Holocene elevation histories, EGUsphere
   [preprint], doi:10.5194/egusphere-2024-2223, 2024.'
 banner: /publication/2024/mikkel_gris.webp
+banner_credit: 'Credit: Mikkel Lauritzen'
 tags:
 - holocene
 - pism

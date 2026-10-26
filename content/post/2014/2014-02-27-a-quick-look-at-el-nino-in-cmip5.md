@@ -3,6 +3,7 @@ title: A quick look at El Niño in CMIP5
 date: 2014-02-27 06:54:00+00:00
 author: aslak
 banner: /post/2014/Marine_Fog_Pattern_1.jpg
+banner_credit: 'Image: Jacek Walicki, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marine_Fog_Pattern_1.jpg)'
 tags:
 - ENSO
 - ESM

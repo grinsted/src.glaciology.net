@@ -3,6 +3,7 @@ title: Ice sheet contributions to SLR from Bamber and Aspinall
 date: 2015-05-06 02:16:00+00:00
 author: aslak
 banner: /post/2015/Greenland-ice_sheet_hg.jpg
+banner_credit: 'Image: [Hannes Grobe](https://commons.wikimedia.org/wiki/User:Hgrobe) 20:10, 16 December 2007 (UTC), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Greenland-ice_sheet_hg.jpg)'
 tags:
 - elicitation
 - projections

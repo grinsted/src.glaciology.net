@@ -3,6 +3,7 @@ title: EastGRIP 16, the song
 date: 2016-08-11 17:46:20+00:00
 author: aslak
 banner: /post/2016/20160727_111631.jpg
+banner_credit: 'Image: Aslak Grinsted, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 tags:
 - eastgrip
 - egrip

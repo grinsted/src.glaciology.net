@@ -6,6 +6,7 @@ draft: false
 weight: 0
 citation: "Lindsey-Clark, J. Y., Grinsted, A., Vandecrux, B., and Schøtt Hvidberg, C.: Greenland Monthly Accumulation Maps (1960–2022): A Statistical Semi-Empirical Bias-Adjustment Model, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-2516, 2025."
 banner: /publication/2025/AK_collecting_snow.webp
+banner_credit: 'Photo: East Greenland Ice-core Project, www.eastgrip.org'
 tags:
   - bias
   - accumulation

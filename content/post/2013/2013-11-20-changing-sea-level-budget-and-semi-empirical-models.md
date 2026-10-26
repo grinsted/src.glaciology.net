@@ -3,6 +3,7 @@ title: Changing Sea level budget and Semi-Empirical models
 date: 2013-11-20 01:39:00+00:00
 author: aslak
 banner: /post/2013/unfair_scale_1_by_rick__hunter.jpg
+banner_credit: 'Credit: Rick Hunter'
 tags:
 - sea level
 - semi-empirical

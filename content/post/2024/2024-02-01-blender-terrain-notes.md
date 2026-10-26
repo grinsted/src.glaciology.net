@@ -3,6 +3,7 @@ title: Blender terrain workflow notes
 date: 2024-02-01 05:24:00+00:00
 author: aslak
 banner: /post/2024/blender_egrip.jpg
+banner_credit: 'Image: Aslak Grinsted, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
 Here are some personal notes for how to make elevation models using Blender. 

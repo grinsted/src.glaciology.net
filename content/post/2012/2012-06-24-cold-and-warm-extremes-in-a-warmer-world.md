@@ -3,6 +3,7 @@ title: Cold and Warm Extremes in a warmer world
 date: 2012-06-24 20:41:00+00:00
 author: aslak
 banner: /post/2012/squirrelhotday.jpg
+banner_credit: 'Credit: Mickl Pickl / Flickr'
 tags:
 - extremes
 - statistics

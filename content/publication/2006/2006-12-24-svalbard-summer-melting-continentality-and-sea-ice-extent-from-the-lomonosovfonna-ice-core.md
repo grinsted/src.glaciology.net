@@ -7,6 +7,7 @@ citation: Grinsted, A., J. C. Moore, V. Pohjola, T. Martma, and E. Isaksson (200
   Svalbard summer melting, continentality, and sea ice extent from the Lomonosovfonna
   ice core, J. Geophys. Res., 111, D07110, doi:10.1029/2005JD006494.
 banner: /publication/2006/svalbard-may17-1962.jpg
+banner_credit: Declassified Corona spy satellite image of Svalbard, 1962. Image courtesy of the U.S. Geological Survey.
 aliases:
 - /2006/12/24/svalbard-summer-melting-continentality-and-sea-ice-extent-from-the-lomonosovfonna-ice-core/
 ---

@@ -5,6 +5,7 @@ author: aslak
 citation: Grinsted, Jevrejeva, Riva, Dahl-Jensen (2015), Sea level rise projections
   for Northern Europe under RCP8.5, Clim. Res., doi:10.3354/cr01309
 banner: /publication/2015/iss043e86375.jpg
+banner_credit: 'Credit: NASA'
 tags:
 - Assessment
 - Baltic

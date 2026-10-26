@@ -3,6 +3,7 @@ title: Estimating global glacier volume
 date: 2013-06-07 03:42:00+00:00
 author: aslak
 banner: /post/2013/IMG_7517.jpg
+banner_credit: 'Credit: Aslak Grinsted'
 tags:
 - glacier
 - mass

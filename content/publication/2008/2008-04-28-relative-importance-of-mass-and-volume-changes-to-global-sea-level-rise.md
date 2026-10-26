@@ -6,6 +6,7 @@ citation: Jevrejeva, S., J. C. Moore, and A. Grinsted (2008), Relative importanc
   of mass and volume changes to global sea level rise, J. Geophys. Res., 113, D08105,
   doi:10.1029/2007JD009208.
 banner: /publication/2008/Foam_-_big.jpg
+banner_credit: 'Image: André Karwath aka [Aka](https://commons.wikimedia.org/wiki/User:Aka), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Foam_-_big.jpg)'
 tags:
 - budget
 - climate

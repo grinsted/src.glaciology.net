@@ -5,6 +5,7 @@ author: aslak
 citation: Grinsted (2006) Advanced methods of glaciological modelling and time series
   analysis, Doctoral dissertation, Arctic Centre Reports 47.
 banner: /publication/2006/CIMG0182.jpg
+banner_credit: 'Image: Aslak Grinsted, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 tags:
 - climate recontruction
 - dating

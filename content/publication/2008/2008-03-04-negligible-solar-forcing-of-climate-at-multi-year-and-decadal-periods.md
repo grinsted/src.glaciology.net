@@ -7,6 +7,7 @@ citation: Moore, J. C., A. Grinsted, A., and S. Jevrejeva (2007), Evidence from 
   Periods, Nonlinear Dynamics in Geosciences, A. Tsonis & J.B. Elsner (Eds.), Springer.
   doi:10.1007/978-0-387-34918-3_25, 457-464.
 banner: /publication/2008/Total_solar_eclipse_during_totality_March_29_2006_Sallum_Egypt.jpg
+banner_credit: 'Credit: Lisa4edit / CC0'
 tags:
 - historical
 - statistical modelling

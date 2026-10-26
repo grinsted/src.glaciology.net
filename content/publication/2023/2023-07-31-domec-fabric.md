@@ -8,6 +8,7 @@ citation: 'Lilien DA, Rathmann NM, Hvidberg CS, Grinsted A, Ershadi MR, Drews R,
   D (2023). Simulating higher-order fabric structure in a coupled, anisotropic iceflow
   model: application to Dome C. Journal of  Glaciology 1–20. https://doi.org/10.1017/jog.2023.78'
 banner: /publication/2023/domec.jpg
+banner_credit: 'Credit: StephenHudson, Public domain, via Wikimedia Commons'
 tags:
 - fabric
 - c-axis

@@ -3,6 +3,7 @@ title: Atlantic hurricane surge response to geoengineering
 date: 2015-12-12 13:53:13+00:00
 author: aslak
 banner: /publication/2015/hurricaneeye.jpg
+banner_credit: Image courtesy of NASA / International Space Station
 citation: Moore J. C., A. Grinsted, X. Guo, X. Yu, S. Jevrejeva, A. Rinke, X. Cui,
   B. Kravitz, A. Lenton, S. Watanabe, D. Ji (2015) Atlantic hurricane surge response
   to geoengineering, Proceedings of the National Academy of Sciences, doi:10.1073/pnas.1510530112

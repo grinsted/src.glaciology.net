@@ -6,6 +6,7 @@ citation: Jevrejeva, S., J. C. Moore, A. Grinsted, and P. L. Woodworth (2008), R
   global sea level acceleration started over 200 years ago?, Geophys. Res. Lett.,
   35, L08715, doi:10.1029/2008GL033611.
 banner: /publication/2008/Genova-1810ca-acquatinta-Garneray-part-mura.jpg
+banner_credit: 'Image: [Ambroise Louis Garneray](https://en.wikipedia.org/wiki/en:Ambroise_Louis_Garneray), Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Genova-1810ca-acquatinta-Garneray-part-mura.jpg)'
 tags:
 - climate
 - historical

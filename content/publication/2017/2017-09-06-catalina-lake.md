@@ -5,6 +5,7 @@ author: aslak
 citation: Grinsted, Hvidberg, Campos, Dahl-Jensen (2017), Periodic outburst floods
   from an ice-dammed lake in East Greenland, Scientific Reports, 7, doi:10.1038/s41598-017-07960-9
 banner: /publication/2017/catalinalake-raphaeldein.jpg
+banner_credit: 'Credit: Raphael Dein'
 tags:
 - glof
 - jökulhlaup

@@ -7,6 +7,7 @@ citation: Moore, J., T. Kekonen, A. Grinsted, and E. Isaksson (2006), Sulfate so
   inventories from a Svalbard ice core record spanning the Industrial Revolution,
   J. Geophys. Res., 111, D15307, doi:10.1029/2005JD006453.
 banner: /publication/2008/Pinatubo91eruption_plume.jpg
+banner_credit: 'Image: Dave Harlow, USGS, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pinatubo91eruption_plume.jpg)'
 tags:
 - budget
 - industrial revolution

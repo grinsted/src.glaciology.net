@@ -3,6 +3,7 @@ title: Ice flow, fractures, and damage
 date: 2024-11-17 04:28:00+00:00
 author: aslak
 banner: /studentproject/2024/crevasse_field2_icebridge.webp
+banner_credit: Photo by NASA/Digital Mapping System
 weight: 10
 tags:
 - crevasse

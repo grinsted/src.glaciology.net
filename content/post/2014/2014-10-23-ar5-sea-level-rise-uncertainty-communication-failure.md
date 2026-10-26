@@ -3,6 +3,7 @@ title: AR5 sea level rise uncertainty communication failure
 date: 2014-10-23 05:05:00+00:00
 author: aslak
 banner: /post/2014/complete-worst.jpeg
+banner_credit: 'Image: Book cover for [The Complete Worst-Case Scenario Survival Handbook](https://www.worstcasescenario.com/complete-the-worstcase-scenario-survival)'
 tags:
 - IPCC
 - projections

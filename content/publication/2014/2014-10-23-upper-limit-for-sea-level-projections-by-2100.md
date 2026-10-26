@@ -5,6 +5,7 @@ author: aslak
 citation: Jevrejeva, Grinsted, Moore (2014), Upper limit for sea level projections
   by 2100, Environ. Res. Lett. 9 104008 doi:10.1088/1748-9326/9/10/104008
 banner: /publication/2014/thames-barrier-03.jpg.jpeg
+banner_credit: 'Image: [Andy Roberts](https://www.flickr.com/photos/21372046@N00) from East London, England, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Thames_Barrier_03.jpg)'
 tags:
 - projections
 - RCP

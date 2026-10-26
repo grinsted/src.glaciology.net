@@ -3,6 +3,7 @@ title: WAIS collapse during the last interglacial?
 date: 2013-10-17 02:11:00+00:00
 author: aslak
 banner: /post/2013/octopus-antarctic-23746235.jpeg.480x0_q70_crop-scale.jpg
+banner_credit: 'Image credit: Census of Marine Life (CoML)'
 tags:
 - Eemian
 - ice sheet

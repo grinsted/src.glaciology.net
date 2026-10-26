@@ -6,6 +6,7 @@ citation: 'Jevrejeva, S., J. C. Moore, P. L. Woodworth, A. Grinsted (2005), Infl
   of large-scale atmospheric circulation on European sea level: results based on the
   wavelet transform method, Tellus 57A, 183–193.'
 banner: /publication/2005/Wattenmeer-Nordfriesland.jpg
+banner_credit: 'Image: [Mogens Engelund](https://commons.wikimedia.org/wiki/User:Moeng), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wattenmeer-Nordfriesland.jpg)'
 tags:
 - AO
 - NAO

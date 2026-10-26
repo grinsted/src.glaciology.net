@@ -3,6 +3,7 @@ title: Review of global glacier volume estimates
 date: 2014-11-10 04:20:00+00:00
 author: aslak
 banner: /post/2014/estimatesofglobalvolempty.png
+banner_credit: 'Credit: Aslak Grinsted'
 tags:
 - glacier
 - global

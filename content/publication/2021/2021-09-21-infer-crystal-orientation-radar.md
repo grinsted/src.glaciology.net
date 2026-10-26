@@ -8,6 +8,7 @@ citation: Rathmann, N., D. Lilien, A. Grinsted, T. Gerber, T.J. Young, D. Dahl-J
   On the limitations of using polarimetric radar sounding to infer the crystal-orientation
   fabric of ice masses, GRL, 2021. doi:10.1029/2021GL096244
 banner: /publication/2021/nicholas_fabric.jpg
+banner_credit: 'Credit: Nicholas Rathmann'
 tags:
 - c-axis
 - crystal orientation

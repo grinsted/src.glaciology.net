@@ -8,6 +8,7 @@ citation: Moore, J. C., F. Nishio, S. Fujita, H. Narita, E. Pasteur, A. Grinsted
   from the South Yamato (Antarctica) blue ice area using flow modeling and compositional
   matching to deep ice cores, J. Geophys. Res., 111, doi:10.1029/2005JD006343.
 banner: /publication/2005/meteorite-on-blue-ice-at-szabo-bluff.jpg
+banner_credit: 'Image credit: NASA / ANSMET'
 tags:
 - blue ice
 - dating

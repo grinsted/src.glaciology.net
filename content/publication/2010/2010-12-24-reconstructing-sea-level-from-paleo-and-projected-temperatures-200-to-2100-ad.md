@@ -6,6 +6,7 @@ author: aslak
 citation: Grinsted, A., J. C. Moore, and S. Jevrejeva (2010), Reconstructing sea level
   from paleo and projected temperatures 200 to 2100 AD, Clim. Dyn., doi:10.1007/s00382-008-0507-2.
 banner: /publication/2010/800px-Po_vodam.jpg
+banner_credit: 'Painting: Ivan Aivazovsky, Jesus Walking on Water, 1888'
 tags:
 - climate
 - global

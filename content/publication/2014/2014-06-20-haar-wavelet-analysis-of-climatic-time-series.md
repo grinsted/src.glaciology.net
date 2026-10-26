@@ -5,6 +5,7 @@ author: aslak
 citation: Zhihua Zhang, John C. Moore, Aslak Grinsted, Int. J. Wavelets Multiresolut
   Inf. Process. 12, 1450020 (2014) [11 pages] doi:10.1142/S0219691314500209
 banner: /publication/2014/Horse_mounting_steps_St._Michaels_Church_Warden_-_geograph.org_.uk_-_1066985.jpg
+banner_credit: 'Image: [Mike Quinn](https://www.geograph.org.uk/profile/12735), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:(Horse)_mounting_steps,_St._Michael%27s_Church,_Warden_-_geograph.org.uk_-_1066985.jpg)'
 tags:
 - AO
 - regime shift

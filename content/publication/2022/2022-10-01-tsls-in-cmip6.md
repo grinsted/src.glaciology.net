@@ -8,6 +8,7 @@ citation: Grinsted, A., Bamber, J., Bingham, R., Buzzard, S., Nias, I., Ng, K., 
   Weeks, J. (2022). The transient sea level response to external forcing in CMIP6
   models. Earth's Future, 10, e2022EF002696. https://doi.org/10.1029/2022EF002696
 banner: /publication/2022/birth_of_venus.jpg
+banner_credit: Sandro Botticelli, The Birth of Venus, c. 1485. Galleria degli Uffizi, Florence.
 tags:
 - Sea level rise
 - TSLS

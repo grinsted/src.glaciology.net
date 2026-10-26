@@ -7,6 +7,7 @@ citation: Jevrejeva, S., J.C. Moore and A. Grinsted, (2007), ENSO signal propaga
   in Geosciences, A. Tsonis &amp; J.B. Elsner (Eds.), Springer. doi:10.1007/978-0-387-34918-3_10,
   167-175.
 banner: /publication/2007/North_Pole_-_Lt_Lance_Eng__Santa.jpg
+banner_credit: 'Image: Thomas E. Canter, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:North_Pole_-_Lt_Lance_(Eng)_%26_Santa.jpg)'
 aliases:
 - /2007/12/24/enso-propagation-towards-the-poles/
 ---

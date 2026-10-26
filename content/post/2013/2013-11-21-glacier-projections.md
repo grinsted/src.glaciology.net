@@ -3,6 +3,7 @@ title: Glacier projections
 date: 2013-11-21 06:46:00+00:00
 author: aslak
 banner: /post/2013/projections.png
+banner_credit: 'Credit: Aslak Grinsted'
 tags:
 - glacier
 - projections

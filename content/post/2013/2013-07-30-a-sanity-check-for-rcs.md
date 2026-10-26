@@ -3,6 +3,7 @@ title: A sanity check for RCS
 date: 2013-07-30 15:05:00+00:00
 author: aslak
 banner: /post/2013/Forest_in_Yakushima_55.jpg
+banner_credit: 'Image: [Σ64](https://ja.wikipedia.org/wiki/User:%CE%A364), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Forest_in_Yakushima_55.jpg)'
 aliases:
 - /2013/07/30/a-sanity-check-for-rcs/
 - /Home/Miscellaneous-Debris/asanitycheckforrcsandyamal

@@ -3,6 +3,7 @@ title: Model validation
 date: 2013-06-07 03:43:00+00:00
 author: aslak
 banner: /post/2013/SBB20view.jpg
+banner_credit: 'Image: Aslak Grinsted, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 tags:
 - blue ice
 - extreme weather

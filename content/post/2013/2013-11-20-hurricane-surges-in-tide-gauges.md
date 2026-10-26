@@ -3,6 +3,7 @@ title: Hurricane surges in tide gauges
 date: 2013-11-20 01:47:00+00:00
 author: aslak
 banner: /post/2013/Dennis.jpg
+banner_credit: 'Image: U.S. Navy photo by Jim Brooks, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:US_Navy_050709-N-0000B-004_Hurricane_Dennis_batters_palm_trees_and_floods_parts_of_Naval_Air_Station_(NAS)_Key_West%27s_Truman_Annex.jpg)'
 tags:
 - hurricane
 - Storm surge

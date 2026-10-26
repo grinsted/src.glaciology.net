@@ -3,6 +3,7 @@ title: Ice sheets and Semi-empirical models
 date: 2013-11-20 01:50:00+00:00
 author: aslak
 banner: /post/2013/1280px-Clouds_over_the_Atlantic_Ocean.jpg
+banner_credit: 'Image: [Tiago Fioreze](https://commons.wikimedia.org/wiki/User:Tfioreze), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clouds_over_the_Atlantic_Ocean.jpg)'
 tags:
 - Greenland
 - ice sheets

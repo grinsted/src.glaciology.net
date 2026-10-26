@@ -3,6 +3,7 @@ title: Wavelet Coherence FAQ
 date: 2009-03-18T01:59:00+00:00
 author: aslak
 banner: /post/2009/EEG_recording.jpg
+banner_credit: 'Image: Petter Kallioinen, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:EEG_recording.jpg)'
 tags:
   - time series analysis
   - Wavelet

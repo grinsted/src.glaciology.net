@@ -6,6 +6,7 @@ citation: Jevrejeva, S., A. Grinsted, J. C. Moore, and S. Holgate (2006), Nonlin
   trends and multiyear cycles in sea level records, J. Geophys. Res., 111, C09012,
   doi:10.1029/2005JC003229.
 banner: /publication/2005/af-1990-blog-4.jpg
+banner_credit: 'Photo Credit: NASA / Wade Sisler'
 tags:
 - historical
 - reconstruction
