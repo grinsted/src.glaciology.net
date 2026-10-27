@@ -2,7 +2,7 @@
 title: Inferring firn density from radar observations
 date: 2026-10-22 00:00:00+00:00
 author: aslak
-banner: /studentproject/2026/Operation-IB-Plane-credit-Jim-Yungel-NASA.jpg
+banner: Operation-IB-Plane-credit-Jim-Yungel-NASA.jpg
 banner_credit: 'Credit: Jim Yungel NASA'
 tags:
 - firn
