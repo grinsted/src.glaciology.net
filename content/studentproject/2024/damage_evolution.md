@@ -43,5 +43,5 @@ This project would investigate how newly formed crevasses affect the effective v
 ### Background and relevant resources
 
 * [Damage mechanics in PISM](https://www.pism.io/docs/manual/modeling-choices/marine/damage.html)
-* An empirical [crevasse failure criterion](/publication/2024-04-26-failure-criterion/)
+* An empirical [crevasse failure criterion](/publication/2024/2024-04-26-failure-criterion/)
 * [Recent observations of increased crevassing and ice dynamics](https://www.nature.com/articles/s41561-024-01636-6)

@@ -31,7 +31,7 @@ Curious? Look up: firn densification, Community Firn Model, SUMup, strain soften
 Interesting places to start:
 
 - [Grinsted et al. (2026), Firn rheology revealed by contrasting shear regimes](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3464/) (preprint): a flowline firn model that accounts for the deformation firn experiences as it moves with the ice.
-- [Enhanced firn densification by strain softening](https://www.glaciology.net/publication/2021-09-21-enhanced-firn-densification-strain-softening/)
+- [Enhanced firn densification by strain softening](/publication/2021/2021-09-21-enhanced-firn-densification-strain-softening/)
 - The firn flow model of [Gagliardini & Meyssonnier (1997)](https://www.cambridge.org/core/journals/annals-of-glaciology/article/flow-simulation-of-a-firncovered-cold-glacier/D09ADF47BE9B85F5AF468F72CC437884)
 - [Community Firn Model](https://github.com/UWGlaciology/CommunityFirnModel)
 - [SUMup database](https://github.com/SUMup-database) of snow and firn density measurements

@@ -62,12 +62,10 @@ It is remarkable how this roughly agrees with the [plausible upper limit](/Home/
 
 > _"The 2 meters by 2100 is cited a lot, but if you ask scientists what they think of that number, they say it is probably a little high, maybe 1.5 meters [4.9 feet] is more like an upper bound" _
 
-Since then we have had an [expert elicitation](/Home/Miscellaneous-Debris/comparisonofsealevelprojections) and this is pretty accurate for experts view of RCP8.5. It is predictable that people will look at the numbers and the graph and look no further. I think it mirrors [the problems](http://www.scientificamerican.com/article.cfm?id=what-big-questions-remain-about-sea-level-rise) of how the AR4 presented sea level projections, and I find it unbelievable that people did not learn from that experience. Instead this became a petty struggle between process based and semi-empirical modelling. I applaud that the caveats made it into the SPM, but unfortunately nobody will notice.
+Since then we have had an expert elicitation and this is pretty accurate for experts view of RCP8.5. It is predictable that people will look at the numbers and the graph and look no further. I think it mirrors [the problems](http://www.scientificamerican.com/article.cfm?id=what-big-questions-remain-about-sea-level-rise) of how the AR4 presented sea level projections, and I find it unbelievable that people did not learn from that experience. Instead this became a petty struggle between process based and semi-empirical modelling. I applaud that the caveats made it into the SPM, but unfortunately nobody will notice.
 
 ### Further information:
 
 Here's [our estimate of what worst case sea level rise](/Home/PDFs/Announcements/upperlimitforsealevelprojectionsby2100) (we try to estimate the full community uncertainty).
 
 On [this companion page](/Home/Miscellaneous-Debris/optimisticicesheetprojectionsinar5) I argue that the AR5 ice sheet projections are both optimistic and over-confident. Go take a look.
-
-On [this page](/Home/Miscellaneous-Debris/comparisonofsealevelprojections) I compare AR5 with other sea level projections. It shows the evolution of IPCC sea level projections.

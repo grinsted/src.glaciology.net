@@ -22,7 +22,7 @@ We analyze the global sea-level budget since 1850. Good estimates of sea-level 
 
 **Citation**
 
-Moore, Jevrejeva, and Grinsted, The Historical Sea Level Budget, Ann. Glac., 52, (59) , 2011, [[link](http://www.igsoc.org/annals/v52/59/a59a019.pdf)] [pdf](/2016/03/moore-annals11-historical-sea-level-budget)
+Moore, Jevrejeva, and Grinsted, The Historical Sea Level Budget, Ann. Glac., 52, (59) , 2011, [[link](http://www.igsoc.org/annals/v52/59/a59a019.pdf)] [pdf](/pdf/moore-annals11-historical-sea-level-budget.pdf)
 
 
 

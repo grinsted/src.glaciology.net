@@ -17,13 +17,13 @@ aliases:
 - /Home/PDFs/Announcements/anestimateofglobalglaciervolume
 ---
 
-I assess the feasibility of multi-variate scaling relationships to estimate glacier volume from glacier inventory data. Scaling laws are calibrated against volume observations optimized for the specific purpose of estimating total global glacier ice volume. I find that adjustments for continentality and elevation range improve skill of area-volume scaling. <!--more-->  These scaling relationships are applied to each record in the Randolph Glacier Inventory which is the first globally complete inventory of glaciers and ice caps. I estimate that the total volume of all glaciers in the world is 0.35±0.07 m sea level equivalent, including ice sheet peripheral glaciers. This is substantially less than a recent state-of-the-art estimate. Area volume scaling bias issues for large ice masses, and incomplete inventory data are offered as [explanations for the difference](/Home/Miscellaneous-Debris/estimatingglobalglaciervolume).
+I assess the feasibility of multi-variate scaling relationships to estimate glacier volume from glacier inventory data. Scaling laws are calibrated against volume observations optimized for the specific purpose of estimating total global glacier ice volume. I find that adjustments for continentality and elevation range improve skill of area-volume scaling. <!--more-->  These scaling relationships are applied to each record in the Randolph Glacier Inventory which is the first globally complete inventory of glaciers and ice caps. I estimate that the total volume of all glaciers in the world is 0.35±0.07 m sea level equivalent, including ice sheet peripheral glaciers. This is substantially less than a recent state-of-the-art estimate. Area volume scaling bias issues for large ice masses, and incomplete inventory data are offered as [explanations for the difference](/2013/estimating-global-glacier-volume/).
 
 **Citation**: Grinsted, A. (2013): An estimate of global glacier volume, The Cryosphere, 7, 141–151, doi:10.5194/tc-7-141-2013
 
 [[link](http://www.the-cryosphere.net/7/141/pdf/tc-7-141-2013.pdf)]
 
-More details on the study can be found [under this link](/Home/Miscellaneous-Debris/estimatingglobalglaciervolume) where I discuss:
+More details on the study can be found [under this link](/2013/estimating-global-glacier-volume/) where I discuss:
 
   * Comparisons to Radic and Hock 2010, and Huss & Farinotti 2012.
   * Area-volume scaling and glacier slope.

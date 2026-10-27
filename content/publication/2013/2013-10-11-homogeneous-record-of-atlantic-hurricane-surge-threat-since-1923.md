@@ -39,5 +39,3 @@ Just for fun:
 The surge index is [correlated](http://www.google.com/trends/correlate/search?e=id%3A0ZVIfAbshDQ&t=weekly&p=us) with search terms on google.
 
 U.CPH Press release will be sent out on [Eurekalert](http://www.eurekalert.org/pub_releases/2012-10/uoc-tca101012.php).
-
-[A reply to Pielke Jr's 18ft critique.](/Home/Miscellaneous-Debris/areplytopielkejrs)

@@ -28,4 +28,4 @@ It is a run from the INMCM4 model from the Institute of Mathematical Modelling (
 
 (Sorry about it taking so long. I should have made it alot faster. This version has one frame per month and 25fps.)
 
-The sound track is _Hope for a Better Day_ by me, which you can download [here](http://www.glaciology.net/music).
+The sound track is _Hope for a Better Day_ by me.

@@ -36,7 +36,7 @@ Depending on your interests, the project can focus on satellite data analysis, p
 
 The project will build on:
 
-* This [Catalina Lake study](/publication/2017-09-06-catalina-lake/).
+* This [Catalina Lake study](/publication/2017/2017-09-06-catalina-lake/).
 * The [2024 drainage event](https://science.ku.dk/english/press/news/2024/one-of-worlds-largest-glacier-floods-triggered-in-greenland/).
 * Satellite observations from Sentinel-1 and Sentinel-2.
 * Elastic deformation and load-response models.

@@ -15,4 +15,4 @@ aliases:
 - /Home/PDFs/Announcements/Dynamics-of-the-Scharffenbergbotnen-blue-ice-area-
 ---
 
-Sinisalo, A., A. Grinsted, J. Moore, (2004) Dynamics of the Scharffenbergbotnen blue ice area, Dronning Maud Land, Antarctica. Ann. Glaciol. 39. [pdf](/pdf/Sinisalo04-annals39,_sbb_dynamics.pdf)
+Sinisalo, A., A. Grinsted, J. Moore, (2004) Dynamics of the Scharffenbergbotnen blue ice area, Dronning Maud Land, Antarctica. Ann. Glaciol. 39. [pdf](/pdf/Sinisalo04-annals39_sbb_dynamics.pdf)

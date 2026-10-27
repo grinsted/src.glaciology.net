@@ -20,8 +20,8 @@ In this project you will build a statistical model of hurricane damage and link 
 
 
 this study builds on
-* This [record of hurricane destruction](/publication/2019-12-01-hurricane-damage-area-of-total-destruction/)
-* A [Hurricane surge study](/publication/2013-10-11-homogeneous-record-of-atlantic-hurricane-surge-threat-since-1923/)
+* This [record of hurricane destruction](/publication/2019/2019-12-01-hurricane-damage-area-of-total-destruction/)
+* A [Hurricane surge study](/publication/2013/2013-10-11-homogeneous-record-of-atlantic-hurricane-surge-threat-since-1923/)
 * Existing sea level data and models.
 * My past sea level studies.
 

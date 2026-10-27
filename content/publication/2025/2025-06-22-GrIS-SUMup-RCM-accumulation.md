@@ -53,6 +53,6 @@ The adjustment is sensitive to methodological choices such as how many EOFs to r
 
 ### What's next
 
-Because the method works in EOF space, it suggests a route back in time. The PCs correlate with the NAO, Greenland blocking and sea-ice cover, and if we can model them from climate indices and proxies such as ice cores and tree rings, we can build spatially complete reconstructions of past accumulation. That's the topic of [an ongoing PhD project](LINK).
+Because the method works in EOF space, it suggests a route back in time. The PCs correlate with the NAO, Greenland blocking and sea-ice cover, and if we can model them from climate indices and proxies such as ice cores and tree rings, we can build spatially complete reconstructions of past accumulation. That's the topic of an ongoing PhD project.
 
 The bias-adjusted fields for all four models are on [Zenodo](https://doi.org/10.5281/zenodo.18199331), together with prefiltered SUMup data and minimal working code. The code can be applied to any gridded accumulation product.

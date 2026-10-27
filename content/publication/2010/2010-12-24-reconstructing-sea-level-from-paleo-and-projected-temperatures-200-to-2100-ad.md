@@ -48,13 +48,7 @@ _Citation: Grinsted, A., J. C. Moore, and S. Jevrejeva (2010), Reconstructing se
 
 This means that no matter what we do to reduce CO2 then we are already committed to a considerable rise in sea level. There is simply so much intertia in the system, because the ice masses and ocean heat have not equilibrated to present surface temperatures. We must therefore adapt (by good infrastructure planning) to higher sea level. Still, we can also see that mitigation is not wasted. -It will be much more expensive to protect against 135cm compared to 80cm. Ofcourse there are also other climate impacts than sea level rise, and so we also have other reasons to reduce CO2.
 
-It sounds very controversial to project such a large rise but it really is not. [Experts have known ](http://www.climatescience.gov/Library/sap/sap3-4/final-report/default.htm)that the IPCC projections were too conservative (including the IPCC authors) and those I have talked to had a feeling that something like 1-1.5 meter of rise was probably more correct (see also [this list ](/Home/Miscellaneous-Debris/recentpapersonsealevel)of recent papers). Now we provide some good solid evidence. Hopefully infrastructure planners will listen and plan accordingly. To be fair to the IPCC numbers then they do explicitly state that their estimates "exclude rapid dynamical changes" in ice sheets[.](/Home/PDFs/Announcements/gslprojection/pressresponse)
-
-**Data and Model results**
-
-  * Observed sea level with uncertainties. [[matlab .mat file](/Home/PDFs/Announcements/gslprojection/gsl-with-montecarloC.mat)].
-  * Modelled sea level with uncertainties for all scenarios and experiments. [[matlab .mat file](/Home/PDFs/Announcements/gslprojection/G09-miniresulttable.mat)]
-  * Random subsets of the Markov Chain Monte Carlo samples from the model parameter space from each experiment ([Moberg](/Home/PDFs/Announcements/gslprojection/g09-moberg-mcmc-small.txt), [Jones](/Home/PDFs/Announcements/gslprojection/g09-jones-mcmc-small.txt), [Historical](/Home/PDFs/Announcements/gslprojection/g09-obs-mcmc-small.txt)). These can be used to make projections for other temperature scenarios.
+It sounds very controversial to project such a large rise but it really is not. [Experts have known ](http://www.climatescience.gov/Library/sap/sap3-4/final-report/default.htm)that the IPCC projections were too conservative (including the IPCC authors) and those I have talked to had a feeling that something like 1-1.5 meter of rise was probably more correct. Now we provide some good solid evidence. Hopefully infrastructure planners will listen and plan accordingly. To be fair to the IPCC numbers then they do explicitly state that their estimates "exclude rapid dynamical changes" in ice sheets.
 
 **A comment on the discussion at the realclimate blog.**
 

@@ -50,8 +50,6 @@ Engelhart et al: [http://geology.gsapubs.org/content/37/12/1115.full](http://ge
 
 The figure below is from the supplementary info to Engelhart et al. The important thing here is that each tide gauge (red dot) has been chosen, so that it should be unaffected by confounding factors like ground water pumping. The distance between Tump Point, NC and Churchill, Canada is ~2950 km. For comparison the Global average rate of rise over the 20th century is 2mm/yr. We can subtract the global rate from the local relative rate of sea level rise to estimate the subsidence. That gives a subsidence of atleast 2 mm/yr.
 
-[](/Home/PDFs/Announcements/commentonthesubsidenceadjustmentappliedtothekempetalproxyofnorthcarolinarelativesealevel/engelhart-kemp.png?attredirects=0)
-
 It seems clear that before this issue is resolved, it is dangerous to assume global=local and that it therefore is premature to use the record as a calibration target.
 
 **Update: **
