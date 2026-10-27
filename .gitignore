@@ -17,3 +17,6 @@ ehthumbs.db
 Thumbs.db
 
 .obsidian/
+
+# Python bytecode
+__pycache__/
