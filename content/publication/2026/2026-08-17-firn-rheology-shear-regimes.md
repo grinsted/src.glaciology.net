@@ -3,7 +3,8 @@ title: Firn rheology revealed by contrasting shear regimes
 date: 2026-08-17 00:00:00+00:00
 author: aslak
 banner: /publication/2026/toilet_pit.jpg
-citation: "Grinsted, A., Rathmann, N. M., Freitag, J., Lindsey-Clark, J., Rasmussen, S. O., Nymand, N. F., and Hvidberg, C. S., 2026. Firn rheology revealed by contrasting shear regimes. EGUsphere [preprint]. [10.5194/egusphere-2026-3464](https://doi.org/10.5194/egusphere-2026-3464)"
+banner_credit: "Aslak Grinsted CC-BY SA 3.0"
+citation: "Grinsted, A., Rathmann, N. M., Freitag, J., Lindsey-Clark, J., Rasmussen, S. O., Nymand, N. F., and Hvidberg, C. S., 2026. Firn rheology revealed by contrasting shear regimes. EGUsphere [preprint]. doi:10.5194/egusphere-2026-3464"
 tags:
 - Firn
 - densification
@@ -16,40 +17,47 @@ tags:
 draft: false
 ---
 
-Two firn cores, 15 km apart, with the same climate but very different ice flow. Together they let us separate how firn responds to shear and to compression, and show that ice dynamics can leave a climate-sized imprint on gas-age proxies.
+Take two firn cores drilled 15 km apart, at the same temperature and with the same snowfall. If firn densification were only about climate, their density profiles would be identical. They aren't, and the difference tells us something a single core never could.
 
 <!--more-->
 
-Most firn densification models are one-dimensional: snow is buried, the overburden builds up, and the firn compacts. Horizontal flow is assumed not to matter. But in ice streams and shear margins, firn is stretched and sheared as it is buried, and observations have long shown that densification there is faster than overburden alone can explain.
+### Why one core isn't enough
 
-The problem is that a single density profile cannot tell you *why* firn densifies at a given rate. Many combinations of shear and bulk viscosity fit equally well, which is why earlier calibrations of continuum firn rheologies have given inconsistent results.
+Most of us model firn as a 1D column. Snow is buried, the overburden builds up, and the firn compacts. Horizontal flow is quietly assumed away. That works well enough on domes and divides, but density profiles from ice streams and shear margins have long shown that firn there densifies faster than overburden alone can explain.
 
-### A natural experiment at EastGRIP
+The trouble is working out *why*. A density profile is the integrated result of everything the firn has experienced on its way down, and many combinations of shear viscosity and compressibility reproduce it equally well. That non-uniqueness is a large part of why earlier calibrations of continuum firn rheologies disagree with each other.
 
-The Northeast Greenland Ice Stream offers a way around this. The EastGRIP core sits inside the ice stream, while the S5-1 core was drilled in the adjacent shear margin, only about 15 km away. Both sites have essentially the same temperature (around −31 °C) and accumulation, but the horizontal strain rates in the shear margin are several times higher. Any difference between the two density profiles must therefore come from deformation, not climate.
+What you really want is a controlled experiment: same climate, different deformation.
 
-We built a firn model based on the porous-ice rheology of Gagliardini and Meyssonnier (1997), which treats firn as a compressible power-law material that converges to Glen's flow law as it approaches ice density. With horizontal strain rates taken from satellite velocities, the vertical strain rate follows from a cubic equation with a closed-form solution, so the rheology can be dropped straight into existing 1D firn models. We then inverted both profiles for the density-dependent shear enhancement *a(ρ)* and compressibility *b(ρ)*, both with a steady-state model and with a Lagrangian flowline model that tracks each layer along its back-trajectory.
+### A natural experiment at NEGIS
 
-### What we found
+The Northeast Greenland Ice Stream provides one. The EastGRIP core sits inside the ice stream, while S5-1 was drilled in the adjacent shear margin, about 15 km away. Both sites are at around −31 °C with essentially the same accumulation, but the horizontal strain rates in the margin are several times higher. Whatever separates the two density profiles has to come from ice flow.
 
-* **The overall densification rate is well constrained.** The two cores pin down how fast firn compacts under its own weight, and the answer agrees well with the classic Herron–Langway model. How that compaction splits between squeezing and shearing is harder to determine.
-* **Near-surface firn is much softer than standard models assume.** The top few meters compact far faster than commonly used firn rheologies predict. This suggests that a different deformation mechanism, which is not included in the usual flow law, dominates near the surface.
-* **Deep firn in the shear margin is surprisingly stiff.** Radar data show that the ice crystals in the shear margin are already strongly aligned at about 24 m depth. This kind of crystal fabric makes the firn resist compaction.
-* **Firn changes character as it densifies.** The way firn deforms does not change smoothly with density, but shifts at a few points, which we interpret as transitions between different deformation mechanisms.
+To use this, we built a firn model on the porous-ice rheology of Gagliardini and Meyssonnier (1997), which treats firn as a compressible power-law material that converges to Glen's flow law as it approaches ice density. Given horizontal strain rates from satellite velocities, the vertical strain rate follows from a cubic equation with a closed-form solution, so the rheology drops straight into existing 1D firn models. We then inverted both profiles for the density-dependent shear enhancement *a(ρ)* and compressibility *b(ρ)*, using both a steady-state model and a Lagrangian flowline model that follows each layer along its back-trajectory.
 
-The take-home message is that no single flow law describes firn all the way from snow to ice. The fitted parameters are best seen as effective values, and the mismatch tells us where the physics is still missing.
+### What the two cores tell us
 
-### Implications for ice cores
+The reassuring result first: the total densification response is tightly constrained, and it agrees well with the classic Herron–Langway model. The steady-state and flowline inversions also agree at large scales. The less comfortable result is that even with two contrasting sites, the split between volumetric compaction and shear is poorly identifiable. The combination that governs vertical strain is pinned down; the individual rheological parameters are not.
 
-Because shear directly changes densification rates, changes in ice flow can affect the close-off depth and the gas-age–ice-age difference (Δage), even with no change in climate. In an idealized experiment where a site switches from high to low shear, the close-off depth deepens by about 24 m and Δage changes by roughly 200 years. Through gravitational fractionation, a 20 m shift in close-off depth corresponds to about 0.1 ‰ in δ¹⁵N, which would be read as a 3–5 K temperature change if interpreted purely climatically.
+Beyond that, the inferred rheology looks quite different from standard formulations. The top few meters compact far faster than commonly used rheologies predict, which points to a deformation mechanism the usual flow law leaves out. Deep firn in the shear margin, on the other hand, is surprisingly stiff. Radar data show that the crystal fabric there is already strongly aligned at about 24 m depth, and that fabric resists compaction. We also find reduced viscous Poisson ratios, and a rheology that doesn't evolve smoothly with density but shifts at a few points, which we interpret as transitions between deformation mechanisms.
 
-Ice-flow reorganisations have happened in the past, such as the Holocene shutdown of a paleo ice stream in northeast Greenland. Firn-derived proxies may therefore contain a dynamical component, which matters for gas-based chronologies and for comparing the timing of climate events between hemispheres.
+Taken together, this can't be described by a single power-law rheology. It needs several mechanisms acting together, including grain-size-dependent creep and evolving anisotropy. The fitted parameters are best read as effective values, and where the model struggles is a pointer to where the physics is still missing.
 
-### A practical bonus
+### When ice flow looks like climate
 
-The paper also includes an analytical approximation for the effective annual rate factor under seasonal temperature cycles. Because of the nonlinear Arrhenius dependence, evaluating the rate factor at the mean annual temperature underestimates densification, which is a common shortcut in steady-state firn models.
+This is where it matters beyond firn modelling. If shear changes densification rates, then changes in ice flow change the close-off depth and Δage, with no change in climate at all. In an idealized experiment where a site switches from high to low shear, the close-off depth deepens by about 24 m and Δage changes by roughly 200 years. Through gravitational fractionation, a 20 m shift in close-off depth corresponds to about 0.1 ‰ in δ¹⁵N, which would be read as a 3–5 K temperature change if interpreted purely climatically.
 
-Code and data are available on [GitHub](https://github.com/grinsted/grinsted_firn_model-publication-package).
+Ice-flow reorganisations have happened, such as the Holocene shutdown of a paleo ice stream in northeast Greenland. Firn-derived gas proxies may therefore carry a dynamical component, which matters for gas-based chronologies and for comparing the timing of climate events between the hemispheres.
+
+### A small bonus
+
+The paper also includes an analytical approximation for the effective annual rate factor under a seasonal temperature cycle. Because of the nonlinear Arrhenius dependence, evaluating the rate factor at the mean annual temperature underestimates densification, a common shortcut in steady-state firn models that's easy to fix.
+
+### Read more
+
+The preprint is on [EGUsphere](https://doi.org/10.5194/egusphere-2026-3464), and the code and data are on [GitHub](https://github.com/grinsted/grinsted_firn_model-publication-package). Comments and questions are very welcome.
+
+
 
 ### Abstract
 
