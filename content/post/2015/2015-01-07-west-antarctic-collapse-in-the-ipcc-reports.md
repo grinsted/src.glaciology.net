@@ -2,7 +2,7 @@
 title: West Antarctic collapse in the IPCC reports
 date: 2015-01-07 23:36:00+00:00
 author: aslak
-banner: /post/2015/farcover.png
+banner: /post/2015/farcover.webp
 tags:
 - commitment
 - IPCC

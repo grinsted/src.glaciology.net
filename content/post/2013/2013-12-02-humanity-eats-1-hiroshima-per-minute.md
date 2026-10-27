@@ -2,7 +2,7 @@
 title: Humanity eats 1 Hiroshima per minute!
 date: 2013-12-02 04:02:00+00:00
 author: aslak
-banner: /post/2013/bigmac.png
+banner: /post/2013/bigmac.webp
 tags:
 - comparisons
 - units

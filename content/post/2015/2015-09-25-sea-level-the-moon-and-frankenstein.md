@@ -2,7 +2,7 @@
 title: Sea level, the moon, and Frankenstein
 date: 2015-09-25 05:23:00+00:00
 author: aslak
-banner: /post/2015/frankenstein2016.png
+banner: /post/2015/frankenstein2016.webp
 tags:
 - cyclomania
 - moon
