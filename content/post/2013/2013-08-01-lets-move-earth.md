@@ -7,7 +7,6 @@ tags:
 - geoengineering
 aliases:
 - /2013/08/01/lets-move-earth/
-- /2012/06/24/cold-and-warm-extremes-in-a-warmer-world/
 ---
 
 ... away from the sun.

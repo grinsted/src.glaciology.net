@@ -12,7 +12,6 @@ tags:
 - volume
 aliases:
 - /2013/06/07/estimating-global-glacier-volume/
-- /Home/PDFs/Announcements/anestimateofglobalglaciervolume
 ---
 
 I have recently written a [paper](/Home/PDFs/Announcements/anestimateofglobalglaciervolume) where I estimate global glacier volume to be 35 cm using a statistical approach .  <!--more--> The statistical approach i use is a refinement of volume-area scaling where I include additional predictors of volume. These are elevation range (R), glacier length (L), and Continentality (C). The statistical approach I use is simply multiple linear regression in log space. I thus fit relationships of the form: V=k\_A<sup>γ1</sup>\_R<sup>γ2</sup>\_L<sup>γ3</sup>\_C<sup>γ4</sup>.
