@@ -39,6 +39,8 @@ Every model has significant biases, but they look very different. HIRHAM is bias
 
 The south dominates the net bias in all models, in the south-east for HIRHAM and MAR and in the south-west for RACMO and CARRA. That's no surprise to anyone who has looked at orographic precipitation along the south-east margin, but the dense radar coverage lets us quantify it in places earlier ice-core-based evaluations couldn't reach.
 
+{{< figure src="biasmap.webp" caption="Mean accumulation bias of HIRHAM, MAR, RACMO and CARRA, shown as the original model minus the bias-adjusted field (mm per year). Red means the model accumulates too much snow, blue too little." >}}
+
 After adjustment, the models converge where the data are dense. In the accumulation zone, inter-model spread in mean accumulation drops by 68 %, with MAR, RACMO and CARRA landing within a few mm per year of each other at around 390 mm w.e. per year. In the sparsely sampled ablation zone the opposite happens, and the spread grows. The correction can only be as good as the observations behind it.
 
 Both the original and adjusted fields show a striking east-west contrast in trends and temperature sensitivity: positive in the east, negative in much of the west, with the strongest trends in the south-east.
